@@ -52302,6 +52302,7846 @@
     "semantic_field": "qualities",
     "register": "formal"
 },
+"durbhaga": {
+    "primary": "unfortunate, unlucky",
+    "senses": {
+        "negative": "unfortunate",
+        "karmic": "having bad fortune",
+        "state": "in a wretched state"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"durbhikkha": {
+    "primary": "famine, scarcity of food",
+    "senses": {
+        "calamitous": "a famine",
+        "economic": "a time of scarcity",
+        "monastic": "a time when alms are hard to get"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"durita": {
+    "primary": "badly gone, wrongdoing, sin",
+    "senses": {
+        "ethical": "wrongdoing or sin",
+        "karmic": "demerit",
+        "negative": "a bad action"
+    },
+    "semantic_field": "ethics",
+    "register": "common"
+},
+"duttara": {
+    "primary": "difficult to cross",
+    "senses": {
+        "qualitative": "difficult to cross",
+        "metaphorical": "the flood of samsara is difficult to cross",
+        "challenging": "a difficult obstacle"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"duve": {
+    "primary": "two",
+    "senses": {
+        "numerical": "the number two",
+        "quantitative": "two",
+        "cardinal": "cardinal number"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"dvādasa": {
+    "primary": "twelve",
+    "senses": {
+        "numerical": "the number twelve",
+        "quantitative": "twelve",
+        "cardinal": "cardinal number"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"dvattiṃsa": {
+    "primary": "thirty-two",
+    "senses": {
+        "numerical": "the number thirty-two",
+        "anatomical": "the 32 parts of the body",
+        "symbolic": "the 32 marks of a great man"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"dvi-jivha": {
+    "primary": "two-tongued, a snake, a slanderer",
+    "senses": {
+        "zoological": "a snake",
+        "pejorative": "a deceitful or slanderous person",
+        "descriptive": "having two tongues"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"dvīpa": {
+    "primary": "island, continent",
+    "senses": {
+        "geographical": "an island",
+        "cosmological": "a continent (in Buddhist cosmology)",
+        "metaphorical": "a refuge (dīpa)"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"edha": {
+    "primary": "firewood",
+    "senses": {
+        "material": "firewood",
+        "fuel": "fuel for a fire",
+        "natural": "wood"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"eka-bījin": {
+    "primary": "'one-seeder', a type of Once-returner",
+    "senses": {
+        "soteriological": "a Once-returner who will be reborn only one more time in the human world",
+        "progressive": "a stage of spiritual attainment",
+        "technical": "a specific type of sakadagami"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"eka-cārin": {
+    "primary": "living alone, solitary",
+    "senses": {
+        "behavioral": "one who lives a solitary life",
+        "ascetic": "a solitary ascetic",
+        "metaphorical": "like a rhinoceros"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"eka-citta-kkhaṇa": {
+    "primary": "the duration of one mind-moment",
+    "senses": {
+        "temporal": "an extremely short unit of time",
+        "philosophical": "the duration of a single moment of consciousness",
+        "technical": "a fundamental unit in Abhidhamma"
+    },
+    "semantic_field": "time",
+    "register": "technical"
+},
+"ekaṃsa": {
+    "primary": "one-shoulder, certain, definite",
+    "senses": {
+        "monastic": "arranging one's robe over one shoulder",
+        "qualitative": "definite or certain",
+        "adverbial": "categorically"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"ekāsanika": {
+    "primary": "one who eats in one sitting",
+    "senses": {
+        "ascetic": "the practice of eating one's daily meal in a single sitting",
+        "disciplinary": "a dhutanga practice",
+        "behavioral": "one who follows this practice"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"ekatta": {
+    "primary": "unity, solitude, agreement",
+    "senses": {
+        "psychological": "unity of mind",
+        "social": "solitude or agreement",
+        "state": "oneness"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"ekāyana": {
+    "primary": "the direct path, the only way",
+    "senses": {
+        "soteriological": "the direct path (to Nibbana)",
+        "exclusive": "the one and only way",
+        "didactic": "a term for the Satipatthana"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
+"eki": {
+    "primary": "some, certain",
+    "senses": {
+        "indefinite": "some",
+        "quantitative": "a certain one",
+        "pronominal": "indefinite pronoun"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"elā": {
+    "primary": "saliva, cardamom",
+    "senses": {
+        "physiological": "saliva",
+        "botanical": "the cardamom plant or its seeds",
+        "culinary": "a spice"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"eḷaka": {
+    "primary": "a wild goat, a ram",
+    "senses": {
+        "zoological": "a wild goat",
+        "animal": "a ram",
+        "sacrificial": "an animal used in sacrifice"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"eṇa": {
+    "primary": "a kind of black antelope",
+    "senses": {
+        "zoological": "a black antelope",
+        "animal": "a deer",
+        "swift": "a symbol of swiftness"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"eṇī": {
+    "primary": "a female antelope",
+    "senses": {
+        "zoological": "a doe",
+        "animal": "a female deer",
+        "graceful": "a symbol of grace"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"eraka": {
+    "primary": "a type of grass (used for mats)",
+    "senses": {
+        "botanical": "a species of grass",
+        "material": "used for making mats",
+        "natural": "a plant"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"erita": {
+    "primary": "moved, shaken, uttered",
+    "senses": {
+        "motional": "moved or shaken",
+        "verbal": "uttered or spoken",
+        "past_participle": "past participle of 'ereti'"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"esāna": {
+    "primary": "seeking, searching",
+    "senses": {
+        "action": "the act of seeking",
+        "investigative": "searching",
+        "volitional": "a quest"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"esin": {
+    "primary": "seeking, striving for",
+    "senses": {
+        "agent": "one who seeks",
+        "volitional": "striving for a goal",
+        "descriptive": "seeking"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"ettaka": {
+    "primary": "so much, so many",
+    "senses": {
+        "quantitative": "so much",
+        "demonstrative": "this much",
+        "qualitative": "to such an extent"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"evaṃ-gata": {
+    "primary": "gone thus, in such a state",
+    "senses": {
+        "descriptive": "being in such a condition",
+        "existential": "one who has reached such a state",
+        "referential": "in this way"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"evaṃ-vidha": {
+    "primary": "of such a kind, such-like",
+    "senses": {
+        "descriptive": "of this kind",
+        "qualitative": "of such a nature",
+        "comparative": "such as this"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"gabbhinī": {
+    "primary": "a pregnant woman or female animal",
+    "senses": {
+        "biological": "pregnant",
+        "state": "in a state of pregnancy",
+        "social": "an expectant mother"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"gadrabha": {
+    "primary": "an ass, a donkey",
+    "senses": {
+        "zoological": "a donkey",
+        "animal": "a beast of burden",
+        "symbolic": "a symbol of foolishness"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"gahapati-mahāsāla": {
+    "primary": "a great householder, a wealthy layman",
+    "senses": {
+        "social": "a householder of great wealth and influence",
+        "economic": "a very rich layman",
+        "hierarchical": "a leading member of the householder class"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"gambhīra-pañña": {
+    "primary": "of profound wisdom",
+    "senses": {
+        "cognitive": "possessing deep wisdom",
+        "praiseworthy": "an epithet of a wise person",
+        "intellectual": "having profound understanding"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"gamikavatta": {
+    "primary": "duties towards a departing monk",
+    "senses": {
+        "monastic": "the proper conduct for monks towards one who is leaving",
+        "social": "etiquette for departures",
+        "disciplinary": "a set of rules in the Vinaya"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"gaṇa-bhojana": {
+    "primary": "a group meal, eating in a group",
+    "senses": {
+        "monastic": "a meal taken by a group of four or more monks, a specific offense",
+        "social": "eating in a group",
+        "action": "a communal meal"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"ganda-mūla": {
+    "primary": "the root of a boil, the cause of trouble",
+    "senses": {
+        "medical": "the root or core of a boil",
+        "metaphorical": "the root cause of a problem",
+        "causal": "the origin of trouble"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"gandha-pañcaṅgulika": {
+    "primary": "a hand-print made with perfumes",
+    "senses": {
+        "cultural": "a ceremonial hand-print made with sandalwood paste",
+        "ritual": "a mark of honor or blessing",
+        "decorative": "an ornamental mark"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"gandha-bbha": {
+    "primary": "a being in the intermediate state",
+    "senses": {
+        "soteriological": "the being that seeks a womb for rebirth",
+        "processual": "the intermediate existence between death and conception",
+        "subtle": "a subtle, ethereal being"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"ganthipāsa": {
+    "primary": "a knotted noose, a pickpocket",
+    "senses": {
+        "instrumental": "a noose with a knot",
+        "social": "a cut-purse or pickpocket",
+        "criminal": "a thief"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"gārayha": {
+    "primary": "contemptible, blameworthy",
+    "senses": {
+        "ethical": "blameworthy",
+        "negative": "contemptible",
+        "social": "deserving of censure"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"gathita": {
+    "primary": "tied, bound, greedy",
+    "senses": {
+        "physical": "tied or bound",
+        "psychological": "bound by greed, greedy",
+        "negative": "fettered"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"gatta": {
+    "primary": "the body, a limb",
+    "senses": {
+        "anatomical": "the body or a limb",
+        "physical": "the corporeal form",
+        "general": "the person"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"gāvo": {
+    "primary": "cows, cattle (plural)",
+    "senses": {
+        "zoological": "plural of 'go'",
+        "collective": "cattle",
+        "agricultural": "livestock"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"gāyanā": {
+    "primary": "singing",
+    "senses": {
+        "action": "the act of singing",
+        "musical": "vocal music",
+        "performative": "a performance"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"gāyika": {
+    "primary": "a singer",
+    "senses": {
+        "professional": "a singer",
+        "artistic": "a vocalist",
+        "agent": "one who sings"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"gedha": {
+    "primary": "greed, craving",
+    "senses": {
+        "psychological": "intense greed",
+        "negative": "avarice",
+        "desirous": "strong craving"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"gelañña": {
+    "primary": "sickness, illness",
+    "senses": {
+        "medical": "sickness",
+        "state": "a state of illness",
+        "suffering": "an affliction"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"geha": {
+    "primary": "house, home, dwelling",
+    "senses": {
+        "architectural": "a house",
+        "social": "a home",
+        "spatial": "a dwelling place"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"geha-sita": {
+    "primary": "related to the household life, worldly",
+    "senses": {
+        "psychological": "attachment to the home life",
+        "worldly": "worldly concerns",
+        "negative": "a form of clinging"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"geruka": {
+    "primary": "red ochre",
+    "senses": {
+        "material": "red ochre",
+        "pigment": "a red coloring agent",
+        "geological": "a type of earth"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"giddha": {
+    "primary": "greedy, vulture",
+    "senses": {
+        "dispositional": "greedy",
+        "zoological": "a vulture",
+        "negative": "avaricious"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"giddhi": {
+    "primary": "greed, desire",
+    "senses": {
+        "psychological": "greed",
+        "negative": "strong desire",
+        "craving": "avarice"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"gilāna-paccaya": {
+    "primary": "requisites for the sick",
+    "senses": {
+        "monastic": "medicines and other requisites allowable for a sick monk",
+        "medical": "support for the ill",
+        "supportive": "provisions for the sick"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"gīta": {
+    "primary": "song, singing",
+    "senses": {
+        "musical": "a song",
+        "action": "singing",
+        "artistic": "a musical composition"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"gīva": {
+    "primary": "the neck",
+    "senses": {
+        "anatomical": "the neck",
+        "physical": "a body part",
+        "descriptive": "the neck"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"gocara": {
+    "primary": "pasture, sense-field, resort",
+    "senses": {
+        "environmental": "a pasture",
+        "psychological": "the field of a sense organ",
+        "monastic": "a monk's alms-round village"
+    },
+    "semantic_field": "space",
+    "register": "technical"
+},
+"gopaka": {
+    "primary": "guardian, herdsman",
+    "senses": {
+        "agent": "a guardian or protector",
+        "professional": "a cowherd",
+        "social": "a watchman"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"gopānasī": {
+    "primary": "a curved roof-rafter",
+    "senses": {
+        "architectural": "a rafter, especially a curved one",
+        "structural": "a roof support",
+        "material": "a part of a building"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"gopikā": {
+    "primary": "a cowherd woman",
+    "senses": {
+        "social": "a female cowherd",
+        "professional": "a dairymaid",
+        "gendered": "a female of that profession"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"gotra": {
+    "primary": "clan, lineage",
+    "senses": {
+        "social": "a clan",
+        "genealogical": "lineage",
+        "identifying": "a family name"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"guda": {
+    "primary": "the anus",
+    "senses": {
+        "anatomical": "the anus",
+        "physiological": "the end of the digestive tract",
+        "physical": "a body part"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"gula": {
+    "primary": "sugar, molasses, a ball",
+    "senses": {
+        "material": "molasses or raw sugar",
+        "culinary": "a sweet substance",
+        "geometric": "a ball or globe"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"guṇa-vanta": {
+    "primary": "virtuous, possessed of good qualities",
+    "senses": {
+        "ethical": "virtuous",
+        "positive": "possessing good qualities",
+        "praiseworthy": "a person of good character"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"gūtha-pāṇaka": {
+    "primary": "an insect living in excrement, a dung beetle",
+    "senses": {
+        "zoological": "a dung beetle or similar insect",
+        "descriptive": "an animal that lives in filth",
+        "pejorative": "a term of contempt"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"gutta": {
+    "primary": "guarded, protected",
+    "senses": {
+        "state": "guarded or protected",
+        "psychological": "with guarded senses",
+        "safe": "kept safe"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"hāni": {
+    "primary": "decrease, loss, decay",
+    "senses": {
+        "negative": "decrease or loss",
+        "processual": "decay",
+        "suffering": "a falling away"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"hāpaniya": {
+    "primary": "that which should be reduced or removed",
+    "senses": {
+        "potential": "requiring reduction",
+        "negative": "something to be removed",
+        "ethical": "a fault to be diminished"
+    },
+    "semantic_field": "qualities",
+    "register": "formal"
+},
+"hāsa": {
+    "primary": "laughter, joy",
+    "senses": {
+        "emotional": "laughter or joy",
+        "expressive": "mirth",
+        "social": "amusement"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"hassakara": {
+    "primary": "causing laughter, amusing",
+    "senses": {
+        "qualitative": "amusing",
+        "causal": "causing laughter",
+        "positive": "jovial"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"hata-vakāsa": {
+    "primary": "with opportunity destroyed, ruined",
+    "senses": {
+        "negative": "having lost one's opportunity",
+        "ruined": "in a ruined state",
+        "final": "without any chance"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"hatthin": {
+    "primary": "an elephant",
+    "senses": {
+        "zoological": "an elephant",
+        "animal": "a large mammal",
+        "powerful": "a symbol of strength"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"hatthikanta": {
+    "primary": "a kind of lute, elephant's tusk",
+    "senses": {
+        "musical": "a type of lute",
+        "material": "ivory",
+        "dual": "a word with two meanings"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"hatthi-damma": {
+    "primary": "an untamed elephant, one to be trained",
+    "senses": {
+        "zoological": "a wild elephant to be tamed",
+        "metaphorical": "an untrained person",
+        "potential": "having the potential to be trained"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"hatthi-pāda": {
+    "primary": "the foot of an elephant, the base of a pillar",
+    "senses": {
+        "zoological": "an elephant's foot",
+        "architectural": "the base of a large pillar",
+        "supportive": "a large foundation"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"hatthi-sala": {
+    "primary": "an elephant stable",
+    "senses": {
+        "architectural": "a stable for elephants",
+        "functional": "a place to keep elephants",
+        "spatial": "an enclosure"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"hāyana": {
+    "primary": "a year, diminishing, loss",
+    "senses": {
+        "temporal": "a year",
+        "negative": "loss or decay",
+        "processual": "diminishing"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"hima-vanta": {
+    "primary": "the Himalayas, snowy",
+    "senses": {
+        "geographical": "the Himalaya mountains",
+        "qualitative": "snowy",
+        "mythological": "a sacred region"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"hīnādhimutta": {
+    "primary": "inclined to what is low, of base inclinations",
+    "senses": {
+        "dispositional": "having a low or base character",
+        "negative": "inclined to what is inferior",
+        "ethical": "a person of low moral standards"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"hīno": {
+    "primary": "without, deprived of, less",
+    "senses": {
+        "negative": "deprived of",
+        "comparative": "less than",
+        "lacking": "without"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"hirī": {
+    "primary": "moral shame, conscience",
+    "senses": {
+        "ethical": "an inner sense of shame at wrongdoing",
+        "psychological": "conscience",
+        "protective": "a wholesome state that guards against evil"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"hirimana": {
+    "primary": "conscientious, having moral shame",
+    "senses": {
+        "dispositional": "one who has a sense of moral shame",
+        "ethical": "conscientious",
+        "positive": "a virtuous person"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"hita": {
+    "primary": "benefit, welfare, good",
+    "senses": {
+        "positive": "benefit or welfare",
+        "ethical": "what is good or advantageous",
+        "supportive": "helpful"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"hitakara": {
+    "primary": "a benefactor, one who does good",
+    "senses": {
+        "agent": "one who acts for the welfare of others",
+        "social": "a benefactor",
+        "positive": "a helpful person"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"hitesin": {
+    "primary": "seeking another's welfare, benevolent",
+    "senses": {
+        "dispositional": "one who desires the good of others",
+        "benevolent": "wishing for welfare",
+        "positive": "a kind person"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"homa-juhana": {
+    "primary": "fire-sacrifice",
+    "senses": {
+        "ritual": "a fire-sacrifice",
+        "brahmanical": "a Vedic ritual",
+        "religious": "an offering to fire"
+    },
+    "semantic_field": "action",
+    "register": "sacred"
+},
+"honti": {
+    "primary": "they are, they become",
+    "senses": {
+        "verbal": "3rd person plural of 'bhavati'",
+        "existential": "they are",
+        "processual": "they become"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"huraṃ": {
+    "primary": "in the next world, in another place",
+    "senses": {
+        "soteriological": "in the next life",
+        "spatial": "in another place",
+        "temporal": "in the future"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"hutasisa": {
+    "primary": "fire ('remains of the offering')",
+    "senses": {
+        "poetic": "a name for fire",
+        "elemental": "fire",
+        "ritual": "the consumer of offerings"
+    },
+    "semantic_field": "nature",
+    "register": "formal"
+},
+"huveyya": {
+    "primary": "it might be, it would be",
+    "senses": {
+        "grammatical": "optative of 'bhavati'",
+        "potential": "it might be",
+        "hypothetical": "it would be"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"iccha-pakata": {
+    "primary": "filled with desire, greedy",
+    "senses": {
+        "dispositional": "greedy",
+        "negative": "full of desire",
+        "psychological": "a person ruled by longing"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"icchita": {
+    "primary": "wished for, desired",
+    "senses": {
+        "volitional": "that which is desired",
+        "past_participle": "wished for",
+        "positive": "a desired object"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"iddha": {
+    "primary": "prosperous, powerful",
+    "senses": {
+        "economic": "prosperous",
+        "qualitative": "powerful",
+        "positive": "successful"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"iddhi-vikubbanā": {
+    "primary": "a display of psychic power, a miracle",
+    "senses": {
+        "supernatural": "a magical transformation or display",
+        "performative": "a demonstration of psychic power",
+        "spiritual": "an act of iddhi"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"iha-loka": {
+    "primary": "this world, the present life",
+    "senses": {
+        "existential": "this present existence",
+        "temporal": "this life",
+        "cosmological": "the human world"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"iṇa-mokkha": {
+    "primary": "release from debt",
+    "senses": {
+        "economic": "freedom from debt",
+        "positive": "a state of being free from obligation",
+        "social": "release from debt"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"iñjita": {
+    "primary": "movement, trembling, agitation",
+    "senses": {
+        "physical": "movement",
+        "psychological": "mental agitation",
+        "negative": "unsteadiness"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"iriyā-patha": {
+    "primary": "the four postures (walking, standing, etc.)",
+    "senses": {
+        "physiological": "the four modes of bodily deportment",
+        "meditative": "an object of mindfulness",
+        "behavioral": "bodily posture"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"isi-vāta": {
+    "primary": "a wind caused by the power of a sage",
+    "senses": {
+        "mythological": "a magical wind",
+        "supernatural": "a wind generated by psychic power",
+        "narrative": "a literary motif"
+    },
+    "semantic_field": "nature",
+    "register": "sacred"
+},
+"issara-jana": {
+    "primary": "influential people, the ruling class",
+    "senses": {
+        "social": "people of power and influence",
+        "hierarchical": "the elite",
+        "collective": "the authorities"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"itara-itara": {
+    "primary": "whatever, various, sundry",
+    "senses": {
+        "indefinite": "whatever",
+        "miscellaneous": "various or sundry things",
+        "general": "of all sorts"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"iti": {
+    "primary": "thus (a particle marking the end of a quotation)",
+    "senses": {
+        "grammatical": "a particle indicating direct speech or thought",
+        "conclusive": "thus it is",
+        "literary": "used to end quotes"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"itihāsa": {
+    "primary": "history, tradition",
+    "senses": {
+        "literary": "traditional history",
+        "historical": "legend",
+        "cultural": "tradition"
+    },
+    "semantic_field": "time",
+    "register": "formal"
+},
+"ito-paṭṭhāya": {
+    "primary": "from now on, henceforth",
+    "senses": {
+        "temporal": "from this time forward",
+        "adverbial": "henceforth",
+        "initiating": "beginning from now"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"jaccā": {
+    "primary": "by birth, by nature",
+    "senses": {
+        "causal": "by reason of birth",
+        "innate": "by nature",
+        "social": "by caste"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"jagati-ruha": {
+    "primary": "a tree ('earth-grown')",
+    "senses": {
+        "botanical": "a tree",
+        "poetic": "a descriptive name",
+        "natural": "something grown from the earth"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"jaha": {
+    "primary": "leaving, abandoning",
+    "senses": {
+        "action": "the act of leaving",
+        "renunciatory": "abandoning",
+        "negative": "forsaking"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"jalādhāra": {
+    "primary": "a reservoir, a lake, a cloud",
+    "senses": {
+        "environmental": "a reservoir or lake",
+        "meteorological": "a rain cloud ('water-holder')",
+        "receptacle": "a container of water"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"jalālaya": {
+    "primary": "a lake, a pond",
+    "senses": {
+        "geographical": "a lake",
+        "environmental": "a pond or reservoir",
+        "natural": "a body of water"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"jālinī": {
+    "primary": "a snare, deceit, desire",
+    "senses": {
+        "instrumental": "a snare or net",
+        "metaphorical": "the snare of desire",
+        "negative": "deceit"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"jambonada": {
+    "primary": "a type of pure gold",
+    "senses": {
+        "material": "gold from the Jambu river",
+        "qualitative": "the finest gold",
+        "valuable": "a precious metal"
+    },
+    "semantic_field": "nature",
+    "register": "formal"
+},
+"jana-pada-kalyāṇī": {
+    "primary": "the most beautiful girl in the country, the belle of the land",
+    "senses": {
+        "social": "the most beautiful woman in a region",
+        "aesthetic": "a standard of beauty",
+        "literary": "a stock character in stories"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"jānana": {
+    "primary": "knowing, knowledge, awareness",
+    "senses": {
+        "cognitive": "the act of knowing",
+        "state": "knowledge",
+        "psychological": "awareness"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"janatā": {
+    "primary": "people, mankind, a group of people",
+    "senses": {
+        "collective": "a group of people",
+        "social": "people in general",
+        "demographic": "mankind"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"janikā-mātā": {
+    "primary": "one's own mother, the birth mother",
+    "senses": {
+        "familial": "one's biological mother",
+        "relational": "the mother who gave birth",
+        "specific": "distinguished from a step-mother, etc."
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"jannu-matta": {
+    "primary": "knee-deep",
+    "senses": {
+        "measurement": "as deep as the knees",
+        "descriptive": "knee-deep (of water, etc.)",
+        "qualitative": "a specific depth"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"jāpeti": {
+    "primary": "causes to mutter, deceives",
+    "senses": {
+        "causative": "to make someone mutter",
+        "negative": "to deceive or cheat",
+        "action": "to entice"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"jara-jīna": {
+    "primary": "worn out by old age, decrepit",
+    "senses": {
+        "descriptive": "decrepit with age",
+        "physical": "worn out",
+        "negative": "in a state of decay"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"jāta-rūpa-rajata": {
+    "primary": "gold and silver, money",
+    "senses": {
+        "collective": "gold and silver",
+        "economic": "money or currency",
+        "monastic": "something a monk is forbidden to accept"
+    },
+    "semantic_field": "nature",
+    "register": "formal"
+},
+"jātarūpa": {
+    "primary": "gold",
+    "senses": {
+        "material": "gold",
+        "valuable": "a precious metal",
+        "aesthetic": "of a beautiful form"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"jāti-khetta": {
+    "primary": "birthplace, field of birth",
+    "senses": {
+        "geographical": "one's native land",
+        "social": "the sphere of one's birth",
+        "personal": "birthplace"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"jāti-mantu": {
+    "primary": "of high birth, well-born",
+    "senses": {
+        "social": "of high birth",
+        "hierarchical": "belonging to a noble family",
+        "qualitative": "of good lineage"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"jāti-sambhava": {
+    "primary": "origin by birth",
+    "senses": {
+        "causal": "originating from birth",
+        "biological": "the process of birth",
+        "philosophical": "the arising of a new existence"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"jāti-ssara": {
+    "primary": "remembering one's former births",
+    "senses": {
+        "psychic": "the ability to recollect past lives",
+        "spiritual": "a sign of spiritual development",
+        "cognitive": "a specific type of memory"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"jātu": {
+    "primary": "ever, at all, surely",
+    "senses": {
+        "temporal": "at any time, ever",
+        "emphatic": "surely, certainly",
+        "adverbial": "a particle"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"java-pañña": {
+    "primary": "of swift wisdom, quick-witted",
+    "senses": {
+        "cognitive": "possessing quick understanding",
+        "intellectual": "quick-witted",
+        "positive": "an intelligent person"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"jāyati": {
+    "primary": "is born, arises",
+    "senses": {
+        "biological": "to be born",
+        "processual": "to arise",
+        "causal": "to be produced"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"jāyanī": {
+    "primary": "a wife",
+    "senses": {
+        "social": "a wife",
+        "familial": "a spouse",
+        "relational": "a married woman"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"jāyā-pati": {
+    "primary": "husband and wife, a couple",
+    "senses": {
+        "social": "a married couple",
+        "familial": "husband and wife",
+        "collective": "a pair"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"je": {
+    "primary": "a vocative particle ('my lady', 'madam')",
+    "senses": {
+        "social": "a respectful form of address to a woman",
+        "vocative": "vocative particle",
+        "formal": "madam"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"jeguccha": {
+    "primary": "disgusting, loathsome",
+    "senses": {
+        "qualitative": "disgusting",
+        "aversive": "loathsome",
+        "negative": "repulsive"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"jetthaka": {
+    "primary": "the eldest, chief, a foreman",
+    "senses": {
+        "hierarchical": "the eldest or chief",
+        "professional": "a foreman",
+        "social": "a leader"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"jigimsati": {
+    "primary": "desires to take, wishes to conquer",
+    "senses": {
+        "desiderative": "to wish to take or conquer",
+        "volitional": "desiring victory",
+        "aggressive": "wanting to defeat"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"jighaṃsati": {
+    "primary": "desires to kill",
+    "senses": {
+        "desiderative": "wishing to kill",
+        "negative": "having a murderous intent",
+        "hostile": "wanting to destroy"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"jina-cakka": {
+    "primary": "the wheel of the conqueror, the domain of the Buddha's teaching",
+    "senses": {
+        "symbolic": "the sphere of influence of the Buddha's doctrine",
+        "soteriological": "the 'wheel' of the teaching",
+        "cosmological": "the Buddha's domain"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
+"jina-putta": {
+    "primary": "a son of the conqueror, a disciple",
+    "senses": {
+        "religious": "a disciple of the Buddha",
+        "monastic": "a Buddhist monk",
+        "praiseworthy": "a 'son' of the Buddha"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"jīraṇa-tā": {
+    "primary": "the state of decay, old age",
+    "senses": {
+        "processual": "the state of decaying",
+        "temporal": "old age",
+        "negative": "decrepitude"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"jīva": {
+    "primary": "life, the soul",
+    "senses": {
+        "biological": "life",
+        "philosophical": "the soul or life-principle (a view rejected in Buddhism)",
+        "existential": "the state of being alive"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"jivha-viññāṇa": {
+    "primary": "tongue-consciousness, taste-consciousness",
+    "senses": {
+        "psychological": "the consciousness that arises dependent on the tongue and a taste",
+        "analytical": "a specific type of resultant consciousness",
+        "sensory": "the act of tasting"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"jīvikaṃ kappeti": {
+    "primary": "makes a living, earns one's livelihood",
+    "senses": {
+        "action": "to make one's living",
+        "economic": "to earn a livelihood",
+        "processual": "to support oneself"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"jīvita-kkhaya": {
+    "primary": "the destruction of life, death",
+    "senses": {
+        "final": "the end of life",
+        "processual": "the exhaustion of the life-span",
+        "existential": "death"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"jīvitindriya": {
+    "primary": "the life-faculty",
+    "senses": {
+        "philosophical": "the faculty that maintains the life of physical and mental phenomena",
+        "analytical": "one of the 22 faculties",
+        "vital": "the principle of vitality"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"joṇhā": {
+    "primary": "moonlight",
+    "senses": {
+        "natural": "moonlight",
+        "luminous": "the light of the moon",
+        "temporal": "a moonlit night"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"joti-pāsāṇa": {
+    "primary": "a sun-stone, a crystal that produces fire",
+    "senses": {
+        "material": "a burning-glass or crystal",
+        "instrumental": "a tool for making fire",
+        "mythological": "a gem with fiery properties"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"juhitu-kāma": {
+    "primary": "desiring to sacrifice",
+    "senses": {
+        "volitional": "wishing to make a sacrifice",
+        "ritual": "wanting to perform an offering",
+        "religious": "having a desire for ritual"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"juti-ndhara": {
+    "primary": "bearing splendor, glorious",
+    "senses": {
+        "qualitative": "glorious",
+        "praiseworthy": "possessing radiance",
+        "descriptive": "resplendent"
+    },
+    "semantic_field": "qualities",
+    "register": "formal"
+},
+"ka-cudi": {
+    "primary": "any, some, anyone",
+    "senses": {
+        "indefinite": "any",
+        "pronominal": "indefinite pronoun",
+        "quantitative": "some"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"kāka-peyya": {
+    "primary": "drinkable by a crow (i.e., full to the brim)",
+    "senses": {
+        "descriptive": "a river that is full to the brim",
+        "quantitative": "full",
+        "environmental": "a river in flood"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kāka-sūra": {
+    "primary": "a 'crow-hero', a coward, an impudent person",
+    "senses": {
+        "pejorative": "a term of contempt for a cowardly but boastful person",
+        "social": "a braggart",
+        "negative": "an impudent fellow"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kakhāḷa": {
+    "primary": "harsh, rough, a kind of bird",
+    "senses": {
+        "qualitative": "harsh or rough",
+        "zoological": "a species of bird",
+        "auditory": "a harsh sound"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kakkārī": {
+    "primary": "a cucumber",
+    "senses": {
+        "botanical": "a cucumber",
+        "culinary": "a vegetable",
+        "natural": "a plant"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kakkasa": {
+    "primary": "rough, harsh, cruel",
+    "senses": {
+        "physical": "rough to the touch",
+        "verbal": "harsh in speech",
+        "dispositional": "cruel in nature"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kalāpa": {
+    "primary": "bundle, group",
+    "senses": {
+        "collective": "a bundle or group",
+        "quantitative": "a sheaf",
+        "analytical": "a material group (kalāpa)"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"kaliggaha": {
+    "primary": "the losing throw, misfortune, a demon",
+    "senses": {
+        "gaming": "the losing throw of a die",
+        "negative": "misfortune or sin",
+        "mythological": "a demon personifying the losing throw"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"kalira": {
+    "primary": "the tender shoot of a palm tree, pith",
+    "senses": {
+        "botanical": "the soft, edible part of a palm tree's growing tip",
+        "culinary": "a delicacy",
+        "natural": "a plant part"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kalla-citta": {
+    "primary": "having a ready mind, mentally prepared",
+    "senses": {
+        "psychological": "a mind that is ready and fit for work",
+        "positive": "a well-prepared mental state",
+        "meditative": "a mind ready for meditation"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kallata": {
+    "primary": "readiness, fitness, healthiness",
+    "senses": {
+        "state": "a state of readiness",
+        "physical": "healthiness",
+        "qualitative": "fitness or suitability"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kalmāsa": {
+    "primary": "spotted, variegated, sinful",
+    "senses": {
+        "visual": "spotted or variegated",
+        "ethical": "stained with sin, morally mixed",
+        "descriptive": "of various colors"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kalodaka": {
+    "primary": "water for washing the feet",
+    "senses": {
+        "household": "water set out for washing feet",
+        "ritual": "a part of welcoming a guest",
+        "functional": "water for a specific purpose"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kalyāṇa-mitta": {
+    "primary": "a spiritual friend, a good friend",
+    "senses": {
+        "spiritual": "a good friend who helps one on the spiritual path",
+        "ethical": "a virtuous friend",
+        "supportive": "a noble companion"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"kāmabhava": {
+    "primary": "sensual existence",
+    "senses": {
+        "cosmological": "existence in the sense-sphere realms",
+        "processual": "the process of becoming driven by sensual desire",
+        "analytical": "one of the three types of existence"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"kāmabhogin": {
+    "primary": "one who enjoys sensual pleasures",
+    "senses": {
+        "social": "a layman who enjoys worldly pleasures",
+        "hedonistic": "one who partakes of sensual enjoyment",
+        "descriptive": "enjoying the five senses"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kāma-guṇa": {
+    "primary": "strands of sensual pleasure, sense-objects",
+    "senses": {
+        "analytical": "the five types of sense-objects (sights, sounds, smells, tastes, touches)",
+        "psychological": "the objects that give rise to sensual pleasure",
+        "experiential": "the objects of sensory enjoyment"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāma-rāga": {
+    "primary": "sensual lust",
+    "senses": {
+        "psychological": "lust or craving for sensual pleasures",
+        "soteriological": "one of the lower fetters",
+        "negative": "a powerful defilement"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāma-sukha": {
+    "primary": "sensual happiness, worldly pleasure",
+    "senses": {
+        "experiential": "happiness derived from the five senses",
+        "worldly": "worldly pleasure",
+        "ethical": "an extreme to be avoided by ascetics"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kāma-taṇhā": {
+    "primary": "craving for sensual pleasure",
+    "senses": {
+        "psychological": "the thirst for sensory experiences",
+        "analytical": "one of the three types of craving",
+        "suffering": "a root cause of suffering"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kambugīva": {
+    "primary": "having a conch-like neck (with three folds)",
+    "senses": {
+        "aesthetic": "a mark of beauty, having three lines on the neck",
+        "descriptive": "conch-necked",
+        "symbolic": "one of the minor marks of a great man"
+    },
+    "semantic_field": "body",
+    "register": "formal"
+},
+"kamma-bīja": {
+    "primary": "the seed of karma",
+    "senses": {
+        "philosophical": "karma as the seed that produces a future result",
+        "metaphorical": "the potential for future experience",
+        "causal": "the causal seed of action"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"kamma-kilesa": {
+    "primary": "defilement of action",
+    "senses": {
+        "ethical": "defilement that manifests through action",
+        "analytical": "one of the three types of defilement (action, speech, mind)",
+        "negative": "an unwholesome deed"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"kamma-nimitta": {
+    "primary": "karma-sign (at the time of death)",
+    "senses": {
+        "psychological": "a mental image of a past deed that appears at the moment of death",
+        "karmic": "a sign that indicates the next rebirth",
+        "visionary": "a death-bed vision"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kamma-patha": {
+    "primary": "a course of action",
+    "senses": {
+        "ethical": "the ten wholesome and ten unwholesome courses of action",
+        "analytical": "a classification of karma",
+        "behavioral": "a way of acting"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"kamma-samuṭṭhāna": {
+    "primary": "arising from karma",
+    "senses": {
+        "causal": "originating from past action",
+        "analytical": "one of the four origins of matter",
+        "karmic": "produced by karma"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"kamma-vipāka": {
+    "primary": "the result of karma",
+    "senses": {
+        "karmic": "the fruition or result of an action",
+        "philosophical": "the principle of karmic retribution",
+        "experiential": "the experience of the consequences of past deeds"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"kamma-yoni": {
+    "primary": "having karma as one's origin",
+    "senses": {
+        "philosophical": "the principle that beings are born according to their karma",
+        "causal": "karma as the womb of beings",
+        "ethical": "we are the product of our actions"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"kammāra-gaggarī": {
+    "primary": "a blacksmith's bellows",
+    "senses": {
+        "instrumental": "a bellows used in a forge",
+        "craft": "a tool of a blacksmith",
+        "functional": "a device for blowing air"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kammika": {
+    "primary": "an agent, one who performs an action",
+    "senses": {
+        "agent": "a doer",
+        "professional": "a worker",
+        "relational": "related to work"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kampana": {
+    "primary": "trembling, shaking",
+    "senses": {
+        "physical": "trembling",
+        "emotional": "agitation",
+        "motion": "shaking"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"kamyatā": {
+    "primary": "desire, longing",
+    "senses": {
+        "emotional": "desire",
+        "psychological": "longing",
+        "state": "a state of wanting"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kaṇa-bhakkha": {
+    "primary": "eating rice-bran powder",
+    "senses": {
+        "culinary": "a humble food",
+        "descriptive": "eating simple fare",
+        "economic": "a sign of poverty"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"kaṇājaka": {
+    "primary": "a kind of porridge made of broken rice",
+    "senses": {
+        "culinary": "a rice-gruel",
+        "food": "a simple meal",
+        "household": "a common food"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kaṇavīra": {
+    "primary": "the oleander tree",
+    "senses": {
+        "botanical": "the oleander",
+        "toxic": "a poisonous plant",
+        "aesthetic": "has beautiful flowers"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kaṇeru": {
+    "primary": "a female elephant",
+    "senses": {
+        "zoological": "a female elephant",
+        "animal": "a large mammal",
+        "gendered": "a female"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kaṇikāra": {
+    "primary": "the Pterospermum tree, with yellow flowers",
+    "senses": {
+        "botanical": "a specific tree",
+        "aesthetic": "known for its beautiful flowers",
+        "natural": "a forest tree"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kaṇiṭṭha": {
+    "primary": "the youngest, the younger brother",
+    "senses": {
+        "familial": "the youngest brother",
+        "comparative": "younger",
+        "hierarchical": "the most junior"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kaṇiṭṭhikā": {
+    "primary": "the little finger, the youngest sister",
+    "senses": {
+        "anatomical": "the little finger",
+        "familial": "the youngest sister",
+        "diminutive": "the smallest"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kaṇṇa-jappana": {
+    "primary": "whispering in the ear, slander",
+    "senses": {
+        "verbal": "whispering",
+        "negative": "slander or malicious gossip",
+        "secretive": "secret talk"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"kaṇṇa-mala": {
+    "primary": "ear-wax",
+    "senses": {
+        "physiological": "ear-wax",
+        "impure": "an impure bodily substance",
+        "physical": "a secretion"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kaṇṇikā": {
+    "primary": "the pericarp of a lotus, an eave, a peak",
+    "senses": {
+        "botanical": "the center of a lotus",
+        "architectural": "the eave of a roof or a pinnacle",
+        "ornamental": "an earring"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kaṇṭaka": {
+    "primary": "a thorn, a plague, an obstacle",
+    "senses": {
+        "botanical": "a thorn",
+        "metaphorical": "an obstacle, a nuisance, a 'thorn in the side'",
+        "negative": "a plague or pest"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kaṇṭha": {
+    "primary": "throat, neck",
+    "senses": {
+        "anatomical": "the throat or neck",
+        "functional": "the voice box",
+        "physical": "a body part"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kaṇṭha-nāḷaka": {
+    "primary": "the larynx, the Adam's apple",
+    "senses": {
+        "anatomical": "the larynx",
+        "physiological": "the voice box",
+        "physical": "the protuberance in the neck"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"kapalla": {
+    "primary": "a pan, a bowl",
+    "senses": {
+        "household": "a pan for frying",
+        "culinary": "a cooking utensil",
+        "receptacle": "a bowl"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kapi": {
+    "primary": "monkey",
+    "senses": {
+        "zoological": "a monkey",
+        "symbolic": "a symbol of a restless mind",
+        "animal": "a primate"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kapisīsa": {
+    "primary": "the lintel of a door",
+    "senses": {
+        "architectural": "a door-lintel",
+        "structural": "a supporting beam",
+        "material": "a part of a doorway"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"kapota": {
+    "primary": "a pigeon, a dove",
+    "senses": {
+        "zoological": "a pigeon",
+        "avian": "a bird",
+        "symbolic": "sometimes a symbol of lust"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kāraṇa": {
+    "primary": "cause, reason, means",
+    "senses": {
+        "causal": "a cause",
+        "logical": "a reason",
+        "instrumental": "a means or instrument"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kāraṇika": {
+    "primary": "an investigator, a judge",
+    "senses": {
+        "legal": "a judge or magistrate",
+        "investigative": "an investigator",
+        "professional": "an official"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"karīsa": {
+    "primary": "dung, excrement, a measure of land",
+    "senses": {
+        "material": "dung or excrement",
+        "measurement": "a square measure of land",
+        "agricultural": "manure"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kāruñña": {
+    "primary": "compassion, pity",
+    "senses": {
+        "emotional": "compassion",
+        "ethical": "pity",
+        "positive": "a wholesome state"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kasāva": {
+    "primary": "astringent taste, a stain, impurity, ochre robe",
+    "senses": {
+        "gustatory": "an astringent taste",
+        "ethical": "a moral stain or defilement",
+        "material": "the ochre-colored robe of a monk"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kasina-mandala": {
+    "primary": "the disk used as a meditation device",
+    "senses": {
+        "meditative": "a circular device for concentration practice",
+        "instrumental": "a tool for developing jhana",
+        "visual": "a visual object of focus"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"kāsu": {
+    "primary": "a pit, a hole",
+    "senses": {
+        "spatial": "a pit",
+        "geographical": "a hole in the ground",
+        "trap": "a pitfall"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"kaṭa": {
+    "primary": "a mat, a corpse, the hip",
+    "senses": {
+        "household": "a mat",
+        "physical": "a corpse",
+        "anatomical": "the hip"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kaṭāha": {
+    "primary": "a pot, a cauldron, a receptacle",
+    "senses": {
+        "household": "a pot or pan",
+        "culinary": "a cauldron",
+        "receptacle": "a container"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kaṭasī": {
+    "primary": "a cemetery",
+    "senses": {
+        "spatial": "a cemetery",
+        "cultural": "a place for corpses",
+        "contemplative": "a place for meditation"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"kaṭhina": {
+    "primary": "hard, stiff, the robe-making ceremony",
+    "senses": {
+        "qualitative": "hard or stiff",
+        "monastic": "a specific annual ceremony for making robes",
+        "difficult": "difficult or harsh"
+    },
+    "semantic_field": "qualities",
+    "register": "technical"
+},
+"kaṭi": {
+    "primary": "the hip, the waist",
+    "senses": {
+        "anatomical": "the hip",
+        "physical": "the waist",
+        "body": "a part of the body"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kattara": {
+    "primary": "a stick, a staff, a crutch",
+    "senses": {
+        "instrumental": "a stick or staff",
+        "supportive": "a crutch",
+        "material": "a piece of wood"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kattarayaṭṭhi": {
+    "primary": "a staff, a walking stick",
+    "senses": {
+        "instrumental": "a staff",
+        "supportive": "a walking stick",
+        "material": "a wooden stick"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"katu": {
+    "primary": "harsh, sharp, pungent",
+    "senses": {
+        "qualitative": "harsh",
+        "gustatory": "pungent",
+        "verbal": "harsh speech"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kaṭuka": {
+    "primary": "pungent, sharp, painful",
+    "senses": {
+        "gustatory": "pungent or bitter",
+        "experiential": "painful",
+        "qualitative": "sharp"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"katupaka": {
+    "primary": "a little, slightly",
+    "senses": {
+        "adverbial": "a little",
+        "quantitative": "a small amount",
+        "qualitative": "slightly"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"kavandha": {
+    "primary": "a headless trunk",
+    "senses": {
+        "physical": "a headless body",
+        "mythological": "a type of headless demon",
+        "negative": "a terrifying sight"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kavi-kata": {
+    "primary": "made by a poet, poetic, artificial",
+    "senses": {
+        "literary": "a poetic composition",
+        "qualitative": "artificial or ornate",
+        "creative": "created by a poet"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"kāya-duccarita": {
+    "primary": "bodily misconduct",
+    "senses": {
+        "ethical": "unwholesome actions of the body (killing, stealing, sexual misconduct)",
+        "analytical": "one of the ten unwholesome courses of action",
+        "behavioral": "wrong physical conduct"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"kāya-lahutā": {
+    "primary": "lightness of body",
+    "senses": {
+        "psychological": "the mental factor of lightness of the mental body",
+        "physical": "physical agility",
+        "positive": "a wholesome mental factor"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāya-passaddhi": {
+    "primary": "tranquility of the mental body",
+    "senses": {
+        "psychological": "the mental factor of tranquility of cetasikas",
+        "meditative": "a factor of enlightenment",
+        "peaceful": "a calm state of mind"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāya-sakkhin": {
+    "primary": "a body-witness",
+    "senses": {
+        "soteriological": "a type of noble disciple who has experienced the formless jhanas",
+        "experiential": "one who has touched the deathless element with the body",
+        "spiritual": "an advanced practitioner"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"kāyūpaga": {
+    "primary": "reborn in a (certain) group",
+    "senses": {
+        "cosmological": "reborn in a particular group of deities",
+        "karmic": "having attained a specific rebirth",
+        "descriptive": "belonging to a body (of beings)"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"keci": {
+    "primary": "some people",
+    "senses": {
+        "indefinite": "some",
+        "social": "some people",
+        "pronominal": "indefinite pronoun, plural"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kelāsa": {
+    "primary": "a mountain in the Himalayas (Kailash)",
+    "senses": {
+        "geographical": "Mount Kailash",
+        "sacred": "a holy mountain",
+        "mythological": "the abode of deities"
+    },
+    "semantic_field": "space",
+    "register": "sacred"
+},
+"keḷāyati": {
+    "primary": "plays, amuses oneself",
+    "senses": {
+        "action": "to play",
+        "recreational": "to amuse oneself",
+        "social": "to engage in sport"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"kevaṭṭa": {
+    "primary": "a fisherman",
+    "senses": {
+        "professional": "a fisherman",
+        "social": "a person of that profession",
+        "agent": "one who catches fish"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kevala": {
+    "primary": "only, alone, entire",
+    "senses": {
+        "exclusive": "only",
+        "solitary": "alone",
+        "comprehensive": "the whole, entire"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"khacita": {
+    "primary": "inlaid, set with",
+    "senses": {
+        "decorative": "inlaid with jewels",
+        "aesthetic": "adorned",
+        "craft": "a type of craftsmanship"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"khādana": {
+    "primary": "eating, food",
+    "senses": {
+        "action": "the act of eating",
+        "material": "food",
+        "physiological": "chewing"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"khādita": {
+    "primary": "eaten",
+    "senses": {
+        "action": "having been eaten",
+        "past_participle": "eaten",
+        "state": "consumed"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"khalu": {
+    "primary": "indeed, surely",
+    "senses": {
+        "emphatic": "indeed",
+        "assertive": "surely",
+        "grammatical": "an emphatic particle"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"khalu-pacchā-bhattika": {
+    "primary": "one who refuses food offered later",
+    "senses": {
+        "ascetic": "an ascetic practice of refusing more food after starting to eat",
+        "disciplinary": "a dhutanga practice",
+        "behavioral": "one who follows this rule"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"khama": {
+    "primary": "patient, enduring, forgiving",
+    "senses": {
+        "dispositional": "patient",
+        "ethical": "forbearing",
+        "social": "forgiving"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"khamana": {
+    "primary": "patience, endurance, forgiveness",
+    "senses": {
+        "action": "the act of enduring",
+        "state": "patience",
+        "social": "forgiveness"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"khanda-danta": {
+    "primary": "with broken teeth",
+    "senses": {
+        "physical": "having broken teeth",
+        "descriptive": "broken-toothed",
+        "negative": "a sign of decay or injury"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"khandha-pañcaka": {
+    "primary": "the five aggregates",
+    "senses": {
+        "philosophical": "the five groups of existence (form, feeling, perception, formations, consciousness)",
+        "analytical": "the components of a sentient being",
+        "soteriological": "the objects of clinging"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"khaṇḍa": {
+    "primary": "a piece, a fragment, broken",
+    "senses": {
+        "quantitative": "a piece",
+        "physical": "a fragment",
+        "state": "broken"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"khaṇḍicca": {
+    "primary": "the state of being broken (of teeth)",
+    "senses": {
+        "physical": "having broken teeth",
+        "negative": "a state of decay",
+        "descriptive": "brokenness"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"khaṇika-samādhi": {
+    "primary": "momentary concentration",
+    "senses": {
+        "meditative": "a level of concentration that is present only for a moment",
+        "preliminary": "a stage before access or absorption concentration",
+        "insight": "the level of concentration required for vipassana"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"khañja": {
+    "primary": "lame",
+    "senses": {
+        "medical": "lame",
+        "physical": "having a leg disability",
+        "descriptive": "limping"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"khanti-bala": {
+    "primary": "the power of patience",
+    "senses": {
+        "ethical": "the strength that comes from patience",
+        "spiritual": "patience as a spiritual power",
+        "positive": "the force of forbearance"
+    },
+    "semantic_field": "ethics",
+    "register": "formal"
+},
+"khara-sadda": {
+    "primary": "a harsh sound",
+    "senses": {
+        "auditory": "a harsh or grating sound",
+        "unpleasant": "a disagreeable noise",
+        "descriptive": "a rough sound"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"khāribhāra": {
+    "primary": "a measure of weight, a heavy load",
+    "senses": {
+        "measurement": "a specific measure of weight",
+        "quantitative": "a large load",
+        "metaphorical": "a great responsibility"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"khata-bhāta": {
+    "primary": "wounded and beaten",
+    "senses": {
+        "physical": "wounded and beaten in battle",
+        "negative": "defeated and injured",
+        "state": "in a state of defeat"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"khattā": {
+    "primary": "charioteer, king's attendant",
+    "senses": {
+        "professional": "a charioteer",
+        "social": "an attendant to a king",
+        "historical": "a specific role in ancient society"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"khaya-ñāṇa": {
+    "primary": "the knowledge of destruction (of defilements)",
+    "senses": {
+        "soteriological": "the knowledge of an Arahant that the defilements are destroyed",
+        "cognitive": "a specific type of supramundane knowledge",
+        "final": "the knowledge of final liberation"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"kheḷa": {
+    "primary": "saliva",
+    "senses": {
+        "physiological": "saliva",
+        "impure": "an impure bodily substance",
+        "physical": "spittle"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"khema-ṭṭhāna": {
+    "primary": "a place of security, a safe place",
+    "senses": {
+        "spatial": "a safe place",
+        "metaphorical": "Nibbana as the place of ultimate security",
+        "positive": "a place of safety"
+    },
+    "semantic_field": "space",
+    "register": "formal"
+},
+"khepeti": {
+    "primary": "causes to be spent, passes time, throws",
+    "senses": {
+        "causative": "to cause time to be spent",
+        "action": "to pass (time)",
+        "motional": "to throw or cast"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"khetta-jīvin": {
+    "primary": "a farmer, one who lives by the field",
+    "senses": {
+        "professional": "a farmer",
+        "economic": "one who lives by agriculture",
+        "social": "a cultivator"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"khiḍḍā": {
+    "primary": "play, sport, amusement",
+    "senses": {
+        "recreational": "play",
+        "action": "sport",
+        "social": "amusement"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"khila-jāta": {
+    "primary": "become barren (of mind), obstinate",
+    "senses": {
+        "psychological": "having a mind that is barren and unworkable",
+        "negative": "obstinate",
+        "unreceptive": "mentally fallow"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"khiṇa-bīja": {
+    "primary": "one whose seed (of rebirth) is destroyed",
+    "senses": {
+        "soteriological": "an Arahant",
+        "metaphorical": "one who will not be reborn",
+        "final": "having destroyed the cause of future life"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"khīra-paka": {
+    "primary": "a milk-drinker, a suckling calf",
+    "senses": {
+        "zoological": "a young calf still drinking milk",
+        "developmental": "very young and dependent",
+        "innocent": "a symbol of innocence"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"khīra-sāgara": {
+    "primary": "the ocean of milk",
+    "senses": {
+        "mythological": "a mythical ocean of milk",
+        "cosmological": "a feature of Hindu cosmology",
+        "poetic": "a symbol of purity and abundance"
+    },
+    "semantic_field": "space",
+    "register": "sacred"
+},
+"khoma-dussa": {
+    "primary": "linen cloth",
+    "senses": {
+        "material": "linen fabric",
+        "textile": "a type of cloth",
+        "clothing": "a garment made of linen"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"khujja": {
+    "primary": "hunchbacked",
+    "senses": {
+        "physical": "hump-backed",
+        "medical": "a person with a hunchback",
+        "descriptive": "deformed"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"khura": {
+    "primary": "a razor, a hoof",
+    "senses": {
+        "tool": "a razor",
+        "zoological": "the hoof of an animal",
+        "sharp": "a sharp blade"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kīdisa": {
+    "primary": "what kind? of what sort?",
+    "senses": {
+        "interrogative": "what kind?",
+        "qualitative": "a question about quality",
+        "pronominal": "interrogative pronoun"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kiṃ-nāma": {
+    "primary": "what name? of what name?",
+    "senses": {
+        "interrogative": "what is the name of this?",
+        "inquisitive": "a question of identity",
+        "verbal": "what name?"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kiṃ-sukā": {
+    "primary": "the 'parrot-beak' tree (Butea frondosa)",
+    "senses": {
+        "botanical": "a tree with bright red flowers",
+        "symbolic": "used in similes",
+        "natural": "a forest tree"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kinkiṇikā": {
+    "primary": "a small bell",
+    "senses": {
+        "instrumental": "a small bell",
+        "auditory": "a jingle",
+        "ornamental": "a decorative bell"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kira": {
+    "primary": "they say, reportedly, so it seems",
+    "senses": {
+        "reportive": "a particle indicating hearsay",
+        "adverbial": "reportedly",
+        "indefinite": "it is said"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kīra": {
+    "primary": "a parrot",
+    "senses": {
+        "zoological": "a parrot",
+        "avian": "a bird",
+        "symbolic": "a symbol of speech or mimicry"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kīṭa": {
+    "primary": "an insect, a worm",
+    "senses": {
+        "zoological": "an insect",
+        "general": "a small creature or worm",
+        "animal": "an invertebrate"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kittaka": {
+    "primary": "how much? how many?",
+    "senses": {
+        "interrogative": "how much?",
+        "quantitative": "a question of quantity",
+        "pronominal": "interrogative pronoun"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"klesa-bhūmi": {
+    "primary": "the plane of the defilements",
+    "senses": {
+        "philosophical": "the mundane world, which is the ground for defilements",
+        "psychological": "the sphere where defilements operate",
+        "samsaric": "samsaric existence"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kodha-vinaya": {
+    "primary": "the subduing of anger",
+    "senses": {
+        "ethical": "the discipline of removing anger",
+        "psychological": "the control of anger",
+        "practical": "a spiritual practice"
+    },
+    "semantic_field": "ethics",
+    "register": "formal"
+},
+"kujjhana": {
+    "primary": "anger, the state of being angry",
+    "senses": {
+        "emotional": "anger",
+        "state": "the state of being angry",
+        "negative": "wrath"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kumbhaṇḍa": {
+    "primary": "a kind of goblin or nature spirit",
+    "senses": {
+        "mythological": "a class of yakkhas",
+        "supernatural": "a spirit being",
+        "cosmological": "inhabitants of the southern quarter"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"kummagga": {
+    "primary": "a wrong path",
+    "senses": {
+        "ethical": "a wrong course of conduct",
+        "spatial": "a wrong road",
+        "negative": "a bad way"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"kumuda-vana": {
+    "primary": "a thicket of white water lilies",
+    "senses": {
+        "environmental": "a pond or area full of white lilies",
+        "aesthetic": "a beautiful natural scene",
+        "botanical": "a lily pond"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kuṇapa-gandha": {
+    "primary": "the smell of a corpse",
+    "senses": {
+        "olfactory": "the stench of a dead body",
+        "unpleasant": "a foul odor",
+        "contemplative": "an object of meditation"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kunda-puppha": {
+    "primary": "the jasmine flower",
+    "senses": {
+        "botanical": "a type of jasmine",
+        "fragrant": "a sweet-smelling flower",
+        "symbolic": "a symbol of purity"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kuṇi": {
+    "primary": "a cripple, having a crooked arm",
+    "senses": {
+        "medical": "a person with a crippled or deformed limb",
+        "physical": "having a crooked arm",
+        "descriptive": "a cripple"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kunta": {
+    "primary": "a lance, a spear",
+    "senses": {
+        "weapon": "a lance",
+        "military": "a spear",
+        "instrumental": "a pointed weapon"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kūra": {
+    "primary": "boiled rice, food",
+    "senses": {
+        "culinary": "boiled rice",
+        "material": "food",
+        "general": "a meal"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"kusala-kamma-patha": {
+    "primary": "the course of wholesome action",
+    "senses": {
+        "ethical": "the ten wholesome courses of action (bodily, verbal, mental)",
+        "analytical": "a classification of good karma",
+        "practical": "a guide to moral conduct"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"kusala-mūla": {
+    "primary": "a wholesome root",
+    "senses": {
+        "psychological": "the three wholesome roots (non-greed, non-hatred, non-delusion)",
+        "ethical": "the foundations of all good actions",
+        "analytical": "a fundamental category in Abhidhamma"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"kusīta": {
+    "primary": "lazy, idle, slothful",
+    "senses": {
+        "dispositional": "lazy",
+        "negative": "idle",
+        "psychological": "slothful"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"kuṭṭha": {
+    "primary": "leprosy, a kind of plant",
+    "senses": {
+        "medical": "leprosy or a similar skin disease",
+        "botanical": "a medicinal plant (Costus speciosus)",
+        "suffering": "a severe illness"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"kuṭumbika": {
+    "primary": "a man with a family, a householder",
+    "senses": {
+        "social": "a family man",
+        "economic": "a householder with property",
+        "relational": "the head of a family"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"kuvera": {
+    "primary": "the god of wealth, one of the Four Great Kings",
+    "senses": {
+        "mythological": "the regent of the North and god of wealth (also Vessavana)",
+        "cosmological": "a divine ruler",
+        "divine": "a deity"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"lākhā-rasa": {
+    "primary": "the color of lac, red dye",
+    "senses": {
+        "color": "a red color",
+        "material": "lac-dye",
+        "descriptive": "red"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"lakkhaṇīya": {
+    "primary": "to be marked, remarkable, worthy of note",
+    "senses": {
+        "qualitative": "remarkable",
+        "potential": "that which should be noted or marked",
+        "positive": "distinguished"
+    },
+    "semantic_field": "qualities",
+    "register": "formal"
+},
+"lālappa": {
+    "primary": "lamentation",
+    "senses": {
+        "emotional": "lamentation",
+        "suffering": "wailing",
+        "verbal": "mournful speech"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"lāma": {
+    "primary": "a hawk",
+    "senses": {
+        "zoological": "a hawk",
+        "avian": "a bird of prey",
+        "predatory": "a hunter"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"lāmakata": {
+    "primary": "insignificance, inferiority",
+    "senses": {
+        "qualitative": "the state of being insignificant",
+        "negative": "inferiority",
+        "social": "lowliness"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"lāpa": {
+    "primary": "a quail, talk",
+    "senses": {
+        "zoological": "a quail",
+        "verbal": "talk or chatter",
+        "avian": "a bird"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"lapanā": {
+    "primary": "chatter, flattery",
+    "senses": {
+        "verbal": "chatter",
+        "negative": "flattery",
+        "social": "talk"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"lasī": {
+    "primary": "brain, marrow",
+    "senses": {
+        "anatomical": "the brain",
+        "physiological": "brain matter",
+        "contemplative": "one of the impure parts of the body"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"lāyaka": {
+    "primary": "a mower, a reaper",
+    "senses": {
+        "professional": "a mower of grass",
+        "agricultural": "a reaper of corn",
+        "agent": "one who cuts"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"lekha-hārika": {
+    "primary": "a letter-carrier, a messenger",
+    "senses": {
+        "professional": "a messenger",
+        "social": "a letter-carrier",
+        "communicative": "one who delivers messages"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"liṅga-vipallāsa": {
+    "primary": "perversion of gender",
+    "senses": {
+        "social": "a change or perversion of gender roles",
+        "biological": "a physical change of gender",
+        "psychological": "a confusion of gender identity"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"loka-nāyaka": {
+    "primary": "leader of the world (an epithet of the Buddha)",
+    "senses": {
+        "religious": "an epithet for a Buddha",
+        "praiseworthy": "a title of honor",
+        "soteriological": "a guide for the world"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"loma-kūpa": {
+    "primary": "a pore of the skin",
+    "senses": {
+        "anatomical": "a pore",
+        "physical": "a hair follicle",
+        "descriptive": "the holes from which body hair grows"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"lopa": {
+    "primary": "cutting off, elision",
+    "senses": {
+        "action": "cutting off",
+        "grammatical": "elision of a sound",
+        "negative": "disappearance"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"luddaka": {
+    "primary": "a hunter",
+    "senses": {
+        "professional": "a hunter",
+        "social": "a person of that profession",
+        "agent": "one who hunts"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"lulita": {
+    "primary": "stirred up, agitated, disturbed",
+    "senses": {
+        "physical": "stirred up (of water)",
+        "emotional": "agitated",
+        "chaotic": "disturbed"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"maccu-pāsa": {
+    "primary": "the snare of death",
+    "senses": {
+        "metaphorical": "death personified as a trapper",
+        "inevitable": "the inescapable nature of death",
+        "suffering": "the snare of mortality"
+    },
+    "semantic_field": "suffering",
+    "register": "sacred"
+},
+"maccu-rāja": {
+    "primary": "the king of death (Māra)",
+    "senses": {
+        "mythological": "Māra",
+        "personification": "death personified",
+        "powerful": "the lord of death"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"madana": {
+    "primary": "intoxication, love, the god of love",
+    "senses": {
+        "state": "intoxication or pride",
+        "emotional": "love or passion",
+        "mythological": "the god of love (Kama)"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"maddana": {
+    "primary": "crushing, subduing, massaging",
+    "senses": {
+        "action": "the act of crushing",
+        "controlling": "subduing",
+        "therapeutic": "massaging"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"maddula": {
+    "primary": "a kind of drum",
+    "senses": {
+        "musical": "a type of drum",
+        "instrumental": "a percussion instrument",
+        "cultural": "a traditional drum"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"māgadha": {
+    "primary": "belonging to Magadha, the language of Magadha (Pali)",
+    "senses": {
+        "linguistic": "the Pali language",
+        "geographical": "from Magadha",
+        "historical": "related to the Magadhan kingdom"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"magga-magga-ñāṇa-dassana-visuddhi": {
+    "primary": "the purification of knowledge and vision of what is and is not the path",
+    "senses": {
+        "soteriological": "one of the seven stages of purification",
+        "insightful": "the insight that distinguishes the true path from false paths",
+        "analytical": "a specific stage of insight knowledge"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"magha": {
+    "primary": "a gift, a name of Sakka, a month",
+    "senses": {
+        "material": "a gift or bounty",
+        "mythological": "a name of Sakka (Indra)",
+        "temporal": "a name of a month (January-February)"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"māgha": {
+    "primary": "the month of Magha",
+    "senses": {
+        "temporal": "a month in the ancient Indian calendar",
+        "seasonal": "part of the cool season",
+        "astronomical": "related to the Magha constellation"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"mahā-patha": {
+    "primary": "a high-road, a main road",
+    "senses": {
+        "geographical": "a main road",
+        "urban": "a highway",
+        "social": "a public thoroughfare"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"mahā-purisa-lakkhaṇa": {
+    "primary": "the 32 marks of a great man",
+    "senses": {
+        "symbolic": "the physical characteristics that mark a Buddha or a Universal Monarch",
+        "prophetic": "signs that predict future greatness",
+        "physical": "a list of specific bodily features"
+    },
+    "semantic_field": "body",
+    "register": "sacred"
+},
+"mahatta": {
+    "primary": "greatness, largeness",
+    "senses": {
+        "qualitative": "greatness",
+        "quantitative": "largeness",
+        "state": "the state of being great"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"maheccha": {
+    "primary": "having great desires, ambitious",
+    "senses": {
+        "dispositional": "ambitious",
+        "negative": "having many wants",
+        "psychological": "desirous"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"mahesakkha": {
+    "primary": "of great power, influential",
+    "senses": {
+        "qualitative": "possessing great power",
+        "social": "influential",
+        "divine": "an epithet of powerful deities"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"mahikā": {
+    "primary": "frost, cold",
+    "senses": {
+        "meteorological": "frost",
+        "thermal": "cold",
+        "environmental": "a cold mist"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"mahogha": {
+    "primary": "a great flood",
+    "senses": {
+        "natural": "a huge flood",
+        "destructive": "a devastating torrent",
+        "metaphorical": "the great flood of samsara"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"majja-pāna": {
+    "primary": "the drinking of intoxicating liquors",
+    "senses": {
+        "action": "drinking alcohol",
+        "ethical": "an action to be abstained from (the 5th precept)",
+        "negative": "a cause of heedlessness"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"majjārin": {
+    "primary": "a cat",
+    "senses": {
+        "zoological": "a cat",
+        "animal": "a feline",
+        "domestic": "a domestic animal"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"makkha": {
+    "primary": "hypocrisy, denigration of others' good deeds",
+    "senses": {
+        "ethical": "an unwholesome mental state",
+        "social": "hypocrisy",
+        "negative": "contempt"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"malina": {
+    "primary": "dirty, stained, impure",
+    "senses": {
+        "physical": "dirty",
+        "ethical": "impure",
+        "qualitative": "stained"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"malla-yuddha": {
+    "primary": "a wrestling match",
+    "senses": {
+        "sport": "wrestling",
+        "competitive": "a contest of strength",
+        "action": "a fight"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"māluta": {
+    "primary": "the wind",
+    "senses": {
+        "natural": "the wind",
+        "meteorological": "a breeze",
+        "elemental": "the air element"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"māmaka": {
+    "primary": "devoted to, fond of, mine",
+    "senses": {
+        "devotional": "devoted to",
+        "possessive": "my, mine",
+        "emotional": "fond of"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"māna-thaddha": {
+    "primary": "stiff with pride, stubborn",
+    "senses": {
+        "psychological": "stubborn due to conceit",
+        "negative": "arrogant and rigid",
+        "dispositional": "obstinate"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"manāpa": {
+    "primary": "pleasing, agreeable, pleasant",
+    "senses": {
+        "qualitative": "pleasing to the mind",
+        "aesthetic": "agreeable",
+        "positive": "pleasant"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"mandākinī": {
+    "primary": "a name of the celestial Ganges",
+    "senses": {
+        "mythological": "the heavenly river Ganges",
+        "cosmological": "a river in the heavens",
+        "poetic": "a sacred river"
+    },
+    "semantic_field": "space",
+    "register": "sacred"
+},
+"mandala-māla": {
+    "primary": "a circular pavilion",
+    "senses": {
+        "architectural": "a round pavilion",
+        "spatial": "a circular hall",
+        "structural": "a specific building type"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"mandira": {
+    "primary": "a mansion, a palace, a temple",
+    "senses": {
+        "architectural": "a large building or mansion",
+        "religious": "a temple",
+        "luxurious": "a palace"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"maṇi-ratana": {
+    "primary": "the jewel-treasure of a universal monarch",
+    "senses": {
+        "mythological": "one of the seven treasures of a Cakkavatti",
+        "symbolic": "a wish-fulfilling gem",
+        "magical": "a supernatural jewel"
+    },
+    "semantic_field": "nature",
+    "register": "sacred"
+},
+"mānita": {
+    "primary": "honored, respected, proud",
+    "senses": {
+        "social": "honored or respected",
+        "psychological": "proud or conceited",
+        "positive": "held in high esteem"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"manta-bhāṇin": {
+    "primary": "reciting mantras, a brahmin",
+    "senses": {
+        "agent": "one who recites sacred texts",
+        "religious": "a brahmin who chants the Vedas",
+        "descriptive": "muttering charms"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"manuja": {
+    "primary": "a human being ('born of Manu')",
+    "senses": {
+        "social": "a human being",
+        "mythological": "a descendant of Manu",
+        "general": "a person"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"māpaka": {
+    "primary": "a creator, a builder",
+    "senses": {
+        "agent": "a creator",
+        "professional": "a builder or architect",
+        "creative": "one who makes"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"māra-kāyika": {
+    "primary": "belonging to the host of Māra",
+    "senses": {
+        "mythological": "a member of Māra's assembly",
+        "demonic": "a demon or evil spirit",
+        "negative": "a tempter"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"māra-dheyya": {
+    "primary": "the realm of Māra, the sphere of death",
+    "senses": {
+        "cosmological": "the world under the sway of Māra",
+        "soteriological": "the realm of death and rebirth",
+        "suffering": "the domain of temptation and suffering"
+    },
+    "semantic_field": "space",
+    "register": "sacred"
+},
+"mariyādā": {
+    "primary": "a boundary, a limit, a rule of conduct",
+    "senses": {
+        "spatial": "a boundary or limit",
+        "ethical": "a moral rule or convention",
+        "social": "a fixed custom"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"māsa-pakkha": {
+    "primary": "a month and a fortnight",
+    "senses": {
+        "temporal": "a period of a month and a half",
+        "durational": "a measure of time",
+        "quantitative": "a specific duration"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"māsa-sancaya": {
+    "primary": "a month's savings, storing for a month",
+    "senses": {
+        "economic": "saving up for a month",
+        "monastic": "a practice forbidden for monks (storing food)",
+        "temporal": "over the period of a month"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"masi-cuṇṇa": {
+    "primary": "soot powder, ink powder",
+    "senses": {
+        "material": "powdered soot",
+        "writing": "used to make ink",
+        "physical": "a black powder"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"mataka-bhatta": {
+    "primary": "a meal offered for the dead",
+    "senses": {
+        "ritual": "a food offering made on behalf of a deceased person",
+        "cultural": "a funeral feast",
+        "religious": "a merit-making ceremony"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"mātā-pettika": {
+    "primary": "related to mother and father, parental",
+    "senses": {
+        "familial": "pertaining to one's parents",
+        "social": "parental",
+        "relational": "of the mother and father"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"matta-kāsin": {
+    "primary": "one who delights in intoxicating drinks",
+    "senses": {
+        "social": "a drunkard",
+        "behavioral": "one who enjoys intoxication",
+        "negative": "an addict"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"mattikā": {
+    "primary": "clay, soil",
+    "senses": {
+        "material": "clay or earth",
+        "geological": "soil",
+        "craft": "used for making pottery"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"mātu-ghātaka": {
+    "primary": "a matricide",
+    "senses": {
+        "criminal": "one who kills their mother",
+        "karmic": "one of the five heinous crimes with immediate retribution",
+        "unethical": "an extremely evil person"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"mātula": {
+    "primary": "maternal uncle",
+    "senses": {
+        "familial": "one's mother's brother",
+        "relational": "a specific family relationship",
+        "social": "a maternal uncle"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"mātulānī": {
+    "primary": "maternal uncle's wife",
+    "senses": {
+        "familial": "the wife of one's maternal uncle",
+        "relational": "a specific family relationship",
+        "social": "a maternal aunt by marriage"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"meda-vaṇṇa": {
+    "primary": "the color of fat, creamy-white",
+    "senses": {
+        "color": "creamy-white",
+        "descriptive": "having the color of fat",
+        "physical": "a specific color"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"medhaga": {
+    "primary": "quarrel, strife",
+    "senses": {
+        "social": "a quarrel",
+        "negative": "strife",
+        "conflict": "a dispute"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"medhāvin": {
+    "primary": "wise, intelligent",
+    "senses": {
+        "cognitive": "wise",
+        "intellectual": "intelligent",
+        "positive": "a wise person"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"meṇḍa": {
+    "primary": "a ram, a sheep",
+    "senses": {
+        "zoological": "a ram",
+        "animal": "a sheep",
+        "agricultural": "livestock"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"meraya": {
+    "primary": "fermented liquor",
+    "senses": {
+        "substance": "an intoxicating drink made from fermented grain or fruit",
+        "ethical": "something to be abstained from",
+        "negative": "a cause of heedlessness"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"metta-sahagata": {
+    "primary": "accompanied by loving-kindness",
+    "senses": {
+        "psychological": "a state of mind connected with loving-kindness",
+        "meditative": "a mind pervaded with metta",
+        "positive": "a wholesome and benevolent state"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"mettāyāna": {
+    "primary": "the practice of loving-kindness",
+    "senses": {
+        "spiritual": "the path or practice of developing universal love",
+        "meditative": "the cultivation of metta",
+        "ethical": "a way of life based on loving-kindness"
+    },
+    "semantic_field": "meditation",
+    "register": "formal"
+},
+"micchā-diṭṭhi": {
+    "primary": "wrong view",
+    "senses": {
+        "philosophical": "wrong views, especially about karma, rebirth, and liberation",
+        "ethical": "the unwholesome root of delusion",
+        "soteriological": "a major obstacle to enlightenment"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"micchā-saṅkappa": {
+    "primary": "wrong intention",
+    "senses": {
+        "ethical": "unwholesome intentions (of sensuality, ill-will, or cruelty)",
+        "psychological": "wrong thought",
+        "negative": "one of the factors of the wrong eightfold path"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"miga-rāja": {
+    "primary": "the king of beasts, the lion",
+    "senses": {
+        "zoological": "a lion",
+        "praiseworthy": "an epithet for a powerful leader",
+        "symbolic": "a symbol of power and nobility"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"mijjhā": {
+    "primary": "marrow",
+    "senses": {
+        "anatomical": "bone marrow",
+        "physiological": "a bodily substance",
+        "contemplative": "one of the 32 parts of the body"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"milakkha": {
+    "primary": "a barbarian, a foreigner",
+    "senses": {
+        "social": "a foreigner, especially one who does not speak an Aryan language",
+        "pejorative": "a barbarian",
+        "cultural": "an outsider"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"milāta": {
+    "primary": "withered, faded",
+    "senses": {
+        "botanical": "withered (of a flower)",
+        "qualitative": "faded",
+        "negative": "languid or listless"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"missa": {
+    "primary": "mixed",
+    "senses": {
+        "qualitative": "mixed",
+        "composite": "made of different components",
+        "social": "of mixed company"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"missaka": {
+    "primary": "mixed",
+    "senses": {
+        "qualitative": "mixed",
+        "descriptive": "of a mixed nature",
+        "general": "various"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"mitta-ddu": {
+    "primary": "a false friend, one who harms a friend",
+    "senses": {
+        "social": "a treacherous friend",
+        "negative": "one who betrays friendship",
+        "unethical": "an enemy disguised as a friend"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"modaka": {
+    "primary": "a sweetmeat, a small sweet cake",
+    "senses": {
+        "culinary": "a type of sweet",
+        "food": "a confection",
+        "pleasant": "a small, pleasant thing"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"mogha": {
+    "primary": "empty, vain, foolish",
+    "senses": {
+        "qualitative": "empty or vain",
+        "negative": "futile or useless",
+        "pejorative": "foolish"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"mogha-purisa": {
+    "primary": "a vain or foolish person",
+    "senses": {
+        "pejorative": "a foolish man",
+        "negative": "a worthless person",
+        "social": "a term of contempt"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"mokkha": {
+    "primary": "release, liberation",
+    "senses": {
+        "soteriological": "liberation from samsara (Nibbana)",
+        "freedom": "release",
+        "ultimate": "the final goal"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
+"mora": {
+    "primary": "a peacock",
+    "senses": {
+        "zoological": "a peacock",
+        "avian": "a bird",
+        "aesthetic": "a symbol of beauty"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"mosavajja": {
+    "primary": "what should be avoided as false, lying",
+    "senses": {
+        "ethical": "that which is wrong because it is false",
+        "verbal": "lying",
+        "negative": "falsehood"
+    },
+    "semantic_field": "ethics",
+    "register": "formal"
+},
+"mūga": {
+    "primary": "dumb, mute",
+    "senses": {
+        "medical": "unable to speak",
+        "descriptive": "mute",
+        "negative": "silent"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"mūḷha": {
+    "primary": "confused, deluded, gone astray",
+    "senses": {
+        "cognitive": "confused or bewildered",
+        "negative": "deluded",
+        "directional": "having lost one's way"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"mutiṅga": {
+    "primary": "a small drum",
+    "senses": {
+        "musical": "a small drum",
+        "instrumental": "a percussion instrument",
+        "cultural": "a traditional drum"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"mutoli": {
+    "primary": "a bundle, a bag",
+    "senses": {
+        "container": "a bundle or bag",
+        "utilitarian": "a pouch for carrying things",
+        "material": "a small sack"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"mutta-karīsa": {
+    "primary": "urine and feces",
+    "senses": {
+        "physiological": "urine and feces",
+        "collective": "bodily waste",
+        "impure": "impure substances"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"nābhi": {
+    "primary": "the navel, the hub of a wheel",
+    "senses": {
+        "anatomical": "the navel",
+        "metaphorical": "the center or hub",
+        "instrumental": "the hub of a wheel"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"nāga-latā": {
+    "primary": "the betel vine",
+    "senses": {
+        "botanical": "the betel vine",
+        "cultural": "its leaves are chewed",
+        "natural": "a climbing plant"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nāga-rāja": {
+    "primary": "a naga king, a serpent king",
+    "senses": {
+        "mythological": "a king of the nagas",
+        "powerful": "a powerful serpent being",
+        "divine": "a serpent deity"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"nāgara": {
+    "primary": "a citizen, a townsman",
+    "senses": {
+        "social": "a citizen of a town",
+        "urban": "a town-dweller",
+        "civil": "polite, urbane"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nagga": {
+    "primary": "naked, nude",
+    "senses": {
+        "physical": "naked",
+        "ascetic": "a naked ascetic",
+        "state": "unclothed"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"nahāna": {
+    "primary": "bathing, a bath",
+    "senses": {
+        "action": "the act of bathing",
+        "hygienic": "washing",
+        "ritual": "a ritual bath"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nahāpaka": {
+    "primary": "a bath attendant",
+    "senses": {
+        "professional": "a bath attendant",
+        "service": "one who assists with bathing",
+        "social": "a specific occupation"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nahuta": {
+    "primary": "a very large number (10,000)",
+    "senses": {
+        "numerical": "ten thousand",
+        "quantitative": "a myriad",
+        "large": "a great number"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"nakula": {
+    "primary": "a mongoose",
+    "senses": {
+        "zoological": "a mongoose",
+        "animal": "a small carnivorous mammal",
+        "symbolic": "an enemy of snakes"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nāḷa": {
+    "primary": "a stalk, a tube, a pipe",
+    "senses": {
+        "botanical": "a stalk or stem",
+        "instrumental": "a tube or pipe",
+        "hollow": "a hollow reed"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nalina": {
+    "primary": "a lotus",
+    "senses": {
+        "botanical": "a lotus flower",
+        "aesthetic": "a beautiful flower",
+        "symbolic": "a symbol of purity"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nālikera": {
+    "primary": "the coconut tree",
+    "senses": {
+        "botanical": "the coconut palm",
+        "material": "the coconut fruit",
+        "culinary": "a source of food and drink"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nāma-kamma": {
+    "primary": "the naming ceremony",
+    "senses": {
+        "ritual": "a ceremony for giving a name",
+        "cultural": "a life-cycle rite",
+        "social": "a naming event"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nāma-rūpa": {
+    "primary": "name-and-form, mind-and-matter",
+    "senses": {
+        "philosophical": "the psycho-physical organism, the sentient being",
+        "analytical": "the mental (nama) and physical (rupa) components of a being",
+        "causal": "a key link in dependent origination"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"nānā": {
+    "primary": "various, different, diverse",
+    "senses": {
+        "qualitative": "various or different",
+        "adverbial": "in various ways",
+        "diverse": "diverse"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nānā-karaṇa": {
+    "primary": "disagreement, dissension",
+    "senses": {
+        "social": "disagreement or dissension",
+        "negative": "a state of discord",
+        "verbal": "a dispute"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nānā-titthiya": {
+    "primary": "adherents of various sects",
+    "senses": {
+        "social": "followers of different religious schools",
+        "collective": "various heretics",
+        "historical": "the different philosophical schools of ancient India"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nānatta": {
+    "primary": "diversity, variety, multiplicity",
+    "senses": {
+        "qualitative": "diversity",
+        "analytical": "multiplicity",
+        "state": "a state of variety"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nandana": {
+    "primary": "rejoicing, a pleasure grove, a son",
+    "senses": {
+        "action": "rejoicing",
+        "mythological": "the celestial garden of Indra",
+        "familial": "a son"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nandhi": {
+    "primary": "a thong, a strap, craving",
+    "senses": {
+        "material": "a leather strap",
+        "metaphorical": "the bond of craving",
+        "instrumental": "a strap for binding"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nara-deva": {
+    "primary": "a king ('god among men')",
+    "senses": {
+        "political": "a king",
+        "praiseworthy": "a respectful title for a king",
+        "social": "a ruler"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"naraka": {
+    "primary": "hell",
+    "senses": {
+        "cosmological": "a hell realm",
+        "suffering": "a place of torment",
+        "karmic": "a result of bad karma"
+    },
+    "semantic_field": "space",
+    "register": "sacred"
+},
+"nara-sīha": {
+    "primary": "a lion among men (an epithet of the Buddha)",
+    "senses": {
+        "praiseworthy": "an epithet of the Buddha",
+        "metaphorical": "a great and heroic man",
+        "comparative": "the best of men"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"nāsā": {
+    "primary": "the nose",
+    "senses": {
+        "anatomical": "the nose",
+        "sensory": "the organ of smell",
+        "physiological": "the passage for breathing"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"nāsikā": {
+    "primary": "the nose",
+    "senses": {
+        "anatomical": "the nose",
+        "sensory": "the organ of smell",
+        "physiological": "the passage for breathing"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"nātha": {
+    "primary": "protector, refuge, lord",
+    "senses": {
+        "supportive": "a protector or refuge",
+        "social": "a lord or master",
+        "religious": "a term for the Buddha"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"nāvā": {
+    "primary": "a ship, a boat",
+    "senses": {
+        "transport": "a ship",
+        "nautical": "a boat",
+        "metaphorical": "the Dhamma as a ship"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nāvika": {
+    "primary": "a sailor, a navigator",
+    "senses": {
+        "professional": "a sailor",
+        "agent": "a navigator of a ship",
+        "social": "a boatman"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"naya": {
+    "primary": "method, plan, inference, justice",
+    "senses": {
+        "methodical": "a method or plan",
+        "logical": "an inference or line of reasoning",
+        "ethical": "justice or right policy"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nāyaka": {
+    "primary": "leader, guide",
+    "senses": {
+        "social": "a leader",
+        "religious": "a guide (e.g., the Buddha)",
+        "agent": "one who leads"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nekkhamma": {
+    "primary": "renunciation, giving up the world",
+    "senses": {
+        "spiritual": "renunciation of worldly pleasures",
+        "ethical": "a wholesome mental state, a perfection (parami)",
+        "action": "the act of going forth into homelessness"
+    },
+    "semantic_field": "ethics",
+    "register": "formal"
+},
+"nela": {
+    "primary": "blameless, faultless",
+    "senses": {
+        "ethical": "blameless",
+        "qualitative": "faultless",
+        "positive": "without defect"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nepakka": {
+    "primary": "prudence, wisdom, discrimination",
+    "senses": {
+        "cognitive": "prudence or wisdom",
+        "ethical": "discretion",
+        "analytical": "discrimination"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"nerayika": {
+    "primary": "one who is in hell, a hell-being",
+    "senses": {
+        "cosmological": "an inhabitant of a hell realm",
+        "suffering": "a being undergoing torment",
+        "karmic": "one reborn in hell due to bad karma"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"nesāda": {
+    "primary": "a hunter, a fisherman",
+    "senses": {
+        "professional": "a hunter",
+        "social": "a person of a low, forest-dwelling caste",
+        "agent": "one who hunts or fishes"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"neyya": {
+    "primary": "to be led, a person who can be guided",
+    "senses": {
+        "dispositional": "a person who is tractable and can be guided to enlightenment",
+        "potential": "one who needs guidance to understand",
+        "analytical": "one of the four types of individuals"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"nibbāna": {
+    "primary": "extinguishing, liberation, the unconditioned",
+    "senses": {
+        "soteriological": "the final liberation from suffering and rebirth",
+        "psychological": "the extinguishing of greed, hatred, and delusion",
+        "philosophical": "the unconditioned, ultimate reality"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
+"nibbāpana": {
+    "primary": "cooling, quenching, extinguishing",
+    "senses": {
+        "action": "the act of cooling or extinguishing",
+        "metaphorical": "the quenching of the fires of passion",
+        "processual": "making cool"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nibbasana": {
+    "primary": "expulsion, banishment",
+    "senses": {
+        "legal": "banishment",
+        "action": "expulsion",
+        "negative": "driving out"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nibbedha": {
+    "primary": "penetration, wisdom, piercing",
+    "senses": {
+        "cognitive": "penetrative wisdom",
+        "insightful": "the piercing of ignorance",
+        "spiritual": "insight"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"nibbedhika": {
+    "primary": "penetrative (of wisdom)",
+    "senses": {
+        "qualitative": "having the quality of penetration",
+        "cognitive": "sharp and insightful",
+        "spiritual": "leading to penetration of the truth"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"nibbematika": {
+    "primary": "unanimous",
+    "senses": {
+        "social": "of one opinion",
+        "qualitative": "unanimous",
+        "positive": "without disagreement"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nibbidā": {
+    "primary": "disenchantment, aversion, disgust",
+    "senses": {
+        "spiritual": "disenchantment with worldly existence",
+        "psychological": "aversion or disgust, weariness",
+        "insightful": "a key stage of insight that leads to detachment"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"nibbisesa": {
+    "primary": "without distinction, same",
+    "senses": {
+        "qualitative": "having no difference",
+        "comparative": "the same",
+        "undifferentiated": "without distinction"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nibbuta": {
+    "primary": "cooled, extinguished, at peace, happy",
+    "senses": {
+        "soteriological": "having attained Nibbana",
+        "psychological": "cooled, free from the fires of passion",
+        "emotional": "peaceful and happy"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
+"nicca-kālaṃ": {
+    "primary": "always, constantly",
+    "senses": {
+        "adverbial": "always",
+        "temporal": "constantly",
+        "perpetual": "at all times"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"niccola": {
+    "primary": "without clothes, naked",
+    "senses": {
+        "physical": "naked",
+        "state": "unclothed",
+        "ascetic": "a naked ascetic"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"niddara": {
+    "primary": "without fear",
+    "senses": {
+        "emotional": "fearless",
+        "qualitative": "brave",
+        "positive": "unafraid"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"niddosa": {
+    "primary": "faultless, blameless",
+    "senses": {
+        "ethical": "faultless",
+        "qualitative": "without defect",
+        "positive": "blameless"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"niddesa": {
+    "primary": "description, explanation, analysis",
+    "senses": {
+        "literary": "an analytical exposition (e.g., the Niddesa)",
+        "action": "description or explanation",
+        "didactic": "an analysis"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"nidhi": {
+    "primary": "a treasure, a store",
+    "senses": {
+        "material": "a hidden treasure",
+        "metaphorical": "a store of merit",
+        "economic": "a deposit"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nidhāna": {
+    "primary": "laying down, deposit, treasure",
+    "senses": {
+        "action": "the act of laying down or depositing",
+        "material": "a treasure or deposit",
+        "causal": "a cause or source"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nigha": {
+    "primary": "trouble, suffering, pain",
+    "senses": {
+        "suffering": "trouble or suffering",
+        "negative": "pain or misery",
+        "ethical": "evil or sin"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"nigrodha": {
+    "primary": "the banyan tree",
+    "senses": {
+        "botanical": "the banyan tree (Ficus benghalensis)",
+        "symbolic": "a symbol of something that grows and spreads widely",
+        "natural": "a type of tree"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"nihīna": {
+    "primary": "low, base, inferior",
+    "senses": {
+        "qualitative": "low or inferior",
+        "ethical": "base or vile",
+        "social": "of a low class"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nijigimsanaka": {
+    "primary": "desiring to overcome, wishing for victory",
+    "senses": {
+        "volitional": "desiring to conquer",
+        "competitive": "wishing for victory",
+        "ambitious": "aspiring to overcome"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nijjivha": {
+    "primary": "tongueless, without deceitful speech",
+    "senses": {
+        "physical": "lacking a tongue",
+        "ethical": "not deceitful in speech",
+        "positive": "honest"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nikāma": {
+    "primary": "desire, pleasure",
+    "senses": {
+        "emotional": "desire or pleasure",
+        "volitional": "wish",
+        "adverbial": "at will, as one pleases"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"niketa": {
+    "primary": "abode, dwelling, home",
+    "senses": {
+        "spatial": "a dwelling place",
+        "architectural": "a house",
+        "social": "a home"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"nikkaḍḍhana": {
+    "primary": "expulsion, driving out",
+    "senses": {
+        "action": "the act of expelling",
+        "negative": "driving out",
+        "disciplinary": "banishment"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nikkaṅkha": {
+    "primary": "without doubt, certain",
+    "senses": {
+        "cognitive": "free from doubt",
+        "state": "certain",
+        "positive": "undoubting"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nikkāruṇa": {
+    "primary": "compassionless, cruel",
+    "senses": {
+        "ethical": "without compassion",
+        "negative": "cruel",
+        "dispositional": "merciless"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nikkhamana": {
+    "primary": "going out, departure, renunciation",
+    "senses": {
+        "action": "the act of going out",
+        "motional": "departure",
+        "spiritual": "renunciation (nekkhamma)"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nikkhepa": {
+    "primary": "putting down, deposit, summary",
+    "senses": {
+        "action": "the act of putting down",
+        "financial": "a deposit",
+        "literary": "a summary or outline"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nikkuha": {
+    "primary": "not deceitful, sincere",
+    "senses": {
+        "ethical": "not a hypocrite",
+        "positive": "sincere",
+        "honest": "not deceitful"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nilaya": {
+    "primary": "abode, home, nest",
+    "senses": {
+        "spatial": "an abode or home",
+        "zoological": "a nest",
+        "dwelling": "a resting place"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"nillajja": {
+    "primary": "shameless",
+    "senses": {
+        "ethical": "shameless",
+        "negative": "impudent",
+        "behavioral": "brazen"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nillekha": {
+    "primary": "without writing, absolution from debt",
+    "senses": {
+        "legal": "absolution from debt",
+        "qualitative": "without a mark",
+        "state": "free from obligation"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nillopa": {
+    "primary": "plundering, robbery",
+    "senses": {
+        "action": "plundering",
+        "criminal": "robbery",
+        "negative": "pillage"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nimantana": {
+    "primary": "an invitation",
+    "senses": {
+        "social": "an invitation",
+        "monastic": "an invitation for a meal",
+        "formal": "a formal request"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"niminita": {
+    "primary": "exchanged, bartered",
+    "senses": {
+        "action": "having been exchanged",
+        "commercial": "bartered",
+        "past_participle": "exchanged"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nimmaṃsa": {
+    "primary": "fleshless",
+    "senses": {
+        "physical": "without flesh",
+        "descriptive": "emaciated",
+        "negative": "lean"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"nimmātika": {
+    "primary": "motherless",
+    "senses": {
+        "social": "without a mother",
+        "familial": "motherless",
+        "unfortunate": "an orphan"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nimmita": {
+    "primary": "created, fashioned, a magically created form",
+    "senses": {
+        "action": "created",
+        "supernatural": "a magically created phantom",
+        "creative": "fashioned"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nimna": {
+    "primary": "low-lying ground, a slope, deep",
+    "senses": {
+        "geographical": "low ground, a slope",
+        "qualitative": "deep",
+        "spatial": "a low place"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"nimuggā": {
+    "primary": "sinking, plunging, diving",
+    "senses": {
+        "action": "the act of sinking or diving",
+        "motional": "plunging",
+        "negative": "sinking into samsara"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"ninda": {
+    "primary": "blame, reproach",
+    "senses": {
+        "social": "blame",
+        "negative": "reproach",
+        "verbal": "censure"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nindriya": {
+    "primary": "without faculties, impotent",
+    "senses": {
+        "negative": "lacking sense-faculties",
+        "biological": "impotent",
+        "qualitative": "weak"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"ninka": {
+    "primary": "a kind of deer",
+    "senses": {
+        "zoological": "a species of deer",
+        "animal": "a deer",
+        "natural": "a wild animal"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"ninnāda": {
+    "primary": "a sound, a noise, a cry",
+    "senses": {
+        "auditory": "a sound or noise",
+        "verbal": "a cry or shout",
+        "musical": "a musical sound"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nipaccākāra": {
+    "primary": "humility, politeness, obedience",
+    "senses": {
+        "ethical": "humility",
+        "social": "politeness",
+        "disciplinary": "obedience"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"nipajjā": {
+    "primary": "lying down",
+    "senses": {
+        "action": "the act of lying down",
+        "postural": "a reclining posture",
+        "restful": "rest"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nipātana": {
+    "primary": "falling down, a grammatical particle",
+    "senses": {
+        "action": "the act of falling down",
+        "grammatical": "an indeclinable particle",
+        "negative": "a downfall"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"nippakka": {
+    "primary": "prudent, wise",
+    "senses": {
+        "cognitive": "prudent",
+        "qualitative": "wise",
+        "positive": "discerning"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nippalāpa": {
+    "primary": "free from chatter, of good speech",
+    "senses": {
+        "ethical": "not engaging in frivolous talk",
+        "verbal": "speaking meaningfully",
+        "positive": "a virtuous quality of speech"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"nippesika": {
+    "primary": "a cheat, a rogue, a craftsman",
+    "senses": {
+        "negative": "a cheat or trickster",
+        "professional": "a craftsman (who peels or slices)",
+        "social": "a rogue"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nipphanda": {
+    "primary": "motionless, unmoving",
+    "senses": {
+        "qualitative": "motionless",
+        "state": "unmoving",
+        "physical": "still"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nipphāti": {
+    "primary": "increase, growth",
+    "senses": {
+        "processual": "increase",
+        "positive": "growth",
+        "quantitative": "an expansion"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nirabbuda": {
+    "primary": "a vast number, a cold hell",
+    "senses": {
+        "quantitative": "an immense number",
+        "cosmological": "a specific hell realm",
+        "numerical": "a number, often 100 million"
+    },
+    "semantic_field": "quantities",
+    "register": "formal"
+},
+"nirāhāra": {
+    "primary": "without food, fasting",
+    "senses": {
+        "state": "without food",
+        "action": "fasting",
+        "ascetic": "an ascetic practice"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nirālaya": {
+    "primary": "without attachment, free from desire",
+    "senses": {
+        "psychological": "without attachment",
+        "spiritual": "free from craving",
+        "liberated": "unattached"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"nirāmisa": {
+    "primary": "without flesh, spiritual, non-material",
+    "senses": {
+        "qualitative": "not worldly, spiritual",
+        "psychological": "free from sensual desires",
+        "contrastive": "opposed to 'sāmisa' (material)"
+    },
+    "semantic_field": "qualities",
+    "register": "formal"
+},
+"nirāsaṅka": {
+    "primary": "without doubt, fearless",
+    "senses": {
+        "cognitive": "free from doubt",
+        "emotional": "fearless",
+        "confident": "unsuspecting"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"niraṭṭhaka": {
+    "primary": "useless, pointless, vain",
+    "senses": {
+        "qualitative": "useless",
+        "negative": "pointless",
+        "futile": "in vain"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"niravasesa": {
+    "primary": "without remainder, complete",
+    "senses": {
+        "qualitative": "leaving nothing behind",
+        "comprehensive": "complete",
+        "adverbial": "completely"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nirupadhi": {
+    "primary": "without substratum, free from attachment",
+    "senses": {
+        "soteriological": "free from the bases of existence",
+        "liberated": "unattached",
+        "pure": "without clinging"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"nirupakkilesa": {
+    "primary": "without defilement, pure",
+    "senses": {
+        "ethical": "free from defilements",
+        "psychological": "pure of mind",
+        "spiritual": "a quality of an enlightened being"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"nisabha": {
+    "primary": "a bull, a noble person",
+    "senses": {
+        "zoological": "a bull",
+        "metaphorical": "a leader or noble person",
+        "strong": "a symbol of strength"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nisamma": {
+    "primary": "having considered, carefully",
+    "senses": {
+        "adverbial": "after careful consideration",
+        "cognitive": "having reflected",
+        "wise": "prudently"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nisammakārin": {
+    "primary": "acting considerately, prudent",
+    "senses": {
+        "behavioral": "one who acts after careful thought",
+        "wise": "prudent",
+        "ethical": "acting with consideration"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nisā": {
+    "primary": "night",
+    "senses": {
+        "temporal": "the night",
+        "dark": "the time of darkness",
+        "daily": "part of the daily cycle"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"nisākara": {
+    "primary": "the moon ('night-maker')",
+    "senses": {
+        "astronomical": "the moon",
+        "poetic": "a poetic name for the moon",
+        "luminous": "the source of night-light"
+    },
+    "semantic_field": "nature",
+    "register": "formal"
+},
+"nisammakārī": {
+    "primary": "one who acts considerately",
+    "senses": {
+        "ethical": "a person who acts with prudence",
+        "wise": "a considerate person",
+        "behavioral": "acting thoughtfully"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"nisamma": {
+    "primary": "having considered, thoughtfully",
+    "senses": {
+        "adverbial": "after consideration",
+        "cognitive": "thoughtfully",
+        "wise": "prudently"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"nissaṅga": {
+    "primary": "detached, unattached",
+    "senses": {
+        "psychological": "detached from the world",
+        "spiritual": "unattached",
+        "liberated": "free from clinging"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"nissaraṇa": {
+    "primary": "escape, departure, release",
+    "senses": {
+        "soteriological": "the escape from samsara",
+        "action": "departure or going out",
+        "liberating": "release"
+    },
+    "semantic_field": "enlightenment",
+    "register": "formal"
+},
+"nissaya": {
+    "primary": "support, dependence, basis",
+    "senses": {
+        "supportive": "support or foundation",
+        "relational": "dependence on",
+        "monastic": "the four resources for a monk"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nisseni": {
+    "primary": "a ladder, a staircase",
+    "senses": {
+        "instrumental": "a ladder",
+        "architectural": "a staircase",
+        "metaphorical": "a way to ascend"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"nissesa": {
+    "primary": "without remainder, complete",
+    "senses": {
+        "qualitative": "complete",
+        "adverbial": "completely",
+        "quantitative": "without remainder"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"nissita": {
+    "primary": "depending on, attached to",
+    "senses": {
+        "relational": "dependent on",
+        "psychological": "attached to",
+        "state": "supported by"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"niṭṭhā": {
+    "primary": "end, conclusion, perfection",
+    "senses": {
+        "final": "the end or conclusion",
+        "completive": "perfection or completion",
+        "goal": "the final goal"
+    },
+    "semantic_field": "time",
+    "register": "formal"
+},
+"niṭṭhubha": {
+    "primary": "spitting out, harsh speech",
+    "senses": {
+        "action": "the act of spitting",
+        "verbal": "harsh or abusive speech",
+        "negative": "contemptuous action"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nīvaraṇa-dhamma": {
+    "primary": "things that are hindrances",
+    "senses": {
+        "psychological": "the five mental hindrances",
+        "obstructive": "states that obstruct mental development",
+        "analytical": "a category of unwholesome states"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"nivuttha": {
+    "primary": "dwelt, inhabited",
+    "senses": {
+        "state": "having dwelt",
+        "past_participle": "dwelt",
+        "action": "having lived in a place"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"niyama": {
+    "primary": "certainty, fixed order, limitation",
+    "senses": {
+        "philosophical": "a fixed natural order (e.g., kamma-niyama)",
+        "state": "certainty",
+        "disciplinary": "a limitation or restraint"
+    },
+    "semantic_field": "qualities",
+    "register": "technical"
+},
+"niyyātana": {
+    "primary": "giving back, handing over, dedication",
+    "senses": {
+        "action": "the act of giving back",
+        "transactional": "handing over",
+        "religious": "dedication of a gift"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"niyyādeti": {
+    "primary": "hands over, gives up, entrusts",
+    "senses": {
+        "action": "to hand over",
+        "transactional": "to give up",
+        "fiduciary": "to entrust"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"nūna": {
+    "primary": "surely, certainly, indeed",
+    "senses": {
+        "emphatic": "surely",
+        "assertive": "certainly",
+        "adverbial": "indeed"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"odaka": {
+    "primary": "water",
+    "senses": {
+        "natural": "water",
+        "liquid": "a liquid",
+        "elemental": "the water element"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"odana": {
+    "primary": "boiled rice, porridge",
+    "senses": {
+        "culinary": "boiled rice",
+        "food": "a meal",
+        "material": "porridge"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"odata-vasana": {
+    "primary": "wearing white clothes, a layman",
+    "senses": {
+        "social": "a lay person (as opposed to a monk in ochre robes)",
+        "descriptive": "dressed in white",
+        "religious": "a lay follower"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"odhi": {
+    "primary": "limit, boundary",
+    "senses": {
+        "spatial": "a limit or boundary",
+        "temporal": "a limit in time",
+        "quantitative": "a boundary"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"ogāha": {
+    "primary": "diving into, entering, understanding",
+    "senses": {
+        "action": "diving into water",
+        "cognitive": "penetrating or understanding a subject",
+        "processual": "entering into"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"oha": {
+    "primary": "taking down, laying down",
+    "senses": {
+        "action": "the act of taking something down",
+        "physical": "laying down a burden",
+        "processual": "putting down"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"ohita-sota": {
+    "primary": "with ears attentive, listening carefully",
+    "senses": {
+        "attentive": "listening carefully",
+        "receptive": "with ears ready to hear",
+        "descriptive": "one who is paying attention"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"oja": {
+    "primary": "nutritive essence, vitality",
+    "senses": {
+        "physiological": "the nutritive essence of food",
+        "qualitative": "vitality or strength",
+        "analytical": "the nutrient quality in matter"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"okāsa": {
+    "primary": "opportunity, permission, space",
+    "senses": {
+        "opportunity": "a chance or opportunity",
+        "social": "permission",
+        "spatial": "space or room"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"okāsa-kamma": {
+    "primary": "the act of asking for permission",
+    "senses": {
+        "procedural": "a formal request for permission",
+        "monastic": "a specific procedure in the Vinaya",
+        "social": "asking for leave"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"omaka": {
+    "primary": "inferior, lower",
+    "senses": {
+        "qualitative": "inferior",
+        "comparative": "lower",
+        "negative": "base"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"ora": {
+    "primary": "the near side, this side, below",
+    "senses": {
+        "spatial": "this side",
+        "comparative": "below or inferior",
+        "metaphorical": "this world (samsara)"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"ora-mbhāgiya": {
+    "primary": "belonging to the lower world",
+    "senses": {
+        "soteriological": "the five lower fetters that bind to the sense-sphere",
+        "cosmological": "pertaining to the lower realms",
+        "qualitative": "of a lower or coarser kind"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"orasa": {
+    "primary": "one's own legitimate son, born from the breast",
+    "senses": {
+        "familial": "a legitimate, biological son",
+        "metaphorical": "a true disciple ('born from the mouth of the Buddha')",
+        "legal": "a rightful heir"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"orima": {
+    "primary": "the near, this side",
+    "senses": {
+        "spatial": "this side",
+        "comparative": "the lower",
+        "temporal": "the hither"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"osadha": {
+    "primary": "medicine, herb",
+    "senses": {
+        "medical": "medicine",
+        "botanical": "a medicinal herb",
+        "therapeutic": "a remedy"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"osāna": {
+    "primary": "the end, conclusion",
+    "senses": {
+        "temporal": "the end",
+        "conclusive": "the conclusion",
+        "final": "the finish"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"otaraṇa": {
+    "primary": "descending, entering",
+    "senses": {
+        "action": "the act of descending",
+        "motional": "entering",
+        "processual": "going down into"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"ottappa": {
+    "primary": "moral dread, fear of wrongdoing",
+    "senses": {
+        "ethical": "the fear of the consequences of evil actions",
+        "psychological": "moral dread",
+        "protective": "a wholesome state that guards against evil"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"ovāda": {
+    "primary": "advice, instruction, admonition",
+    "senses": {
+        "didactic": "advice or instruction",
+        "ethical": "admonition",
+        "supportive": "counsel"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"pabbajita": {
+    "primary": "one who has gone forth, an ascetic, a monk",
+    "senses": {
+        "religious": "one who has renounced the world",
+        "monastic": "a monk",
+        "social": "an ascetic"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"pabbata-kūṭa": {
+    "primary": "a mountain peak",
+    "senses": {
+        "geographical": "a mountain peak",
+        "spatial": "the summit of a mountain",
+        "descriptive": "a high point"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pabbhāra": {
+    "primary": "a slope, an incline, a cave",
+    "senses": {
+        "geographical": "a mountain slope",
+        "spatial": "an incline",
+        "secluded": "a cave or secluded place"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pabhu": {
+    "primary": "lord, master, ruler",
+    "senses": {
+        "social": "a lord or master",
+        "powerful": "a powerful person",
+        "qualitative": "eminent, capable"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"pacala": {
+    "primary": "nodding, drowsy",
+    "senses": {
+        "physiological": "nodding with drowsiness",
+        "psychological": "a state of torpor",
+        "negative": "drowsy"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"pacālaka": {
+    "primary": "one who shakes, moving",
+    "senses": {
+        "agent": "one who shakes something",
+        "descriptive": "moving or swaying",
+        "action": "shaking"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pacana": {
+    "primary": "cooking, digestion",
+    "senses": {
+        "action": "the act of cooking",
+        "physiological": "digestion",
+        "culinary": "cooking"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pacari": {
+    "primary": "teacher's teacher, a grand-teacher",
+    "senses": {
+        "social": "the teacher of one's teacher",
+        "hierarchical": "a senior preceptor",
+        "educational": "a grand-teacher"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"paccāmitta": {
+    "primary": "enemy, adversary",
+    "senses": {
+        "social": "an enemy",
+        "military": "an adversary",
+        "negative": "a foe"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"paccattharaṇa": {
+    "primary": "a covering, a rug, a bed-sheet",
+    "senses": {
+        "household": "a covering for a bed or seat",
+        "material": "a rug or sheet",
+        "functional": "a spread"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"paccavekkhaṇa": {
+    "primary": "reflection, consideration, reviewing",
+    "senses": {
+        "cognitive": "the act of reflecting upon or reviewing",
+        "monastic": "the reflection on the use of requisites",
+        "wise": "wise consideration"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"paccaya-sannissita-sīla": {
+    "primary": "morality concerning the use of requisites",
+    "senses": {
+        "monastic": "the virtue of using the four requisites with proper reflection",
+        "ethical": "a specific aspect of monastic discipline",
+        "practical": "wise use of supports"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"pacchā-bhattaṃ": {
+    "primary": "after the meal, in the afternoon",
+    "senses": {
+        "temporal": "after the midday meal",
+        "adverbial": "in the afternoon",
+        "monastic": "the time when monks cannot eat"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"pacchima": {
+    "primary": "last, western, final",
+    "senses": {
+        "sequential": "the last",
+        "directional": "western",
+        "final": "the final one"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pacura": {
+    "primary": "abundant, much, many",
+    "senses": {
+        "quantitative": "abundant",
+        "qualitative": "much or many",
+        "positive": "plentiful"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"padakkhiṇā": {
+    "primary": "respectful circumambulation (keeping right side towards)",
+    "senses": {
+        "ritual": "the act of walking around a sacred object as a sign of respect",
+        "devotional": "a form of worship",
+        "action": "circumambulation"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"padālana": {
+    "primary": "splitting, tearing, bursting",
+    "senses": {
+        "action": "the act of splitting or tearing",
+        "destructive": "bursting apart",
+        "physical": "cleaving"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"padesa": {
+    "primary": "place, region, part",
+    "senses": {
+        "spatial": "a place or region",
+        "quantitative": "a part or portion",
+        "geographical": "a district"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"padosa-kāla": {
+    "primary": "evening time",
+    "senses": {
+        "temporal": "the evening",
+        "daily": "a part of the day",
+        "time": "evening"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"paduma": {
+    "primary": "the lotus",
+    "senses": {
+        "botanical": "the lotus flower (Nelumbo nucifera)",
+        "symbolic": "a symbol of purity and enlightenment",
+        "aesthetic": "a beautiful flower"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"padumāsana": {
+    "primary": "the lotus posture",
+    "senses": {
+        "meditative": "a cross-legged sitting posture for meditation",
+        "postural": "a specific way of sitting",
+        "yogic": "a yoga posture"
+    },
+    "semantic_field": "body",
+    "register": "technical"
+},
+"pāgabbhiya": {
+    "primary": "boldness, impudence, audacity",
+    "senses": {
+        "negative": "impudence or audacity",
+        "dispositional": "boldness",
+        "social": "presumption"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pagāḷha": {
+    "primary": "sunk into, deeply engaged, excessive",
+    "senses": {
+        "immersive": "deeply engaged in",
+        "negative": "excessive or sunk into (sensual pleasures)",
+        "state": "strongly immersed"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"paggharaṇa": {
+    "primary": "oozing, trickling, dripping",
+    "senses": {
+        "action": "the act of oozing or trickling",
+        "physical": "dripping",
+        "processual": "a slow flow"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pagiddha": {
+    "primary": "greedy",
+    "senses": {
+        "dispositional": "greedy",
+        "negative": "avaricious",
+        "psychological": "intensely desirous"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"paguṇa": {
+    "primary": "proficient, familiar, well-practiced",
+    "senses": {
+        "skilled": "proficient or expert",
+        "cognitive": "well-acquainted with a subject",
+        "habitual": "well-practiced"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pahaṃsita": {
+    "primary": "gladdened, delighted",
+    "senses": {
+        "emotional": "made happy",
+        "positive": "delighted",
+        "state": "in a state of gladness"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"paharaṇa": {
+    "primary": "a weapon, striking",
+    "senses": {
+        "instrumental": "a weapon",
+        "action": "the act of striking",
+        "military": "an instrument for fighting"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pahāsa": {
+    "primary": "laughter, mirth",
+    "senses": {
+        "emotional": "laughter",
+        "social": "mirth or amusement",
+        "action": "the act of laughing"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pahīna": {
+    "primary": "abandoned, given up",
+    "senses": {
+        "soteriological": "having abandoned the defilements",
+        "action": "given up",
+        "past_participle": "abandoned"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"pahūta": {
+    "primary": "abundant, much, many",
+    "senses": {
+        "quantitative": "abundant",
+        "positive": "plentiful",
+        "qualitative": "much or many"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"pajā": {
+    "primary": "progeny, offspring, people",
+    "senses": {
+        "biological": "offspring",
+        "social": "people or subjects of a king",
+        "collective": "mankind"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pajāpati": {
+    "primary": "lord of creation, a creator god",
+    "senses": {
+        "mythological": "a title for a creator deity like Brahma",
+        "social": "the head of a family, a king",
+        "creative": "a progenitor"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"pajjara": {
+    "primary": "a kind of bird, walking",
+    "senses": {
+        "zoological": "a species of bird",
+        "action": "walking",
+        "motional": "going"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pajjota": {
+    "primary": "a lamp, a light",
+    "senses": {
+        "instrumental": "a lamp",
+        "luminous": "a light",
+        "metaphorical": "the light of wisdom"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pakka": {
+    "primary": "ripe, cooked, grey (of hair)",
+    "senses": {
+        "botanical": "ripe (of fruit)",
+        "culinary": "cooked",
+        "physical": "grey (of hair)"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pakkosana": {
+    "primary": "calling, shouting out, summoning",
+    "senses": {
+        "action": "the act of calling",
+        "verbal": "shouting out",
+        "social": "summoning"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pakkhandin": {
+    "primary": "one who leaps forward, impetuous, aggressive",
+    "senses": {
+        "behavioral": "impetuous or rash",
+        "aggressive": "one who attacks",
+        "motional": "leaping forward"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pālaka": {
+    "primary": "guardian, protector, keeper",
+    "senses": {
+        "agent": "a guardian",
+        "protective": "a protector",
+        "custodial": "a keeper"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pālana": {
+    "primary": "protection, guarding, government",
+    "senses": {
+        "action": "the act of protecting",
+        "governmental": "government or administration",
+        "custodial": "guarding"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"paligha": {
+    "primary": "a cross-bar, a hindrance",
+    "senses": {
+        "instrumental": "a bar for locking a gate",
+        "metaphorical": "a hindrance or obstacle",
+        "obstructive": "a barrier"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"palita": {
+    "primary": "grey hair, old age",
+    "senses": {
+        "physical": "grey hair",
+        "temporal": "a sign of old age",
+        "descriptive": "greyness"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"pallala": {
+    "primary": "a small pond, a pool",
+    "senses": {
+        "geographical": "a small pond",
+        "environmental": "a pool of water",
+        "natural": "a puddle"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pamāṇa": {
+    "primary": "measure, size, standard",
+    "senses": {
+        "quantitative": "measure or size",
+        "qualitative": "a standard or criterion",
+        "cognitive": "a means of valid knowledge (in logic)"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"pamāṇa-kata": {
+    "primary": "measured out, limited, defined",
+    "senses": {
+        "qualitative": "limited or defined",
+        "quantitative": "measured out",
+        "restrictive": "put within limits"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pamukha": {
+    "primary": "chief, principal, foremost",
+    "senses": {
+        "hierarchical": "chief or foremost",
+        "qualitative": "principal",
+        "adverbial": "at the head of"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pamuṭṭha": {
+    "primary": "forgotten, negligent",
+    "senses": {
+        "cognitive": "forgotten",
+        "negative": "negligent",
+        "inattentive": "unmindful"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pāna": {
+    "primary": "a drink, a beverage, breath",
+    "senses": {
+        "culinary": "a drink",
+        "physiological": "breath or life",
+        "general": "drinking"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"panasa": {
+    "primary": "the jack-fruit tree",
+    "senses": {
+        "botanical": "the jack-fruit tree",
+        "culinary": "its fruit",
+        "natural": "a type of tree"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"paṇḍara": {
+    "primary": "white, pale",
+    "senses": {
+        "color": "white",
+        "qualitative": "pale or yellowish-white",
+        "descriptive": "white-colored"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pandita-mānin": {
+    "primary": "thinking oneself wise, conceited",
+    "senses": {
+        "psychological": "one who is conceited about his wisdom",
+        "negative": "pretending to be wise",
+        "pejorative": "a pseudo-scholar"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"paṇḍu-palāsa": {
+    "primary": "a yellow leaf",
+    "senses": {
+        "botanical": "a yellow, withered leaf",
+        "symbolic": "a symbol of decay and old age",
+        "natural": "a fallen leaf"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"panha": {
+    "primary": "a question",
+    "senses": {
+        "verbal": "a question",
+        "intellectual": "a problem or issue",
+        "didactic": "a question for teaching"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"paṇhi": {
+    "primary": "the heel",
+    "senses": {
+        "anatomical": "the heel",
+        "physical": "a part of the foot",
+        "descriptive": "the back of the foot"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"pāṇi": {
+    "primary": "the hand, a living being",
+    "senses": {
+        "anatomical": "the hand",
+        "ontological": "a living being, a creature ('that which breathes')",
+        "instrumental": "the hand as a tool"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"panidhāna": {
+    "primary": "aspiration, resolution, prayer",
+    "senses": {
+        "volitional": "an aspiration or resolution",
+        "spiritual": "a firm resolve for a spiritual goal",
+        "devotional": "a prayer or earnest wish"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"pānīya": {
+    "primary": "water for drinking, a beverage",
+    "senses": {
+        "culinary": "a drink",
+        "physiological": "drinking water",
+        "material": "a beverage"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"panka": {
+    "primary": "mud, mire, defilement",
+    "senses": {
+        "natural": "mud",
+        "metaphorical": "the mire of sensual pleasures or defilements",
+        "negative": "a swamp"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"paṇṇa": {
+    "primary": "a leaf, a feather, a letter",
+    "senses": {
+        "botanical": "a leaf",
+        "zoological": "a feather or wing",
+        "communicative": "a written leaf, a letter"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"paṇṇa-sālā": {
+    "primary": "a hut of leaves",
+    "senses": {
+        "architectural": "a simple hut made of leaves",
+        "ascetic": "a dwelling for an ascetic",
+        "natural": "a rustic shelter"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"panta": {
+    "primary": "distant, remote, secluded",
+    "senses": {
+        "spatial": "distant or remote",
+        "environmental": "secluded (of a dwelling)",
+        "qualitative": "solitary"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pāpa-kamma": {
+    "primary": "an evil deed, a sin",
+    "senses": {
+        "ethical": "an evil action",
+        "karmic": "a demeritorious deed",
+        "negative": "a sin"
+    },
+    "semantic_field": "ethics",
+    "register": "common"
+},
+"pāpa-mitta": {
+    "primary": "a bad friend, an evil companion",
+    "senses": {
+        "social": "a bad friend",
+        "ethical": "a companion who leads one to evil",
+        "negative": "a bad influence"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"papāta": {
+    "primary": "a cliff, a precipice, falling down",
+    "senses": {
+        "geographical": "a cliff",
+        "negative": "a precipice",
+        "action": "the act of falling down"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pāpiccha": {
+    "primary": "having evil desires, wicked",
+    "senses": {
+        "dispositional": "having evil wishes",
+        "negative": "wicked",
+        "ethical": "morally corrupt"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pāpimantu": {
+    "primary": "the evil one, a name for Māra",
+    "senses": {
+        "mythological": "an epithet of Māra",
+        "ethical": "the personification of evil",
+        "negative": "the wicked one"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"para-kamma": {
+    "primary": "work for others, service",
+    "senses": {
+        "social": "service to others",
+        "action": "work done on behalf of another",
+        "positive": "altruistic work"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"para-loka": {
+    "primary": "the next world, the world beyond",
+    "senses": {
+        "cosmological": "the next world",
+        "soteriological": "the future life",
+        "temporal": "the world to come"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"parama": {
+    "primary": "highest, supreme, best",
+    "senses": {
+        "qualitative": "highest or supreme",
+        "comparative": "the best",
+        "ultimate": "ultimate"
+    },
+    "semantic_field": "qualities",
+    "register": "formal"
+},
+"paramparā": {
+    "primary": "tradition, succession, lineage",
+    "senses": {
+        "cultural": "tradition",
+        "temporal": "a continuous succession",
+        "educational": "a lineage of teachers"
+    },
+    "semantic_field": "time",
+    "register": "formal"
+},
+"parāmāsa": {
+    "primary": "grasping, contagion, adherence to",
+    "senses": {
+        "psychological": "clinging to views or rites",
+        "negative": "a misapprehension",
+        "soteriological": "a higher fetter"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"para-puggala": {
+    "primary": "another person",
+    "senses": {
+        "social": "another individual",
+        "relational": "someone other than oneself",
+        "general": "another person"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pāragū": {
+    "primary": "one who has gone beyond, an Arahant",
+    "senses": {
+        "soteriological": "one who has crossed over samsara",
+        "praiseworthy": "an epithet of an enlightened being",
+        "victorious": "one who has reached the final goal"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"pari-kamma": {
+    "primary": "preparatory action, preliminary work",
+    "senses": {
+        "meditative": "preparatory stages of concentration",
+        "action": "preliminary work",
+        "ritual": "preparations for a ceremony"
+    },
+    "semantic_field": "action",
+    "register": "technical"
+},
+"pari-kkhāra": {
+    "primary": "requisite, accessory",
+    "senses": {
+        "monastic": "a monk's requisites",
+        "instrumental": "equipment or accessories",
+        "supportive": "necessary items"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pari-kūla": {
+    "primary": "a crumbling river bank",
+    "senses": {
+        "environmental": "an eroding river bank",
+        "negative": "a symbol of decay",
+        "geographical": "a river bank"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pari-maṇḍala": {
+    "primary": "circular, round, all around",
+    "senses": {
+        "geometric": "circular",
+        "adverbial": "all around",
+        "monastic": "wearing the robes properly all around"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pari-mita": {
+    "primary": "measured, limited, defined",
+    "senses": {
+        "quantitative": "measured",
+        "qualitative": "limited or defined",
+        "negative": "restricted"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pari-ṇāma": {
+    "primary": "change, digestion, ripening",
+    "senses": {
+        "processual": "change or transformation",
+        "physiological": "digestion",
+        "karmic": "the ripening of karma"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pari-ṇāyaka": {
+    "primary": "a leader, a guide",
+    "senses": {
+        "social": "a leader",
+        "instructional": "a guide",
+        "agent": "one who leads"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"pari-pāka": {
+    "primary": "ripening, maturity, digestion",
+    "senses": {
+        "processual": "ripening or maturity",
+        "physiological": "digestion",
+        "karmic": "the full ripening of karma"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pari-pācana": {
+    "primary": "bringing to maturity, making ripen",
+    "senses": {
+        "action": "the act of making something ripen",
+        "developmental": "bringing to maturity",
+        "causative": "causing to ripen"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pari-pantha": {
+    "primary": "an obstacle, a danger, a highwayman",
+    "senses": {
+        "obstructive": "an obstacle on a path",
+        "negative": "a danger",
+        "social": "a robber or highwayman"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"pari-pūra": {
+    "primary": "full, complete, fulfilled",
+    "senses": {
+        "qualitative": "full or complete",
+        "state": "fulfilled",
+        "positive": "perfect"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pari-pūrin": {
+    "primary": "one who fulfills, accomplishing",
+    "senses": {
+        "agent": "one who fulfills or completes",
+        "action": "accomplishing",
+        "positive": "perfecting"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pari-sankā": {
+    "primary": "suspicion, doubt",
+    "senses": {
+        "cognitive": "suspicion",
+        "negative": "doubt or apprehension",
+        "social": "mistrust"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pari-suddha": {
+    "primary": "pure, clean",
+    "senses": {
+        "qualitative": "perfectly pure",
+        "ethical": "morally clean",
+        "state": "completely purified"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pari-tāpa": {
+    "primary": "torment, grief, pain",
+    "senses": {
+        "suffering": "torment or pain",
+        "emotional": "grief",
+        "negative": "scorching heat"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"pari-tulasanā": {
+    "primary": "weighing, consideration",
+    "senses": {
+        "cognitive": "consideration",
+        "analytical": "weighing options",
+        "action": "deliberation"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pari-vatta": {
+    "primary": "a circle, a round, exchange",
+    "senses": {
+        "spatial": "a circle",
+        "temporal": "a round or cycle",
+        "commercial": "barter or exchange"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pari-vattaka": {
+    "primary": "rolling, turning, a translator",
+    "senses": {
+        "action": "rolling or turning",
+        "professional": "a translator ('one who turns words')",
+        "processual": "exchanging"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pari-vāra": {
+    "primary": "retinue, attendants, followers",
+    "senses": {
+        "social": "an entourage or retinue",
+        "collective": "followers",
+        "supportive": "attendants"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pari-vāsa": {
+    "primary": "probation (monastic)",
+    "senses": {
+        "monastic": "a period of probation for a monk",
+        "disciplinary": "a form of penance",
+        "legal": "a specific Vinaya procedure"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"pari-vīmaṃsā": {
+    "primary": "investigation, reflection",
+    "senses": {
+        "cognitive": "thorough investigation",
+        "analytical": "reflection",
+        "action": "consideration"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pariveṇa": {
+    "primary": "a monastic cell, a residence",
+    "senses": {
+        "monastic": "a monk's cell",
+        "architectural": "a residence for monks",
+        "educational": "a monastic college"
+    },
+    "semantic_field": "space",
+    "register": "technical"
+},
+"parivisati": {
+    "primary": "serves food, waits upon",
+    "senses": {
+        "action": "to serve a meal",
+        "social": "to wait upon someone at a meal",
+        "hospitality": "an act of hospitality"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"parivuta": {
+    "primary": "surrounded by, attended by",
+    "senses": {
+        "state": "surrounded by",
+        "social": "attended by a retinue",
+        "spatial": "encircled"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pariyanta": {
+    "primary": "end, limit, boundary",
+    "senses": {
+        "spatial": "a boundary",
+        "temporal": "the end or limit",
+        "final": "the conclusion"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pariyāputa": {
+    "primary": "mastered, learned well",
+    "senses": {
+        "cognitive": "having mastered a subject",
+        "educational": "well-learned",
+        "skilled": "proficient"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pariyāya": {
+    "primary": "method, way, turn, synonym",
+    "senses": {
+        "methodical": "a method or way",
+        "sequential": "a turn or succession",
+        "linguistic": "a synonym or alternative expression"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pariyesanā": {
+    "primary": "a search, a seeking",
+    "senses": {
+        "action": "the act of searching",
+        "investigative": "a search",
+        "volitional": "seeking"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pariyogāhana": {
+    "primary": "diving deep into, full comprehension",
+    "senses": {
+        "cognitive": "deep comprehension",
+        "action": "the act of fathoming",
+        "insightful": "penetrating understanding"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"pariyosāna": {
+    "primary": "the end, conclusion",
+    "senses": {
+        "temporal": "the end",
+        "final": "the conclusion",
+        "completive": "the final point"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"pasāda-jananīya": {
+    "primary": "inspiring confidence, causing faith",
+    "senses": {
+        "qualitative": "that which inspires faith",
+        "causal": "causing serene confidence",
+        "positive": "inspiring"
+    },
+    "semantic_field": "qualities",
+    "register": "formal"
+},
+"pāsādika": {
+    "primary": "lovely, pleasant, charming",
+    "senses": {
+        "aesthetic": "lovely or charming",
+        "positive": "pleasant and inspiring confidence",
+        "qualitative": "graceful"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pasava": {
+    "primary": "offspring, produce, bringing forth",
+    "senses": {
+        "biological": "offspring",
+        "agricultural": "produce",
+        "action": "the act of bringing forth"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pasayha": {
+    "primary": "by force, forcibly",
+    "senses": {
+        "adverbial": "forcibly",
+        "violent": "by means of force",
+        "action": "having overpowered"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pasu-pati": {
+    "primary": "lord of beasts, an epithet of Siva",
+    "senses": {
+        "mythological": "an epithet of the god Siva",
+        "divine": "a deity",
+        "descriptive": "master of animals"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"pāṭalī": {
+    "primary": "the trumpet-flower tree",
+    "senses": {
+        "botanical": "a specific tree (Stereospermum suaveolens)",
+        "geographical": "the city of Pataliputta was named after it",
+        "natural": "a type of tree"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pātavyatā": {
+    "primary": "falling, ruin, downfall",
+    "senses": {
+        "state": "the state of ruin",
+        "negative": "a downfall",
+        "processual": "the liability to fall"
+    },
+    "semantic_field": "suffering",
+    "register": "common"
+},
+"patha": {
+    "primary": "path, road, way",
+    "senses": {
+        "spatial": "a path or road",
+        "metaphorical": "a course of action",
+        "soteriological": "the spiritual path"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"patha-vin": {
+    "primary": "a traveler, a wayfarer",
+    "senses": {
+        "social": "a traveler",
+        "agent": "one who walks on a path",
+        "motional": "a wayfarer"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pātheyya": {
+    "primary": "provisions for a journey",
+    "senses": {
+        "material": "travel provisions",
+        "metaphorical": "merit as provisions for the next life",
+        "supportive": "supplies for a journey"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pātihāriya": {
+    "primary": "a miracle, a marvel, wonder",
+    "senses": {
+        "supernatural": "a miracle",
+        "wonderful": "a marvel or wonder",
+        "extraordinary": "an extraordinary event"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"paṭikacca": {
+    "primary": "beforehand, in advance",
+    "senses": {
+        "adverbial": "beforehand",
+        "temporal": "in advance",
+        "preparatory": "in preparation"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"paṭikāra": {
+    "primary": "remedy, counteraction, requital",
+    "senses": {
+        "remedial": "a remedy or counter-measure",
+        "reciprocal": "requital or return",
+        "action": "a counter-action"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"paṭikūla": {
+    "primary": "repulsive, disagreeable, contrary",
+    "senses": {
+        "aesthetic": "repulsive or disgusting",
+        "experiential": "disagreeable",
+        "oppositional": "contrary"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"paṭiloma": {
+    "primary": "against the hair, contrary, reverse order",
+    "senses": {
+        "directional": "in reverse order",
+        "oppositional": "contrary",
+        "analytical": "the reverse sequence (e.g., of dependent origination)"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"paṭimalla": {
+    "primary": "an opponent, a rival wrestler",
+    "senses": {
+        "social": "an opponent",
+        "competitive": "a rival",
+        "military": "an adversary"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"paṭimukka": {
+    "primary": "bound, fastened, wearing",
+    "senses": {
+        "state": "bound or fastened",
+        "clothing": "wearing",
+        "descriptive": "tied on"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"patina": {
+    "primary": "a master, a husband",
+    "senses": {
+        "social": "a master or lord",
+        "familial": "a husband",
+        "hierarchical": "a ruler"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"paṭipadā-ñāṇa-dassana-visuddhi": {
+    "primary": "the purification of knowledge and vision of the way",
+    "senses": {
+        "soteriological": "one of the seven stages of purification",
+        "insightful": "the knowledge of the noble path as it arises",
+        "practical": "the wisdom of the practice"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"patirupa": {
+    "primary": "suitable, proper, corresponding",
+    "senses": {
+        "qualitative": "suitable",
+        "ethical": "proper",
+        "relational": "corresponding to"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"paṭirūpaka": {
+    "primary": "a counterfeit, an imitation",
+    "senses": {
+        "negative": "a counterfeit",
+        "imitative": "an imitation",
+        "deceptive": "a fake"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"paṭisallāna": {
+    "primary": "seclusion, retirement, solitude",
+    "senses": {
+        "state": "a state of seclusion",
+        "meditative": "retirement for the purpose of meditation",
+        "spatial": "solitude"
+    },
+    "semantic_field": "space",
+    "register": "formal"
+},
+"patisaraṇa": {
+    "primary": "a refuge, a help, a protection",
+    "senses": {
+        "supportive": "a refuge or protection",
+        "helpful": "a source of help",
+        "safe": "a shelter"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"paṭisota": {
+    "primary": "against the stream",
+    "senses": {
+        "metaphorical": "going against the stream of worldly desires",
+        "difficult": "a difficult course",
+        "spiritual": "the practice of renunciation"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"patta-khandha": {
+    "primary": "with drooping shoulders, dejected",
+    "senses": {
+        "physical": "having drooping shoulders",
+        "emotional": "dejected or downcast",
+        "negative": "disheartened"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"pattaniya": {
+    "primary": "to be attained, desirable",
+    "senses": {
+        "potential": "that which can be attained",
+        "desirable": "desirable",
+        "goal": "a goal to be reached"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"patti": {
+    "primary": "foot-soldier, attainment, share",
+    "senses": {
+        "military": "an infantryman",
+        "state": "attainment or arrival",
+        "quantitative": "a share or portion"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pattika": {
+    "primary": "on foot, a partner",
+    "senses": {
+        "motional": "going on foot",
+        "social": "a partner or shareholder",
+        "descriptive": "pedestrian"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pavaḍḍha": {
+    "primary": "grown up, large",
+    "senses": {
+        "developmental": "grown up",
+        "quantitative": "large",
+        "qualitative": "increased"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pavara": {
+    "primary": "excellent, noble, chief",
+    "senses": {
+        "qualitative": "excellent",
+        "social": "noble or chief",
+        "praiseworthy": "the best"
+    },
+    "semantic_field": "qualities",
+    "register": "formal"
+},
+"pavāsa": {
+    "primary": "living abroad, absence",
+    "senses": {
+        "social": "living away from home",
+        "state": "absence",
+        "journey": "sojourning"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pāvacana": {
+    "primary": "the scriptures, the Buddha's word",
+    "senses": {
+        "literary": "the scriptures",
+        "religious": "the word of the Buddha",
+        "authoritative": "the doctrine"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
+"pavedhita": {
+    "primary": "trembling, shaken",
+    "senses": {
+        "state": "trembling",
+        "physical": "shaken",
+        "emotional": "agitated"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"paveni": {
+    "primary": "tradition, lineage, braid of hair",
+    "senses": {
+        "cultural": "tradition",
+        "genealogical": "lineage",
+        "physical": "a braid of hair"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"paviveka": {
+    "primary": "seclusion, solitude",
+    "senses": {
+        "state": "seclusion",
+        "spatial": "solitude",
+        "meditative": "retirement from company"
+    },
+    "semantic_field": "space",
+    "register": "formal"
+},
+"pāyaka": {
+    "primary": "one who drinks",
+    "senses": {
+        "agent": "a drinker",
+        "action": "one who drinks",
+        "descriptive": "drinking"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"payata": {
+    "primary": "pure, striving, stretched forth",
+    "senses": {
+        "ethical": "pure",
+        "effortful": "striving",
+        "physical": "with hands stretched forth (in offering)"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"payirupāsati": {
+    "primary": "attends on, associates with, serves",
+    "senses": {
+        "social": "to associate with",
+        "service": "to attend on",
+        "respectful": "to serve"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"payoga": {
+    "primary": "means, application, undertaking",
+    "senses": {
+        "instrumental": "a means or device",
+        "action": "application or practice",
+        "enterprise": "an undertaking"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"peta-yoni": {
+    "primary": "the realm of hungry ghosts",
+    "senses": {
+        "cosmological": "the hungry ghost realm",
+        "karmic": "a rebirth state of suffering",
+        "unfortunate": "a woeful destination"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"peyya": {
+    "primary": "drinkable, a drink, endearing speech",
+    "senses": {
+        "qualitative": "drinkable",
+        "material": "a drink or beverage",
+        "verbal": "kind or endearing speech"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"phala-phala": {
+    "primary": "various fruits",
+    "senses": {
+        "collective": "fruits of various kinds",
+        "botanical": "a collection of fruits",
+        "agricultural": "produce"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"phāṇita": {
+    "primary": "molasses, raw sugar",
+    "senses": {
+        "culinary": "molasses",
+        "material": "raw sugar",
+        "sweet": "a sweet substance"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pharusa": {
+    "primary": "harsh, rough, cruel",
+    "senses": {
+        "qualitative": "harsh or rough",
+        "verbal": "harsh speech",
+        "negative": "cruel"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"phāsu": {
+    "primary": "comfortable, easy, pleasant",
+    "senses": {
+        "qualitative": "comfortable",
+        "experiential": "easy or pleasant",
+        "state": "a state of comfort"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"phāsukā": {
+    "primary": "a rib, the flank",
+    "senses": {
+        "anatomical": "a rib",
+        "physical": "the side of the body",
+        "structural": "a bone"
+    },
+    "semantic_field": "body",
+    "register": "common"
+},
+"phāsu-vihāra": {
+    "primary": "living in comfort, ease",
+    "senses": {
+        "state": "dwelling in comfort",
+        "experiential": "a state of ease",
+        "positive": "a pleasant abiding"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pheṇa": {
+    "primary": "foam, scum",
+    "senses": {
+        "physical": "foam or froth",
+        "material": "scum",
+        "metaphorical": "a symbol of emptiness and insubstantiality"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"phuta": {
+    "primary": "pervaded, thrilled, touched",
+    "senses": {
+        "experiential": "pervaded or suffused",
+        "emotional": "thrilled",
+        "physical": "touched"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pindika": {
+    "primary": "a lump, a ball (of food)",
+    "senses": {
+        "material": "a lump or ball",
+        "culinary": "a ball of rice or alms-food",
+        "quantitative": "a small mass"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pindolya": {
+    "primary": "going for alms",
+    "senses": {
+        "monastic": "the practice of collecting alms-food",
+        "action": "begging for food",
+        "behavioral": "an ascetic practice"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"pingala": {
+    "primary": "tawny, reddish-brown",
+    "senses": {
+        "color": "tawny",
+        "qualitative": "reddish-brown",
+        "descriptive": "brownish"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pīṭha-sappin": {
+    "primary": "a cripple ('one who crawls on a stool')",
+    "senses": {
+        "medical": "a cripple",
+        "descriptive": "one who moves by crawling or with a low stool",
+        "social": "a disabled person"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pīti-bhakkha": {
+    "primary": "feeding on joy",
+    "senses": {
+        "mythological": "a characteristic of certain deities",
+        "meditative": "the experience of being sustained by meditative joy",
+        "metaphorical": "living on happiness"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"pīti-mano": {
+    "primary": "with a joyful mind, glad-hearted",
+    "senses": {
+        "emotional": "having a mind full of joy",
+        "positive": "glad-hearted",
+        "state": "in a state of happiness"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"pitu-pakkha": {
+    "primary": "the father's side (of the family)",
+    "senses": {
+        "familial": "the paternal side of a family",
+        "relational": "relatives of the father",
+        "genealogical": "paternal lineage"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"piya-rūpa": {
+    "primary": "an agreeable form, a pleasant object",
+    "senses": {
+        "aesthetic": "a lovely or agreeable form",
+        "psychological": "any object that is a source of pleasure and attachment",
+        "analytical": "the pleasurable aspect of phenomena"
+    },
+    "semantic_field": "qualities",
+    "register": "technical"
+},
+"piya-vacana": {
+    "primary": "endearing speech, kind words",
+    "senses": {
+        "ethical": "kind and pleasant speech",
+        "social": "endearing words",
+        "positive": "a form of right speech"
+    },
+    "semantic_field": "action",
+    "register": "common"
+},
+"piyangu": {
+    "primary": "a kind of creeper, panic seed",
+    "senses": {
+        "botanical": "a medicinal creeper",
+        "material": "panic seed",
+        "natural": "a plant"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pīyamāna": {
+    "primary": "being loved, beloved",
+    "senses": {
+        "emotional": "being loved",
+        "relational": "beloved",
+        "passive": "passive participle"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"plava": {
+    "primary": "a raft, floating, a frog",
+    "senses": {
+        "nautical": "a raft",
+        "action": "floating or swimming",
+        "zoological": "a frog"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"ponti": {
+    "primary": "a boat",
+    "senses": {
+        "nautical": "a boat",
+        "transport": "a vessel",
+        "archaic": "an old word for boat"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"posa": {
+    "primary": "a man, a person",
+    "senses": {
+        "social": "a man",
+        "general": "a person",
+        "human": "a human being"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"posaka": {
+    "primary": "one who nourishes, a supporter",
+    "senses": {
+        "agent": "one who nourishes",
+        "social": "a supporter or benefactor",
+        "familial": "a foster-parent"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"potthaka": {
+    "primary": "a book, a canvas for painting",
+    "senses": {
+        "literary": "a book (especially a palm-leaf manuscript)",
+        "artistic": "a canvas or board for painting",
+        "material": "a surface for writing or drawing"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"pothujjanika": {
+    "primary": "belonging to an ordinary person, worldly",
+    "senses": {
+        "spiritual": "characteristic of a worldling (puthujjana)",
+        "qualitative": "mundane, not noble",
+        "negative": "commonplace or coarse"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"pubba-kamma": {
+    "primary": "a former deed, an action done in the past",
+    "senses": {
+        "karmic": "a past action",
+        "causal": "an action from a previous life",
+        "historical": "a former deed"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"pubba-nimitta": {
+    "primary": "a foregoing sign, an omen",
+    "senses": {
+        "predictive": "an omen or portent",
+        "temporal": "a sign that precedes an event",
+        "indicative": "a preliminary sign"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pubbaṅgama": {
+    "primary": "going before, preceding, a forerunner",
+    "senses": {
+        "sequential": "preceding",
+        "causal": "acting as a forerunner or cause",
+        "relational": "followed by"
+    },
+    "semantic_field": "action",
+    "register": "formal"
+},
+"puggala": {
+    "primary": "an individual, a person",
+    "senses": {
+        "ontological": "an individual person or personality",
+        "analytical": "a term for a being, subject to analysis into aggregates",
+        "social": "a person"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"puggala-paññatti": {
+    "primary": "the designation of individuals, a book of the Abhidhamma",
+    "senses": {
+        "literary": "the fourth book of the Abhidhamma Pitaka",
+        "analytical": "the classification of different types of individuals",
+        "philosophical": "the concept of a person"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"puñja": {
+    "primary": "a heap, a pile, a mass",
+    "senses": {
+        "collective": "a heap or pile",
+        "quantitative": "a mass or multitude",
+        "material": "a collection of things"
+    },
+    "semantic_field": "quantities",
+    "register": "common"
+},
+"punnāga": {
+    "primary": "a kind of tree (the Alexandrian Laurel)",
+    "senses": {
+        "botanical": "a tree (Calophyllum inophyllum)",
+        "aesthetic": "a beautiful tree",
+        "natural": "a species of tree"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"puñña-kamma": {
+    "primary": "a meritorious deed, a good action",
+    "senses": {
+        "ethical": "a good deed",
+        "karmic": "an action that produces a happy result",
+        "positive": "a meritorious action"
+    },
+    "semantic_field": "ethics",
+    "register": "common"
+},
+"puññā-pekkha": {
+    "primary": "expecting merit, looking for a good result",
+    "senses": {
+        "motivational": "acting with the expectation of a good karmic result",
+        "volitional": "desiring merit",
+        "action": "a merit-seeker"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"puppha-chaḍḍaka": {
+    "primary": "a rubbish-sweeper, 'flower-thrower-away'",
+    "senses": {
+        "professional": "a sweeper, a person of a low caste who clears away refuse",
+        "social": "a low-caste occupation",
+        "euphemistic": "a poetic term for a sweeper"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"puppha-dhānu": {
+    "primary": "the bow of the god of love (Kama)",
+    "senses": {
+        "mythological": "the bow of Kama, whose arrows are flowers",
+        "metaphorical": "a symbol of desire",
+        "poetic": "a poetic device"
+    },
+    "semantic_field": "nature",
+    "register": "sacred"
+},
+"pura": {
+    "primary": "a city, a town, a fortress",
+    "senses": {
+        "geographical": "a city or town",
+        "architectural": "a fortified city",
+        "social": "an urban center"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"purāṇa": {
+    "primary": "ancient, old, former",
+    "senses": {
+        "temporal": "ancient",
+        "qualitative": "old",
+        "historical": "of former times"
+    },
+    "semantic_field": "time",
+    "register": "common"
+},
+"purāṇa-dutiyikā": {
+    "primary": "a former wife",
+    "senses": {
+        "social": "a former wife",
+        "relational": "an ex-wife",
+        "legal": "a divorced woman"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"purato": {
+    "primary": "in front of, before",
+    "senses": {
+        "spatial": "in front of",
+        "adverbial": "before",
+        "temporal": "in the future"
+    },
+    "semantic_field": "space",
+    "register": "common"
+},
+"pure-cārika": {
+    "primary": "a forerunner, an attendant",
+    "senses": {
+        "social": "one who goes before, an attendant",
+        "sequential": "a forerunner",
+        "supportive": "a servant"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pure-java": {
+    "primary": "running before, a harbinger",
+    "senses": {
+        "agent": "a forerunner",
+        "predictive": "a harbinger",
+        "sequential": "that which comes first"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"purindada": {
+    "primary": "a generous donor, a leader, an epithet of Sakka",
+    "senses": {
+        "mythological": "an epithet of Sakka (Indra)",
+        "praiseworthy": "a munificent giver",
+        "social": "a town-leader"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"purisa-damma-sārathi": {
+    "primary": "a guide for those to be tamed, a trainer of men",
+    "senses": {
+        "soteriological": "an epithet of the Buddha, the supreme trainer of beings",
+        "praiseworthy": "a title of honor",
+        "didactic": "a master teacher"
+    },
+    "semantic_field": "beings",
+    "register": "sacred"
+},
+"purisādhamo": {
+    "primary": "a wretch, a low man",
+    "senses": {
+        "pejorative": "a wretched or low person",
+        "ethical": "a man of bad character",
+        "negative": "the lowest of men"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"purisājañña": {
+    "primary": "a noble man, a thoroughbred among men",
+    "senses": {
+        "praiseworthy": "a man of noble character",
+        "ethical": "an excellent person",
+        "comparative": "like a thoroughbred horse"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"purohita": {
+    "primary": "a king's chaplain, a royal priest",
+    "senses": {
+        "religious": "the chief priest of a king",
+        "political": "a royal advisor",
+        "historical": "a specific role in ancient Indian courts"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"puthu": {
+    "primary": "separate, individual, many, broad",
+    "senses": {
+        "quantitative": "many or various",
+        "analytical": "separate or individual",
+        "spatial": "broad or wide"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"puthu-jana": {
+    "primary": "an ordinary person, a worldling",
+    "senses": {
+        "soteriological": "a person who has not yet attained any stage of enlightenment",
+        "common": "one of the common folk",
+        "developmental": "spiritually undeveloped"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"puthu-sadda": {
+    "primary": "a loud noise, an uproar",
+    "senses": {
+        "auditory": "a loud noise",
+        "social": "an uproar",
+        "chaotic": "a great tumult"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"putta-dāra": {
+    "primary": "children and wife, one's family",
+    "senses": {
+        "collective": "one's wife and children",
+        "social": "a man's family",
+        "familial": "family"
+    },
+    "semantic_field": "beings",
+    "register": "common"
+},
+"pūti-gandha": {
+    "primary": "a foul smell, the stench of decay",
+    "senses": {
+        "olfactory": "a putrid smell",
+        "negative": "a stench",
+        "physical": "the smell of a rotting corpse"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"pūti-mutta": {
+    "primary": "foul-smelling urine (used as medicine)",
+    "senses": {
+        "medical": "fermented cow's urine, used as a traditional medicine",
+        "monastic": "one of the allowable medicines for monks",
+        "material": "a specific substance"
+    },
+    "semantic_field": "nature",
+    "register": "technical"
+},
+"pūva": {
+    "primary": "a cake, a loaf of bread",
+    "senses": {
+        "culinary": "a cake or bread",
+        "food": "a baked good",
+        "material": "a loaf"
+    },
+    "semantic_field": "nature",
+    "register": "common"
+},
+"adhimokkha-bahula": {
+    "primary": "predominantly resolute, full of determination",
+    "senses": {
+        "psychological": "characterized by a high degree of resolve",
+        "meditative": "a mind state with strong determination",
+        "volitional": "having powerful conviction"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"ahankara-mamankara": {
+    "primary": "I-making and mine-making, egoism and possessiveness",
+    "senses": {
+        "psychological": "the twin tendencies of ego-identification and possessiveness",
+        "philosophical": "the root of the self-view",
+        "suffering": "a fundamental cause of suffering"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"ajjhupkkha": {
+    "primary": "indifference, neglect",
+    "senses": {
+        "negative": "heedless indifference or neglect",
+        "psychological": "looking on without proper care or concern",
+        "unwholesome": "a form of carelessness"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"akalla-citta": {
+    "primary": "an unwell mind, a sick mind",
+    "senses": {
+        "psychological": "a mind that is not fit or ready",
+        "negative": "an unhealthy mental state",
+        "obstructive": "a mind hindered by defilements"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"alina-citta": {
+    "primary": "an energetic mind, a mind free from sluggishness",
+    "senses": {
+        "psychological": "a mind that is not inert or clinging",
+        "positive": "an active and energetic mental state",
+        "meditative": "a mind free from sloth and torpor"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"anabhirati-sanna": {
+    "primary": "perception of non-delight (in the world)",
+    "senses": {
+        "meditative": "a specific contemplation on the unsatisfactory nature of the world",
+        "psychological": "a perception of disenchantment",
+        "soteriological": "a perception conducive to liberation"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"anappaka": {
+    "primary": "not insignificant, considerable, much",
+    "senses": {
+        "quantitative": "not a small amount, much",
+        "qualitative": "not insignificant, important",
+        "emphatic": "considerable"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"anavasesa-viraga-nirodha": {
+    "primary": "the complete fading away and cessation without remainder",
+    "senses": {
+        "soteriological": "a term for Nibbana, emphasizing complete cessation",
+        "final": "the ultimate and total end of suffering",
+        "philosophical": "cessation without any remaining trace"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
+"anissita-vihara": {
+    "primary": "dwelling in non-dependence",
+    "senses": {
+        "spiritual": "a state of living without clinging to anything",
+        "liberated": "the abiding of an Arahant",
+        "psychological": "a state of mental independence"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"annadatthu-pañña": {
+    "primary": "wisdom that understands things as other (not-self)",
+    "senses": {
+        "insightful": "the wisdom that sees phenomena as separate from a self",
+        "analytical": "the understanding of anatta",
+        "soteriological": "liberating insight"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"anubyanjana-grahin": {
+    "primary": "grasping at secondary characteristics",
+    "senses": {
+        "psychological": "getting caught up in the minor details of an object",
+        "obstructive": "a hindrance to seeing the true nature of things",
+        "perceptual": "a superficial mode of perception"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"anupada-dhamma-vipassana": {
+    "primary": "insight into phenomena step-by-step",
+    "senses": {
+        "meditative": "a systematic practice of insight meditation",
+        "analytical": "contemplating the nature of each phenomenon as it arises",
+        "progressive": "a gradual, step-by-step insight"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"anupubbanirodha": {
+    "primary": "gradual cessation",
+    "senses": {
+        "meditative": "the nine successive cessations (the jhanas and the cessation of perception and feeling)",
+        "soteriological": "a progressive series of attainments",
+        "sequential": "cessation in due order"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"anupubbavihara": {
+    "primary": "abiding in succession, sequential attainment",
+    "senses": {
+        "meditative": "dwelling in the nine meditative attainments in sequence",
+        "experiential": "a systematic progression through states",
+        "technical": "the nine successive abidings"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"appamada-rata": {
+    "primary": "delighting in heedfulness",
+    "senses": {
+        "dispositional": "one who takes pleasure in being diligent",
+        "ethical": "a virtuous characteristic",
+        "spiritual": "a quality conducive to awakening"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"appamāṇa-cetovimutti": {
+    "primary": "immeasurable liberation of mind",
+    "senses": {
+        "meditative": "the liberation of mind achieved through the boundless states (brahmaviharas)",
+        "spiritual": "a form of mental release",
+        "experiential": "a state of boundless consciousness"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"arammanadhipati": {
+    "primary": "predominance of the object",
+    "senses": {
+        "analytical": "a type of condition where the object is the predominant factor",
+        "psychological": "a state where the object of focus has a powerful influence",
+        "causal": "one of the 24 conditional relations"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"ariya-iddhi": {
+    "primary": "noble psychic power",
+    "senses": {
+        "spiritual": "the 'miracle' of being able to perceive the repulsive as non-repulsive and vice versa",
+        "psychological": "the power of a detached mind to control its perception",
+        "transformative": "a higher form of psychic ability"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"arupa-saññi": {
+    "primary": "percipient of the formless",
+    "senses": {
+        "meditative": "one who is experiencing a formless jhana",
+        "cosmological": "a being reborn in a formless realm",
+        "experiential": "having formless perception"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"asallinatta": {
+    "primary": "the state of being energetic, non-sluggishness",
+    "senses": {
+        "psychological": "a state of mental energy and non-sloth",
+        "positive": "a quality of striving",
+        "qualitative": "the opposite of inertia"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"asaṅkhārika": {
+    "primary": "unprompted, spontaneous",
+    "senses": {
+        "psychological": "a type of consciousness that arises spontaneously, without prompting",
+        "analytical": "a classification of consciousness (e.g., in wholesome and unwholesome cittas)",
+        "volitional": "without external instigation or internal deliberation"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"asubha-sanna": {
+    "primary": "perception of foulness",
+    "senses": {
+        "meditative": "the meditation on the unattractive nature of the body",
+        "psychological": "a perception that counteracts lust",
+        "analytical": "one of the ten perceptions to be developed"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"atumanata": {
+    "primary": "elation, joyfulness",
+    "senses": {
+        "emotional": "a state of elation",
+        "positive": "great joy",
+        "experiential": "a feeling of gladness"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"avabujjhati": {
+    "primary": "understands clearly, awakens to",
+    "senses": {
+        "cognitive": "to understand something clearly",
+        "spiritual": "to awaken to a truth",
+        "action": "to realize"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"avikkhepa": {
+    "primary": "non-distraction, stability of mind",
+    "senses": {
+        "meditative": "the quality of non-distraction, i.e., concentration (samadhi)",
+        "psychological": "a stable, undistracted mind",
+        "positive": "a wholesome mental factor"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"bhavanga-calana": {
+    "primary": "vibration of the life-continuum",
+    "senses": {
+        "psychological": "the first moment the subconscious mind is disturbed by an object",
+        "analytical": "the first of three bhavanga moments in a cognitive process",
+        "processual": "the initial stirring of passive consciousness"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"bhavanga-upaccheda": {
+    "primary": "arrest of the life-continuum",
+    "senses": {
+        "psychological": "the final moment of the subconscious stream before an active cognitive process begins",
+        "analytical": "the third bhavanga moment",
+        "processual": "the cutting off of the passive mind-stream"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"bhuri-pañña": {
+    "primary": "extensive wisdom, profound understanding",
+    "senses": {
+        "cognitive": "possessing wide and deep wisdom",
+        "praiseworthy": "an epithet for a very wise person (e.g., Sariputta)",
+        "qualitative": "extensive intelligence"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"citta-kallata": {
+    "primary": "readiness of mind, mental fitness",
+    "senses": {
+        "psychological": "a state where the mind is fit and ready for work",
+        "meditative": "a mind prepared for deep meditation",
+        "positive": "mental well-being"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"citta-muduta": {
+    "primary": "malleability of mind",
+    "senses": {
+        "psychological": "the wholesome mental factor of plasticity of the mental body",
+        "positive": "a mind that is supple and adaptable",
+        "meditative": "a quality of a workable mind"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"citta-paguññata": {
+    "primary": "proficiency of mind",
+    "senses": {
+        "psychological": "the wholesome mental factor of proficiency of the mental body",
+        "skilled": "a mind that is expert and competent",
+        "positive": "mental adeptness"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"citta-ujukata": {
+    "primary": "rectitude of mind",
+    "senses": {
+        "psychological": "the wholesome mental factor of uprightness of the mental body",
+        "ethical": "a mind that is straight and honest",
+        "positive": "mental integrity"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"citta-viveka": {
+    "primary": "mental seclusion, detachment of mind",
+    "senses": {
+        "psychological": "seclusion of the mind from the five hindrances",
+        "meditative": "a state of mental withdrawal and calm",
+        "spiritual": "detachment from defilements"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"citta-vippayutta": {
+    "primary": "dissociated from consciousness",
+    "senses": {
+        "philosophical": "a category of phenomena in some schools that are not associated with mind",
+        "analytical": "a concept of material qualities that are not mind-born",
+        "technical": "a specific philosophical term"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"dibbacakkhu-abhinna": {
+    "primary": "the supernormal knowledge of the divine eye",
+    "senses": {
+        "psychic": "the power of clairvoyance",
+        "spiritual": "one of the six higher knowledges",
+        "comprehensive": "the ability to see the passing away and rebirth of beings"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"hasana-citta": {
+    "primary": "laughing consciousness",
+    "senses": {
+        "psychological": "a mind-moment that causes laughter",
+        "analytical": "a specific type of consciousness, especially that of an Arahant's smile",
+        "experiential": "the mental state of amusement"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"hassa-janana": {
+    "primary": "laughter-producing",
+    "senses": {
+        "causal": "causing laughter",
+        "humorous": "amusing",
+        "qualitative": "having the quality of producing mirth"
+    },
+    "semantic_field": "qualities",
+    "register": "common"
+},
+"kankha-vitarana-visuddhi": {
+    "primary": "the purification by overcoming doubt",
+    "senses": {
+        "soteriological": "the third of the seven stages of purification",
+        "insightful": "the insight that discerns the conditions for mind-and-matter",
+        "cognitive": "the state of being free from doubt about the three times"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"karuna-sahagata": {
+    "primary": "accompanied by compassion",
+    "senses": {
+        "psychological": "a state of mind connected with compassion",
+        "meditative": "a mind pervaded with karuna",
+        "positive": "a benevolent and wholesome mental state"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāya-lahutā": {
+    "primary": "lightness of the mental body",
+    "senses": {
+        "psychological": "the wholesome mental factor of lightness of mental factors",
+        "positive": "mental buoyancy and agility",
+        "meditative": "a quality of a nimble mind"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāya-mudutā": {
+    "primary": "malleability of the mental body",
+    "senses": {
+        "psychological": "the wholesome mental factor of plasticity of mental factors",
+        "positive": "mental suppleness",
+        "meditative": "a quality that removes mental rigidity"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāya-pāguññatā": {
+    "primary": "proficiency of the mental body",
+    "senses": {
+        "psychological": "the wholesome mental factor of proficiency of mental factors",
+        "skilled": "mental competence and adeptness",
+        "positive": "a healthy mental quality"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāya-ujukatā": {
+    "primary": "rectitude of the mental body",
+    "senses": {
+        "psychological": "the wholesome mental factor of uprightness of mental factors",
+        "ethical": "mental integrity",
+        "positive": "mental straightforwardness"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"kāya-viveka": {
+    "primary": "physical seclusion",
+    "senses": {
+        "practical": "seclusion of the body, living in solitude",
+        "environmental": "being in a secluded place",
+        "meditative": "a condition that supports mental seclusion"
+    },
+    "semantic_field": "space",
+    "register": "formal"
+},
+"lokuttara": {
+    "primary": "supramundane, transcendent",
+    "senses": {
+        "soteriological": "pertaining to the paths and fruits of enlightenment",
+        "philosophical": "beyond the conditioned world",
+        "transcendent": "transcending samsara"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"lokuttara-citta": {
+    "primary": "supramundane consciousness",
+    "senses": {
+        "analytical": "the eight (or forty) types of consciousness of the noble paths and fruits",
+        "soteriological": "the consciousness that directly experiences Nibbana",
+        "liberating": "the mind of enlightenment"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"mahā-kiriyā-citta": {
+    "primary": "great functional consciousness",
+    "senses": {
+        "psychological": "the beautiful functional consciousness of an Arahant",
+        "analytical": "a specific class of consciousness in the Abhidhamma",
+        "karmic": "karmically inoperative consciousness of a perfected one"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"mahā-vipāka-citta": {
+    "primary": "great resultant consciousness",
+    "senses": {
+        "psychological": "the wholesome resultant consciousness that functions as rebirth-linking, etc.",
+        "karmic": "the result of wholesome kamma from the sense-sphere",
+        "analytical": "a specific class of consciousness"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"manasi karoti": {
+    "primary": "pays attention, bears in mind",
+    "senses": {
+        "cognitive": "to pay attention to something",
+        "attentive": "to take to heart, to bear in mind",
+        "action": "the act of applying the mind"
+    },
+    "semantic_field": "mind",
+    "register": "common"
+},
+"mano-dhātu": {
+    "primary": "mind-element",
+    "senses": {
+        "analytical": "the element of mind, specifically the adverting and receiving consciousnesses",
+        "psychological": "a basic, receptive aspect of mind",
+        "technical": "one of the 18 elements"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"mano-viññāṇa-dhātu": {
+    "primary": "mind-consciousness-element",
+    "senses": {
+        "analytical": "the element of mind-consciousness, covering most types of consciousness",
+        "psychological": "the main cognitive aspect of the mind",
+        "technical": "one of the 18 elements"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"mutupekkhā": {
+    "primary": "indifference of ignorance",
+    "senses": {
+        "negative": "heedless indifference, not based on wisdom",
+        "psychological": "a dull neutrality that fails to see the danger",
+        "unwholesome": "contrasted with wise equanimity (upekkha)"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"nānatta-kāya": {
+    "primary": "diverse bodies",
+    "senses": {
+        "cosmological": "beings with diverse physical forms",
+        "analytical": "a classification of beings",
+        "biological": "physical diversity"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"nānatta-saññā": {
+    "primary": "diverse perceptions",
+    "senses": {
+        "cosmological": "beings with diverse perceptions",
+        "analytical": "a classification of beings in different realms",
+        "psychological": "a variety of perceptual states"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"nimitta-grahin": {
+    "primary": "grasping at the main sign or appearance",
+    "senses": {
+        "psychological": "getting caught up in the overall appearance of an object",
+        "obstructive": "a hindrance to seeing the underlying reality",
+        "perceptual": "a superficial mode of perception"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"nirāmisā-pīti": {
+    "primary": "spiritual joy, unworldly rapture",
+    "senses": {
+        "meditative": "joy that is not based on sensual objects",
+        "spiritual": "the rapture that arises from renunciation",
+        "positive": "a pure and sublime happiness"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"paccaya-pariggaha": {
+    "primary": "grasping of conditions, discerning causes",
+    "senses": {
+        "insightful": "the insight into the conditional nature of phenomena",
+        "analytical": "the comprehension of dependent origination",
+        "cognitive": "discerning cause and effect"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"paccupaṭṭhāna": {
+    "primary": "manifestation, mode of appearance",
+    "senses": {
+        "phenomenological": "the way a phenomenon manifests or presents itself",
+        "analytical": "one of the four aspects for defining a mental state",
+        "experiential": "the immediate appearance"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"pariññā": {
+    "primary": "full understanding, comprehension",
+    "senses": {
+        "cognitive": "full and complete understanding",
+        "soteriological": "the three kinds of full understanding (of the known, of investigation, of abandoning)",
+        "insightful": "deep comprehension"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"sahetuka-vipāka": {
+    "primary": "resultant (consciousness) with roots",
+    "senses": {
+        "analytical": "resultant consciousness that is accompanied by wholesome roots",
+        "karmic": "the higher results of good karma",
+        "rebirth": "can function as rebirth-linking consciousness"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"saṅkhāra-loka": {
+    "primary": "the world of formations",
+    "senses": {
+        "philosophical": "the entire conditioned universe",
+        "experiential": "the world of all conditioned phenomena",
+        "samsaric": "the realm of conditioned existence"
+    },
+    "semantic_field": "space",
+    "register": "technical"
+},
+"saṅkhārupekkhā-ñāṇa": {
+    "primary": "the knowledge of equanimity towards formations",
+    "senses": {
+        "insightful": "the highest stage of insight knowledge before the path",
+        "meditative": "a state of profound balance and equanimity towards all conditioned things",
+        "soteriological": "the gateway to the supramundane path"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"sanna-bhava": {
+    "primary": "existence with perception",
+    "senses": {
+        "cosmological": "a realm of existence where beings possess perception",
+        "analytical": "a classification of becoming",
+        "experiential": "conscious existence"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"saññā-vedayita-nirodha": {
+    "primary": "the cessation of perception and feeling",
+    "senses": {
+        "meditative": "the highest meditative attainment, where all mental activity ceases",
+        "soteriological": "a state accessible to Non-returners and Arahants",
+        "profound": "the temporary attainment of a Nibbana-like state"
+    },
+    "semantic_field": "meditation",
+    "register": "technical"
+},
+"sappurisa-upanissaya": {
+    "primary": "relying on a good person, having a good teacher",
+    "senses": {
+        "spiritual": "the crucial support of a virtuous teacher",
+        "causal": "association with the wise as a condition for progress",
+        "relational": "a supportive relationship"
+    },
+    "semantic_field": "beings",
+    "register": "formal"
+},
+"sasaṅkhārika": {
+    "primary": "prompted, instigated",
+    "senses": {
+        "psychological": "a type of consciousness that arises with prompting or deliberation",
+        "analytical": "a classification of consciousness",
+        "volitional": "requiring an extra push of will"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"sati-vinaya": {
+    "primary": "the procedure of mindfulness (for clearing a charge)",
+    "senses": {
+        "legal": "a specific Vinaya procedure to declare an Arahant's innocence",
+        "procedural": "a verdict of innocence based on mindfulness",
+        "monastic": "a formal act of the Sangha"
+    },
+    "semantic_field": "ethics",
+    "register": "technical"
+},
+"tīraṇa-pariññā": {
+    "primary": "full understanding by investigation",
+    "senses": {
+        "insightful": "the stage of wisdom where one investigates phenomena",
+        "analytical": "the second of the three types of full understanding",
+        "cognitive": "comprehension through examination"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"upekkha-sambojjhanga": {
+    "primary": "the enlightenment factor of equanimity",
+    "senses": {
+        "analytical": "the quality of mental balance and impartiality",
+        "spiritual": "one of the seven factors of enlightenment",
+        "meditative": "a balanced state of mind"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"upadhi-viveka": {
+    "primary": "seclusion from the substrates of existence",
+    "senses": {
+        "soteriological": "Nibbana, the detachment from the elements of clinging",
+        "spiritual": "freedom from the bases of rebirth",
+        "liberated": "the state of ultimate seclusion"
+    },
+    "semantic_field": "enlightenment",
+    "register": "technical"
+},
+"upapatti-deva": {
+    "primary": "a god by rebirth",
+    "senses": {
+        "cosmological": "a being born into a heavenly realm due to karma",
+        "divine": "a conventional deity",
+        "contrastive": "distinguished from a god by purification (visuddhi-deva)"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"vatthu-kama": {
+    "primary": "objective sensual pleasures",
+    "senses": {
+        "analytical": "the physical sense objects (sights, sounds, etc.)",
+        "psychological": "the external stimuli for sensual desire",
+        "contrastive": "distinguished from the desire itself (kilesa-kama)"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"vavatthapeti": {
+    "primary": "determines, defines, analyzes",
+    "senses": {
+        "cognitive": "to determine or define something",
+        "analytical": "to analyze and classify",
+        "action": "to lay down or appoint"
+    },
+    "semantic_field": "mind",
+    "register": "formal"
+},
+"vedanā-kkhandha": {
+    "primary": "the aggregate of feeling",
+    "senses": {
+        "analytical": "the second of the five aggregates",
+        "psychological": "the component of experience that is pleasant, painful, or neutral",
+        "phenomenological": "the feeling-tone of any experience"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"vicikiccha-sahagata": {
+    "primary": "accompanied by doubt",
+    "senses": {
+        "psychological": "a state of consciousness connected with skeptical doubt",
+        "analytical": "a specific type of unwholesome consciousness",
+        "negative": "a mind state of uncertainty"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"viññāṇa-kkhandha": {
+    "primary": "the aggregate of consciousness",
+    "senses": {
+        "analytical": "the fifth of the five aggregates",
+        "psychological": "the component of experience that is bare awareness of an object",
+        "cognitive": "the faculty of cognition"
+    },
+    "semantic_field": "mind",
+    "register": "technical"
+},
+"viññāṇa-ṭṭhiti": {
+    "primary": "a station of consciousness",
+    "senses": {
+        "cosmological": "the seven planes where consciousness can be established and reborn",
+        "analytical": "a classification of rebirth destinations",
+        "soteriological": "a support for the continuation of samsara"
+    },
+    "semantic_field": "beings",
+    "register": "technical"
+},
+"vipāka-vaṭṭa": {
+    "primary": "the round of results",
+    "senses": {
+        "philosophical": "the cycle of karmic results (aggregates, sense-bases) leading to more defilements",
+        "analytical": "one of the three rounds of existence",
+        "suffering": "the cycle of experiencing karmic consequences"
+    },
+    "semantic_field": "suffering",
+    "register": "technical"
+},
+"vipariṇāma-dukkha": {
+    "primary": "the suffering of change",
+    "senses": {
+        "philosophical": "the suffering inherent in the changing nature of pleasant experiences",
+        "experiential": "the pain that arises when a pleasant feeling ends",
+        "analytical": "one of the three main types of suffering"
+    },
+    "semantic_field": "suffering",
+    "register": "technical"
+},
+"visuddhi-deva": {
+    "primary": "a god by purification, an Arahant",
+    "senses": {
+        "soteriological": "a being who is 'divine' through purification, i.e., an Arahant",
+        "praiseworthy": "an epithet for a fully enlightened being",
+        "contrastive": "distinguished from a god by birth (upapatti-deva)"
+    },
+    "semantic_field": "enlightenment",
+    "register": "sacred"
+},
 
 
 
