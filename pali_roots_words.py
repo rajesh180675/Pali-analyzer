@@ -13995,7 +13995,7202 @@
         "desiderative": "to wish to be reason"
     }
 }
+},
+{
+"√abhāsa": {
+    "meaning": "to appear, seem, shine forth",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause appearance",
+        "desiderative": "to wish to appear"
+    }
+},
+
+"√abhāvanā": {
+    "meaning": "to not cultivate, neglect development",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to cause non-cultivation",
+        "desiderative": "to wish not to cultivate"
+    }
+},
+
+"√abhāvita": {
+    "meaning": "to be uncultivated, undeveloped",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to make uncultivated",
+        "desiderative": "to wish to be uncultivated"
+    }
+},
+
+"√abhayada": {
+    "meaning": "to give fearlessness, provide safety",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause fearlessness giving",
+        "desiderative": "to wish to give fearlessness"
+    }
+},
+
+"√abhicetasika": {
+    "meaning": "to be higher mental, transcendent consciousness",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to create higher mental state",
+        "desiderative": "to wish for higher consciousness"
+    }
+},
+
+"√abhidosa": {
+    "meaning": "to be very hateful, extremely aversive",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make very hateful",
+        "desiderative": "to wish to be very hateful"
+    }
+},
+
+"√abhihaññati": {
+    "meaning": "to be overpowered, overwhelmed",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to overpower",
+        "desiderative": "to wish to be overpowered"
+    }
+},
+
+"√abhijānana": {
+    "meaning": "to know directly, recognize fully",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause direct knowing",
+        "desiderative": "to wish to know directly"
+    }
+},
+
+"√abhijjhālu": {
+    "meaning": "to be covetous, greedy",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make covetous",
+        "desiderative": "to wish to be greedy"
+    }
+},
+
+"√abhikanta": {
+    "meaning": "to be excellent, surpassing",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make excellent",
+        "desiderative": "to wish to be surpassing"
+    }
+},
+
+"√abhikkama": {
+    "meaning": "to advance, progress forward",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause advancement",
+        "desiderative": "to wish to advance"
+    }
+},
+
+"√abhikkanta": {
+    "meaning": "to be wonderful, excellent",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make wonderful",
+        "desiderative": "to wish to be excellent"
+    }
+},
+
+"√abhilāpa": {
+    "meaning": "to speak about, declare",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause speaking about",
+        "desiderative": "to wish to declare"
+    }
+},
+
+"√abhimaddana": {
+    "meaning": "to crush, oppress",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause crushing",
+        "desiderative": "to wish to crush"
+    }
+},
+
+"√abhimukha": {
+    "meaning": "to face towards, be oriented to",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause facing towards",
+        "desiderative": "to wish to face towards"
+    }
+},
+
+"√abhinandana": {
+    "meaning": "to rejoice in, delight in",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause rejoicing in",
+        "desiderative": "to wish to rejoice in"
+    }
+},
+
+"√abhinipphāda": {
+    "meaning": "to produce, bring forth",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause production",
+        "desiderative": "to wish to produce"
+    }
+},
+
+"√abhinivesa": {
+    "meaning": "to be obsessed with, cling tenaciously",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to cause obsession",
+        "desiderative": "to wish to be obsessed"
+    }
+},
+
+"√abhiññeyya": {
+    "meaning": "to be directly knowable",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to make directly knowable",
+        "desiderative": "to wish to be directly knowable"
+    }
+},
+
+"√abhinandita": {
+    "meaning": "to be delighted in, welcomed",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make delighted in",
+        "desiderative": "to wish to be welcomed"
+    }
+},
+
+"√abhipāsa": {
+    "meaning": "to thirst intensely, crave deeply",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to cause intense thirst",
+        "desiderative": "to wish to thirst intensely"
+    }
+},
+
+"√abhipatthana": {
+    "meaning": "to yearn for, long for",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause yearning",
+        "desiderative": "to wish to yearn for"
+    }
+},
+
+"√abhippasāda": {
+    "meaning": "to have confidence, be serene",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to inspire confidence",
+        "desiderative": "to wish to have confidence"
+    }
+},
+
+"√abhiraddha": {
+    "meaning": "to be pleased, satisfied",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make pleased",
+        "desiderative": "to wish to be satisfied"
+    }
+},
+
+"√abhirāma": {
+    "meaning": "to be delightful, charming",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make delightful",
+        "desiderative": "to wish to be charming"
+    }
+},
+
+"√abhirocana": {
+    "meaning": "to please, give satisfaction",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause pleasing",
+        "desiderative": "to wish to please"
+    }
+},
+
+"√abhisamācāra": {
+    "meaning": "to practice properly, conduct correctly",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause proper practice",
+        "desiderative": "to wish to practice properly"
+    }
+},
+
+"√abhisampadā": {
+    "meaning": "to attain fully, achieve completely",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause full attainment",
+        "desiderative": "to wish to attain fully"
+    }
+},
+
+"√abhisampanna": {
+    "meaning": "to be fully attained, completely achieved",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to make fully attained",
+        "desiderative": "to wish to be fully attained"
+    }
+},
+
+"√abhisaññojana": {
+    "meaning": "to bind completely, fetter thoroughly",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to cause complete binding",
+        "desiderative": "to wish to bind completely"
+    }
+},
+
+"√abhisapati": {
+    "meaning": "to curse, pronounce malediction",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause cursing",
+        "desiderative": "to wish to curse"
+    }
+},
+
+"√abhiūhana": {
+    "meaning": "to think out, reason about",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause thinking out",
+        "desiderative": "to wish to think out"
+    }
+},
+
+"√abhivādana": {
+    "meaning": "to greet respectfully, salute",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause respectful greeting",
+        "desiderative": "to wish to greet respectfully"
+    }
+},
+
+"√abhivassana": {
+    "meaning": "to rain upon, shower down",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to cause raining upon",
+        "desiderative": "to wish to rain upon"
+    }
+},
+
+"√abhivaḍḍhana": {
+    "meaning": "to increase, grow abundantly",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause abundant growth",
+        "desiderative": "to wish to grow abundantly"
+    }
+},
+
+"√abhivijaya": {
+    "meaning": "to conquer completely, overcome thoroughly",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause complete conquest",
+        "desiderative": "to wish to conquer completely"
+    }
+},
+
+"√abhiviṇṇa": {
+    "meaning": "to be disgusted, fed up",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make disgusted",
+        "desiderative": "to wish to be fed up"
+    }
+},
+
+"√abhivyāpanna": {
+    "meaning": "to be malevolent, ill-willed",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make malevolent",
+        "desiderative": "to wish to be ill-willed"
+    }
+},
+
+"√ācariyadhamma": {
+    "meaning": "to be teacher's duty, instructor's quality",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to establish teacher's duty",
+        "desiderative": "to wish for teacher's quality"
+    }
+},
+
+"√accharāsaṅghāta": {
+    "meaning": "to snap fingers, make quick sound",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause finger snapping",
+        "desiderative": "to wish to snap fingers"
+    }
+},
+
+"√acchedana": {
+    "meaning": "to cut off, sever completely",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause cutting off",
+        "desiderative": "to wish to cut off"
+    }
+},
+
+"√acinteyya": {
+    "meaning": "to be unthinkable, inconceivable",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unthinkable",
+        "desiderative": "to wish to be inconceivable"
+    }
+},
+
+"√ācārakusala": {
+    "meaning": "to be skilled in conduct",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make skilled in conduct",
+        "desiderative": "to wish to be skilled in conduct"
+    }
+},
+
+"√ācāriya": {
+    "meaning": "to be teacher, instructor",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make teacher",
+        "desiderative": "to wish to be instructor"
+    }
+},
+
+"√addāna": {
+    "meaning": "to give, offer generously",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause generous giving",
+        "desiderative": "to wish to give generously"
+    }
+},
+
+"√addhāna": {
+    "meaning": "to journey, travel long distance",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause journeying",
+        "desiderative": "to wish to journey"
+    }
+},
+
+"√ādesa": {
+    "meaning": "to instruct, give directions",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause instruction",
+        "desiderative": "to wish to instruct"
+    }
+},
+
+"√adhammika": {
+    "meaning": "to be unrighteous, against dharma",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make unrighteous",
+        "desiderative": "to wish to be against dharma"
+    }
+},
+
+"√adhammacārin": {
+    "meaning": "to practice unrighteousness",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause unrighteous practice",
+        "desiderative": "to wish to practice unrighteousness"
+    }
+},
+
+"√adhaṃsana": {
+    "meaning": "to blow away, disperse",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause blowing away",
+        "desiderative": "to wish to blow away"
+    }
+},
+
+"√adhimāna": {
+    "meaning": "to be conceited, have excessive pride",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make conceited",
+        "desiderative": "to wish to be conceited"
+    }
+},
+
+"√adhipateyyaṃ": {
+    "meaning": "to have authority, exercise dominion",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to grant authority",
+        "desiderative": "to wish to have authority"
+    }
+},
+
+"√adhivāsana": {
+    "meaning": "to endure, put up with",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make endure",
+        "desiderative": "to wish to endure"
+    }
+},
+
+"√ādibrahahmacariya": {
+    "meaning": "to be beginning of holy life",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to establish beginning of holy life",
+        "desiderative": "to wish for beginning of holy life"
+    }
+},
+
+"√ādinava": {
+    "meaning": "to be danger, disadvantage",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create danger",
+        "desiderative": "to wish for danger"
+    }
+},
+
+"√adinnādāna": {
+    "meaning": "to take what is not given, steal",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause stealing",
+        "desiderative": "to wish to steal"
+    }
+},
+
+"√ādīpana": {
+    "meaning": "to kindle, set ablaze",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause kindling",
+        "desiderative": "to wish to kindle"
+    }
+},
+
+"√ādīyati": {
+    "meaning": "to take up, undertake",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause taking up",
+        "desiderative": "to wish to take up"
+    }
+},
+
+"√adusthula": {
+    "meaning": "to be not coarse, refined",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make refined",
+        "desiderative": "to wish to be refined"
+    }
+},
+
+"√agacchanta": {
+    "meaning": "to be coming, approaching",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause coming",
+        "desiderative": "to wish to come"
+    }
+},
+
+"√agārika": {
+    "meaning": "to be householder, lay person",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make householder",
+        "desiderative": "to wish to be lay person"
+    }
+},
+
+"√agaruṃ": {
+    "meaning": "to not be heavy, be light",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make light",
+        "desiderative": "to wish to be light"
+    }
+},
+
+"√aggāsana": {
+    "meaning": "to occupy chief seat",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to provide chief seat",
+        "desiderative": "to wish to occupy chief seat"
+    }
+},
+
+"√aggi": {
+    "meaning": "to burn, be fire",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to kindle fire",
+        "desiderative": "to wish to burn"
+    }
+},
+
+"√aggika": {
+    "meaning": "to worship fire, be fire worshipper",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make fire worshipper",
+        "desiderative": "to wish to worship fire"
+    }
+},
+
+"√aggimahāsāla": {
+    "meaning": "to be great fire hall",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create great fire hall",
+        "desiderative": "to wish for great fire hall"
+    }
+},
+
+"√aggivassa": {
+    "meaning": "to be under fire's power",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to subject to fire's power",
+        "desiderative": "to wish to be under fire's power"
+    }
+},
+
+"√aghammiga": {
+    "meaning": "to be deer of trouble",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make deer of trouble",
+        "desiderative": "to wish to be deer of trouble"
+    }
+},
+
+"√agyagāra": {
+    "meaning": "to be fire house, kitchen",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create fire house",
+        "desiderative": "to wish for fire house"
+    }
+},
+
+"√ahaññahañña": {
+    "meaning": "to be day by day, daily",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make daily",
+        "desiderative": "to wish to be daily"
+    }
+},
+
+"√āhārapaccayā": {
+    "meaning": "to be conditioned by food",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to condition by food",
+        "desiderative": "to wish to be conditioned by food"
+    }
+},
+
+"√ahīnakāmā": {
+    "meaning": "to not lack desires",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to prevent lack of desires",
+        "desiderative": "to wish not to lack desires"
+    }
+},
+
+"√ajānaniya": {
+    "meaning": "to be noble breed, thoroughbred",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make noble breed",
+        "desiderative": "to wish to be thoroughbred"
+    }
+},
+
+"√ajjhogāhana": {
+    "meaning": "to plunge into, immerse",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause plunging into",
+        "desiderative": "to wish to plunge into"
+    }
+},
+
+"√ajjhogāḷha": {
+    "meaning": "to be plunged into, immersed",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make plunged into",
+        "desiderative": "to wish to be immersed"
+    }
+},
+
+"√ajjhottharaṇa": {
+    "meaning": "to spread over, cover completely",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause spreading over",
+        "desiderative": "to wish to spread over"
+    }
+},
+
+"√ajjhūpagata": {
+    "meaning": "to enter into, come to",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause entering into",
+        "desiderative": "to wish to enter into"
+    }
+},
+
+"√ajjhūpeti": {
+    "meaning": "to enter upon, undertake",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause entering upon",
+        "desiderative": "to wish to enter upon"
+    }
+},
+
+"√ākāsagata": {
+    "meaning": "to go in sky, be airborne",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make airborne",
+        "desiderative": "to wish to go in sky"
+    }
+},
+
+"√ākāsaṭṭha": {
+    "meaning": "to stand in sky, be suspended in air",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to suspend in air",
+        "desiderative": "to wish to stand in sky"
+    }
+},
+
+"√ākimcaññā": {
+    "meaning": "to be nothingness, state of having nothing",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to create nothingness",
+        "desiderative": "to wish for nothingness"
+    }
+},
+
+"√akiñcana": {
+    "meaning": "to have nothing, be without possessions",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make have nothing",
+        "desiderative": "to wish to have nothing"
+    }
+},
+
+"√ākoṭana": {
+    "meaning": "to beat, strike repeatedly",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause beating",
+        "desiderative": "to wish to beat"
+    }
+},
+
+"√akusalacitta": {
+    "meaning": "to have unwholesome mind",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create unwholesome mind",
+        "desiderative": "to wish for unwholesome mind"
+    }
+},
+
+"√akusalakamma": {
+    "meaning": "to perform unwholesome action",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause unwholesome action",
+        "desiderative": "to wish to perform unwholesome action"
+    }
+},
+
+"√akusalamūla": {
+    "meaning": "to be root of unwholesomeness",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create unwholesome root",
+        "desiderative": "to wish for unwholesome root"
+    }
+},
+
+"√alamattha": {
+    "meaning": "to be sufficient, adequate",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make sufficient",
+        "desiderative": "to wish to be adequate"
+    }
+},
+
+"√alamvacanāya": {
+    "meaning": "to be enough for speech",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make enough for speech",
+        "desiderative": "to wish to be enough for speech"
+    }
+},
+
+"√alasaddhamma": {
+    "meaning": "to be lazy about dharma",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make lazy about dharma",
+        "desiderative": "to wish to be lazy about dharma"
+    }
+},
+
+"√ālimpana": {
+    "meaning": "to smear, anoint",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause smearing",
+        "desiderative": "to wish to smear"
+    }
+},
+
+"√ālokakāsin": {
+    "meaning": "to shine with light, be luminous",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make luminous",
+        "desiderative": "to wish to shine with light"
+    }
+},
+
+"√ālokasaññā": {
+    "meaning": "to perceive light",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause light perception",
+        "desiderative": "to wish to perceive light"
+    }
+},
+
+"√āloma": {
+    "meaning": "to stroke hair, go against grain",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause hair stroking",
+        "desiderative": "to wish to stroke hair"
+    }
+},
+
+"√amaccā": {
+    "meaning": "to be minister, counselor",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make minister",
+        "desiderative": "to wish to be counselor"
+    }
+},
+
+"√amadeyya": {
+    "meaning": "to be non-intoxicating",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make non-intoxicating",
+        "desiderative": "to wish to be non-intoxicating"
+    }
+},
+
+"√amajjapa": {
+    "meaning": "to not drink alcohol",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to prevent alcohol drinking",
+        "desiderative": "to wish not to drink alcohol"
+    }
+},
+
+"√amanāpa": {
+    "meaning": "to be unpleasant, disagreeable",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unpleasant",
+        "desiderative": "to wish to be disagreeable"
+    }
+},
+
+"√amanasikāra": {
+    "meaning": "to not pay attention, ignore",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause inattention",
+        "desiderative": "to wish to ignore"
+    }
+},
+
+"√amanussā": {
+    "meaning": "to be non-human, spirit",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make non-human",
+        "desiderative": "to wish to be spirit"
+    }
+},
+
+"√amarā": {
+    "meaning": "to be immortal, deathless",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make immortal",
+        "desiderative": "to wish to be deathless"
+    }
+},
+
+"√amatapadaṃ": {
+    "meaning": "to reach deathless state",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to lead to deathless state",
+        "desiderative": "to wish to reach deathless state"
+    }
+},
+
+"√amitaṃ": {
+    "meaning": "to be boundless, unlimited",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make boundless",
+        "desiderative": "to wish to be unlimited"
+    }
+},
+
+"√amutra": {
+    "meaning": "to be there, in that place",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to place there",
+        "desiderative": "to wish to be there"
+    }
+},
+
+"√anabhiraddha": {
+    "meaning": "to be not pleased, unsatisfied",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make unsatisfied",
+        "desiderative": "to wish to be not pleased"
+    }
+},
+
+"√anabhirati": {
+    "meaning": "to be discontented, not enjoying",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make discontented",
+        "desiderative": "to wish to be not enjoying"
+    }
+},
+
+"√anādariya": {
+    "meaning": "to be disrespectful, inconsiderate",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make disrespectful",
+        "desiderative": "to wish to be inconsiderate"
+    }
+},
+
+"√anagārika": {
+    "meaning": "to be homeless, without house",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make homeless",
+        "desiderative": "to wish to be without house"
+    }
+},
+
+"√anāgāmin": {
+    "meaning": "to be non-returner",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to make non-returner",
+        "desiderative": "to wish to be non-returner"
+    }
+},
+
+"√anāgāmiphala": {
+    "meaning": "to attain non-returner fruition",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause non-returner fruition",
+        "desiderative": "to wish for non-returner fruition"
+    }
+},
+
+"√anāgāmimagga": {
+    "meaning": "to follow non-returner path",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish non-returner path",
+        "desiderative": "to wish for non-returner path"
+    }
+},
+
+"√anakkhāna": {
+    "meaning": "to be inopportune, wrong time",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make inopportune",
+        "desiderative": "to wish to be wrong time"
+    }
+},
+
+"√analasa": {
+    "meaning": "to be not lazy, diligent",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make diligent",
+        "desiderative": "to wish to be not lazy"
+    }
+},
+
+"√anāmaya": {
+    "meaning": "to be healthy, without disease",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make healthy",
+        "desiderative": "to wish to be without disease"
+    }
+},
+
+"√anantevāsin": {
+    "meaning": "to be without student, have no disciples",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make without students",
+        "desiderative": "to wish to have no disciples"
+    }
+},
+
+"√anantara": {
+    "meaning": "to be immediate, without interval",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make immediate",
+        "desiderative": "to wish to be without interval"
+    }
+},
+
+"√ananuvāda": {
+    "meaning": "to be blameless, without reproach",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make blameless",
+        "desiderative": "to wish to be without reproach"
+    }
+},
+
+"√anāpāna": {
+    "meaning": "to breathe in and out",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause breathing",
+        "desiderative": "to wish to breathe"
+    }
+},
+
+"√anāpānasati": {
+    "meaning": "to be mindful of breathing",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to establish breathing mindfulness",
+        "desiderative": "to wish for breathing mindfulness"
+    }
+},
+
+"√anapāya": {
+    "meaning": "to be secure, without loss",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make secure",
+        "desiderative": "to wish to be without loss"
+    }
+},
+
+"√anariya": {
+    "meaning": "to be ignoble, base",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make ignoble",
+        "desiderative": "to wish to be base"
+    }
+},
+
+"√anāriyavohāra": {
+    "meaning": "to use ignoble speech",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause ignoble speech",
+        "desiderative": "to wish to use ignoble speech"
+    }
+},
+
+"√anāsava": {
+    "meaning": "to be without taints",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to make without taints",
+        "desiderative": "to wish to be without taints"
+    }
+},
+
+"√anāvaraṇa": {
+    "meaning": "to be without obstruction, unimpeded",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unimpeded",
+        "desiderative": "to wish to be without obstruction"
+    }
+},
+
+"√anāvilatta": {
+    "meaning": "to be untroubled, clear",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make untroubled",
+        "desiderative": "to wish to be clear"
+    }
+},
+
+"√andhakāra": {
+    "meaning": "to be darkness, blind",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create darkness",
+        "desiderative": "to wish for darkness"
+    }
+},
+
+"√anekajāti": {
+    "meaning": "to have many births",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to cause many births",
+        "desiderative": "to wish for many births"
+    }
+},
+
+"√anekapariyāya": {
+    "meaning": "to be many ways, various methods",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create many ways",
+        "desiderative": "to wish for various methods"
+    }
+},
+
+"√anekasata": {
+    "meaning": "to be many hundreds",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make many hundreds",
+        "desiderative": "to wish for many hundreds"
+    }
+},
+
+"√anekavidha": {
+    "meaning": "to be of many kinds, various",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make of many kinds",
+        "desiderative": "to wish to be various"
+    }
+},
+
+"√anekavihita": {
+    "meaning": "to be manifold, diverse",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make manifold",
+        "desiderative": "to wish to be diverse"
+    }
+},
+
+"√aññadatthu": {
+    "meaning": "to be otherwise, different",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make otherwise",
+        "desiderative": "to wish to be different"
+    }
+},
+
+"√aññathā": {
+    "meaning": "to be otherwise, differently",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make different",
+        "desiderative": "to wish to be otherwise"
+    }
+},
+
+"√aññāṇa": {
+    "meaning": "to be ignorant, not knowing",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make ignorant",
+        "desiderative": "to wish to be ignorant"
+    }
+},
+
+"√aññassa": {
+    "meaning": "to be of another, someone else's",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make another's",
+        "desiderative": "to wish to be someone else's"
+    }
+},
+
+"√anonamana": {
+    "meaning": "to be not bent down, upright",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make upright",
+        "desiderative": "to wish to be not bent down"
+    }
+},
+
+"√anottāpa": {
+    "meaning": "to be shameless, without moral dread",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make shameless",
+        "desiderative": "to wish to be without moral dread"
+    }
+},
+
+"√anottappa": {
+    "meaning": "to be without shame, unashamed",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make unashamed",
+        "desiderative": "to wish to be without shame"
+    }
+},
+
+"√anujānan": {
+    "meaning": "to permit, allow",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause permission",
+        "desiderative": "to wish to permit"
+    }
+},
+
+"√anukampā": {
+    "meaning": "to have compassion for, sympathize",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to inspire compassion",
+        "desiderative": "to wish to have compassion"
+    }
+},
+
+"√anukampaka": {
+    "meaning": "to be compassionate, sympathetic",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make compassionate",
+        "desiderative": "to wish to be sympathetic"
+    }
+},
+
+"√anukoṭana": {
+    "meaning": "to beat repeatedly, strike again and again",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause repeated beating",
+        "desiderative": "to wish to beat repeatedly"
+    }
+},
+
+"√anumāna": {
+    "meaning": "to infer, conclude",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause inference",
+        "desiderative": "to wish to infer"
+    }
+},
+
+"√anumodanā": {
+    "meaning": "to rejoice in, appreciate",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause appreciation",
+        "desiderative": "to wish to rejoice in"
+    }
+},
+
+"√anumujjana": {
+    "meaning": "to rub, massage",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause rubbing",
+        "desiderative": "to wish to rub"
+    }
+},
+
+"√anunāsika": {
+    "meaning": "to be nasal, through nose",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make nasal",
+        "desiderative": "to wish to be nasal"
+    }
+},
+
+"√anunaya": {
+    "meaning": "to persuade, conciliate",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause persuasion",
+        "desiderative": "to wish to persuade"
+    }
+},
+
+"√anupabbaja": {
+    "meaning": "to go forth after, follow in ordination",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause following ordination",
+        "desiderative": "to wish to go forth after"
+    }
+},
+
+"√anupaghāta": {
+    "meaning": "to be harmless, without malice",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make harmless",
+        "desiderative": "to wish to be without malice"
+    }
+},
+
+"√anupasampanna": {
+    "meaning": "to be not fully ordained",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make not fully ordained",
+        "desiderative": "to wish to be not fully ordained"
+    }
+},
+
+"√anupaṭipannaṃ": {
+    "meaning": "to not practice, not follow",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to prevent practice",
+        "desiderative": "to wish not to practice"
+    }
+},
+
+"√anupavāda": {
+    "meaning": "to be blameless, irreproachable",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make blameless",
+        "desiderative": "to wish to be irreproachable"
+    }
+},
+
+"√anupavecchana": {
+    "meaning": "to examine thoroughly, investigate",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause thorough examination",
+        "desiderative": "to wish to examine thoroughly"
+    }
+},
+
+"√anupavitthā": {
+    "meaning": "to enter after, follow in entering",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause following entry",
+        "desiderative": "to wish to enter after"
+    }
+},
+
+"√anupayoga": {
+    "meaning": "to be unsuitable, inappropriate",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unsuitable",
+        "desiderative": "to wish to be inappropriate"
+    }
+},
+
+"√anurakkhana": {
+    "meaning": "to protect, guard",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause protection",
+        "desiderative": "to wish to protect"
+    }
+},
+
+"√anurādhā": {
+    "meaning": "to be devoted to, faithful",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make devoted",
+        "desiderative": "to wish to be faithful"
+    }
+},
+
+"√anurūpa": {
+    "meaning": "to be suitable, fitting",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make suitable",
+        "desiderative": "to wish to be fitting"
+    }
+},
+
+"√anussaraṇa": {
+    "meaning": "to remember, recollect",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause remembering",
+        "desiderative": "to wish to remember"
+    }
+},
+
+"√anussuta": {
+    "meaning": "to hear about, learn by hearing",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause hearing about",
+        "desiderative": "to wish to hear about"
+    }
+},
+
+"√anussāvana": {
+    "meaning": "to proclaim, announce",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause proclamation",
+        "desiderative": "to wish to proclaim"
+    }
+},
+
+"√anutīraṇa": {
+    "meaning": "to cross over, traverse",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause crossing over",
+        "desiderative": "to wish to cross over"
+    }
+},
+
+"√anutthunana": {
+    "meaning": "to lament, grieve",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause lamentation",
+        "desiderative": "to wish to lament"
+    }
+},
+
+"√anuvattana": {
+    "meaning": "to follow, comply with",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause following",
+        "desiderative": "to wish to follow"
+    }
+},
+
+"√anuvattita": {
+    "meaning": "to be followed, complied with",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make followed",
+        "desiderative": "to wish to be followed"
+    }
+},
+
+"√anuvicāra": {
+    "meaning": "to reflect upon, consider",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause reflection",
+        "desiderative": "to wish to reflect upon"
+    }
+},
+
+"√anuvijjaka": {
+    "meaning": "to penetrate, understand deeply",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause penetration",
+        "desiderative": "to wish to penetrate"
+    }
+},
+
+"√anuvilokanā": {
+    "meaning": "to look back, review",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause looking back",
+        "desiderative": "to wish to look back"
+    }
+},
+
+"√anuvyañjana": {
+    "meaning": "to be minor characteristic, subtle mark",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create minor characteristic",
+        "desiderative": "to wish for minor characteristic"
+    }
+},
+
+"√anyathā": {
+    "meaning": "to be otherwise, different",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make otherwise",
+        "desiderative": "to wish to be different"
+    }
+},
+
+"√apadāna": {
+    "meaning": "to recount deeds, narrate exploits",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause recounting",
+        "desiderative": "to wish to recount deeds"
+    }
+},
+
+"√apagata": {
+    "meaning": "to be gone away, departed",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make gone away",
+        "desiderative": "to wish to be departed"
+    }
+},
+
+"√apakassa": {
+    "meaning": "to draw away, pull aside",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause drawing away",
+        "desiderative": "to wish to draw away"
+    }
+},
+
+"√apaṇṇaka": {
+    "meaning": "to be certain, without doubt",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make certain",
+        "desiderative": "to wish to be without doubt"
+    }
+},
+
+"√apāra": {
+    "meaning": "to be boundless, without shore",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make boundless",
+        "desiderative": "to wish to be without shore"
+    }
+},
+
+"√apaṭivattiya": {
+    "meaning": "to be irreversible, not to be turned back",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make irreversible",
+        "desiderative": "to wish to be not turned back"
+    }
+},
+
+"√appaccaya": {
+    "meaning": "to be without condition, independent",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make independent",
+        "desiderative": "to wish to be without condition"
+    }
+},
+
+"√appahīna": {
+    "meaning": "to be not abandoned, not given up",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make not abandoned",
+        "desiderative": "to wish to be not given up"
+    }
+},
+
+"√appamāda": {
+    "meaning": "to be heedful, diligent",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make heedful",
+        "desiderative": "to wish to be diligent"
+    }
+},
+
+"√appamatta": {
+    "meaning": "to be heedful, vigilant",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make vigilant",
+        "desiderative": "to wish to be heedful"
+    }
+},
+
+"√appaññāta": {
+    "meaning": "to be unknown, not recognized",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make unknown",
+        "desiderative": "to wish to be unknown"
+    }
+},
+
+"√appasādā": {
+    "meaning": "to be unpleasant, disagreeable",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unpleasant",
+        "desiderative": "to wish to be disagreeable"
+    }
+},
+
+"√appasanna": {
+    "meaning": "to be displeased, not confident",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make displeased",
+        "desiderative": "to wish to be not confident"
+    }
+},
+
+"√appasuta": {
+    "meaning": "to be little learned, not well-versed",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make little learned",
+        "desiderative": "to wish to be not well-versed"
+    }
+},
+
+"√appaṭigha": {
+    "meaning": "to be without resistance, non-resistant",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make non-resistant",
+        "desiderative": "to wish to be without resistance"
+    }
+},
+
+"√appaṭikūla": {
+    "meaning": "to be not disagreeable, pleasant",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make pleasant",
+        "desiderative": "to wish to be not disagreeable"
+    }
+},
+
+"√appaṭipuggala": {
+    "meaning": "to be without equal, matchless",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make matchless",
+        "desiderative": "to wish to be without equal"
+    }
+},
+
+"√appaṭisama": {
+    "meaning": "to be incomparable, unequaled",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make incomparable",
+        "desiderative": "to wish to be unequaled"
+    }
+},
+
+"√appaṭivāni": {
+    "meaning": "to be not turned back, irreversible",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make irreversible",
+        "desiderative": "to wish to be not turned back"
+    }
+},
+
+"√appavatti": {
+    "meaning": "to not occur, be inactive",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to prevent occurrence",
+        "desiderative": "to wish to not occur"
+    }
+},
+
+"√appa": {
+    "meaning": "to be little, small",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make little",
+        "desiderative": "to wish to be small"
+    }
+},
+
+"√appekadā": {
+    "meaning": "to be sometimes, occasionally",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make occasional",
+        "desiderative": "to wish to be sometimes"
+    }
+},
+
+"√appeva": {
+    "meaning": "to be perhaps, maybe",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make perhaps",
+        "desiderative": "to wish to be maybe"
+    }
+},
+
+"√appiccha": {
+    "meaning": "to have few wishes, be content",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make content",
+        "desiderative": "to wish to have few wishes"
+    }
+},
+
+"√appossukka": {
+    "meaning": "to be inactive, not busy",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make inactive",
+        "desiderative": "to wish to be not busy"
+    }
+},
+
+"√araññagata": {
+    "meaning": "to go to forest, be in wilderness",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to send to forest",
+        "desiderative": "to wish to go to forest"
+    }
+},
+
+"√araññāyatana": {
+    "meaning": "to be forest dwelling place",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create forest dwelling",
+        "desiderative": "to wish for forest dwelling place"
+    }
+},
+
+"√araññika": {
+    "meaning": "to be forest dweller",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make forest dweller",
+        "desiderative": "to wish to be forest dweller"
+    }
+},
+
+"√ārammaṇūpaga": {
+    "meaning": "to approach object, reach target",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause object approach",
+        "desiderative": "to wish to approach object"
+    }
+},
+
+"√arañña": {
+    "meaning": "to be forest, wilderness",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create forest",
+        "desiderative": "to wish for wilderness"
+    }
+},
+
+"√ariṭṭha": {
+    "meaning": "to be safe, secure",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make safe",
+        "desiderative": "to wish to be secure"
+    }
+},
+
+"√ariyakantu": {
+    "meaning": "to be pleasing to nobles",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make pleasing to nobles",
+        "desiderative": "to wish to be pleasing to nobles"
+    }
+},
+
+"√ariyāvāsa": {
+    "meaning": "to dwell nobly, live as noble",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause noble dwelling",
+        "desiderative": "to wish to dwell nobly"
+    }
+},
+
+"√ārocanā": {
+    "meaning": "to inform, announce",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause informing",
+        "desiderative": "to wish to inform"
+    }
+},
+
+"√āropa": {
+    "meaning": "to ascend, climb up",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause ascending",
+        "desiderative": "to wish to ascend"
+    }
+},
+
+"√āropana": {
+    "meaning": "to place upon, set up",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause placing upon",
+        "desiderative": "to wish to place upon"
+    }
+},
+
+"√arūpabhava": {
+    "meaning": "to be formless existence",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to create formless existence",
+        "desiderative": "to wish for formless existence"
+    }
+},
+
+"√arūpaloka": {
+    "meaning": "to be formless world",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create formless world",
+        "desiderative": "to wish for formless world"
+    }
+},
+
+"√arūpasaññā": {
+    "meaning": "to perceive formlessness",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to cause formless perception",
+        "desiderative": "to wish to perceive formlessness"
+    }
+},
+
+"√arūpasamāpatti": {
+    "meaning": "to attain formless state",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to cause formless attainment",
+        "desiderative": "to wish to attain formless state"
+    }
+},
+
+"√arūpadhātu": {
+    "meaning": "to be formless realm",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to create formless realm",
+        "desiderative": "to wish for formless realm"
+    }
+},
+
+"√asama": {
+    "meaning": "to be unequal, incomparable",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make incomparable",
+        "desiderative": "to wish to be unequal"
+    }
+},
+
+"√asamāhita": {
+    "meaning": "to be unconcentrated, distracted",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make distracted",
+        "desiderative": "to wish to be unconcentrated"
+    }
+},
+
+"√asampatta": {
+    "meaning": "to be not accomplished, unattained",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unattained",
+        "desiderative": "to wish to be not accomplished"
+    }
+},
+
+"√āsaṅka": {
+    "meaning": "to suspect, doubt",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause suspicion",
+        "desiderative": "to wish to suspect"
+    }
+},
+
+"√asaññata": {
+    "meaning": "to be unrestrained, uncontrolled",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make unrestrained",
+        "desiderative": "to wish to be uncontrolled"
+    }
+},
+
+"√asaññin": {
+    "meaning": "to be unconscious, without perception",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make unconscious",
+        "desiderative": "to wish to be without perception"
+    }
+},
+
+"√asaṅkuppa": {
+    "meaning": "to be unshakeable, immovable",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unshakeable",
+        "desiderative": "to wish to be immovable"
+    }
+},
+
+"√asappurisa": {
+    "meaning": "to be bad person, ignoble",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make bad person",
+        "desiderative": "to wish to be ignoble"
+    }
+},
+
+"√āsavakkhaya": {
+    "meaning": "to destroy taints, end effluents",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause taint destruction",
+        "desiderative": "to wish to destroy taints"
+    }
+},
+
+"√asekhadhamma": {
+    "meaning": "to be beyond training, adept state",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish adept state",
+        "desiderative": "to wish for adept state"
+    }
+},
+
+"√asekkhiya": {
+    "meaning": "to be of the adept, belonging to one beyond training",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to make of the adept",
+        "desiderative": "to wish to be of one beyond training"
+    }
+},
+
+"√asiṃsaka": {
+    "meaning": "to be ownerless, without master",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make ownerless",
+        "desiderative": "to wish to be without master"
+    }
+},
+
+"√asītika": {
+    "meaning": "to be eighty, of eighty",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make eighty",
+        "desiderative": "to wish to be eighty"
+    }
+},
+
+"√asmimāna": {
+    "meaning": "to have ego-conceit, 'I am' pride",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create ego-conceit",
+        "desiderative": "to wish for 'I am' pride"
+    }
+},
+
+"√āsokā": {
+    "meaning": "to be sorrowless, without grief",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make sorrowless",
+        "desiderative": "to wish to be without grief"
+    }
+},
+
+"√assaddha": {
+    "meaning": "to be faithless, without confidence",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make faithless",
+        "desiderative": "to wish to be without confidence"
+    }
+},
+
+"√assama": {
+    "meaning": "to be hermitage, monastery",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create hermitage",
+        "desiderative": "to wish for monastery"
+    }
+},
+
+"√assāsa": {
+    "meaning": "to inhale, breathe in",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause inhalation",
+        "desiderative": "to wish to inhale"
+    }
+},
+
+"√assutavā": {
+    "meaning": "to be unlearned, not having heard",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make unlearned",
+        "desiderative": "to wish to be not having heard"
+    }
+},
+
+"√asucika": {
+    "meaning": "to be impure, unclean",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make impure",
+        "desiderative": "to wish to be unclean"
+    }
+},
+
+"√asuci": {
+    "meaning": "to be foul, impure",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make foul",
+        "desiderative": "to wish to be impure"
+    }
+},
+
+"√asuddha": {
+    "meaning": "to be impure, not clean",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make impure",
+        "desiderative": "to wish to be not clean"
+    }
+},
+
+"√asukhallīna": {
+    "meaning": "to be not comfortable, uneasy",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make uneasy",
+        "desiderative": "to wish to be not comfortable"
+    }
+},
+
+"√asurakāya": {
+    "meaning": "to be demon body, titan group",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create demon body",
+        "desiderative": "to wish for demon body"
+    }
+},
+
+"√asuraloka": {
+    "meaning": "to be demon world, titan realm",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create demon world",
+        "desiderative": "to wish for demon world"
+    }
+},
+
+"√aṭavī": {
+    "meaning": "to be forest, jungle",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create forest",
+        "desiderative": "to wish for jungle"
+    }
+},
+
+"√ātāpī": {
+    "meaning": "to be ardent, energetic",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make ardent",
+        "desiderative": "to wish to be energetic"
+    }
+},
+
+"√āthabbaṇa": {
+    "meaning": "to practice Atharva Veda",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause Atharva practice",
+        "desiderative": "to wish to practice Atharva Veda"
+    }
+},
+
+"√atthavasaṃ": {
+    "meaning": "to be for benefit, purposeful",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make purposeful",
+        "desiderative": "to wish to be for benefit"
+    }
+},
+
+"√atthavādī": {
+    "meaning": "to speak meaningfully, talk sense",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause meaningful speech",
+        "desiderative": "to wish to speak meaningfully"
+    }
+},
+
+"√atthika": {
+    "meaning": "to desire, want",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create desire",
+        "desiderative": "to wish to desire"
+    }
+},
+
+"√atula": {
+    "meaning": "to be incomparable, matchless",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make incomparable",
+        "desiderative": "to wish to be matchless"
+    }
+},
+
+"√aturita": {
+    "meaning": "to be unhurried, not hasty",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make unhurried",
+        "desiderative": "to wish to be not hasty"
+    }
+},
+
+"√avacara": {
+    "meaning": "to move about, wander",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause wandering",
+        "desiderative": "to wish to move about"
+    }
+},
+
+"√avajjha": {
+    "meaning": "to be blameless, beyond reproach",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make blameless",
+        "desiderative": "to wish to be beyond reproach"
+    }
+},
+
+"√avalokana": {
+    "meaning": "to look at, observe",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause observation",
+        "desiderative": "to wish to look at"
+    }
+},
+
+"√avarodhana": {
+    "meaning": "to obstruct, block",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause obstruction",
+        "desiderative": "to wish to obstruct"
+    }
+},
+
+"√avasāna": {
+    "meaning": "to end, conclude",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause ending",
+        "desiderative": "to wish to end"
+    }
+},
+
+"√avasesa": {
+    "meaning": "to remain, be left over",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to leave remaining",
+        "desiderative": "to wish to remain"
+    }
+},
+
+"√avassāya": {
+    "meaning": "to be definitely, certainly",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make certain",
+        "desiderative": "to wish to be definitely"
+    }
+},
+
+"√avassita": {
+    "meaning": "to be dependent on, subject to",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make dependent on",
+        "desiderative": "to wish to be subject to"
+    }
+},
+
+"√avatthā": {
+    "meaning": "to be state, condition",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create state",
+        "desiderative": "to wish for condition"
+    }
+},
+
+"√avyākata": {
+    "meaning": "to be undeclared, neutral",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make undeclared",
+        "desiderative": "to wish to be neutral"
+    }
+},
+
+"√avyāpajjha": {
+    "meaning": "to be non-harmful, benevolent",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make benevolent",
+        "desiderative": "to wish to be non-harmful"
+    }
+},
+
+"√avyāpāda": {
+    "meaning": "to be non-malicious, good-willed",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make good-willed",
+        "desiderative": "to wish to be non-malicious"
+    }
+},
+
+"√aya": {
+    "meaning": "to be iron, metal",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to make of iron",
+        "desiderative": "to wish to be metal"
+    }
+},
+
+"√āyasā": {
+    "meaning": "to be of iron, metallic",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make metallic",
+        "desiderative": "to wish to be of iron"
+    }
+},
+
+"√āyatana": {
+    "meaning": "to be sense sphere, base",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create sense sphere",
+        "desiderative": "to wish for sense base"
+    }
+},
+
+"√āyoga": {
+    "meaning": "to apply, make effort",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause application",
+        "desiderative": "to wish to apply"
+    }
+},
+
+"√āyudha": {
+    "meaning": "to arm, equip with weapons",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause arming",
+        "desiderative": "to wish to arm"
+    }
+},
+
+"√bādhana": {
+    "meaning": "to harass, trouble",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause harassment",
+        "desiderative": "to wish to harass"
+    }
+},
+
+"√bāla": {
+    "meaning": "to be foolish, ignorant",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make foolish",
+        "desiderative": "to wish to be ignorant"
+    }
+},
+
+"√bālaputhujjana": {
+    "meaning": "to be foolish ordinary person",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make foolish ordinary person",
+        "desiderative": "to wish to be foolish ordinary person"
+    }
+},
+
+"√balava": {
+    "meaning": "to be strong, powerful",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to strengthen",
+        "desiderative": "to wish to be powerful"
+    }
+},
+
+"√balivadda": {
+    "meaning": "to be sacrificial ox",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make sacrificial ox",
+        "desiderative": "to wish to be sacrificial ox"
+    }
+},
+
+"√bandhana": {
+    "meaning": "to bind, fetter",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause binding",
+        "desiderative": "to wish to bind"
+    }
+},
+
+"√bandhupādāpacca": {
+    "meaning": "to be relative and friends",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make relative and friends",
+        "desiderative": "to wish to be relative and friends"
+    }
+},
+
+"√bāra": {
+    "meaning": "to be time, occasion",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to create occasion",
+        "desiderative": "to wish for time"
+    }
+},
+
+"√bāranasi": {
+    "meaning": "to be Benares city",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to establish Benares",
+        "desiderative": "to wish for Benares"
+    }
+},
+
+"√bhadda": {
+    "meaning": "to be good, auspicious",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make auspicious",
+        "desiderative": "to wish to be good"
+    }
+},
+
+"√bhagavā": {
+    "meaning": "to be blessed one, buddha",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make blessed one",
+        "desiderative": "to wish to be buddha"
+    }
+},
+
+"√bhājana": {
+    "meaning": "to be vessel, container",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make vessel",
+        "desiderative": "to wish to be container"
+    }
+},
+
+"√bhajati": {
+    "meaning": "to associate with, resort to",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause association",
+        "desiderative": "to wish to associate with"
+    }
+},
+
+"√bhaṇa": {
+    "meaning": "to speak, recite",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause speaking",
+        "desiderative": "to wish to speak"
+    }
+},
+
+"√bhaṇḍa": {
+    "meaning": "to be goods, property",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create goods",
+        "desiderative": "to wish for property"
+    }
+},
+
+"√bhara": {
+    "meaning": "to bear, carry",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause bearing",
+        "desiderative": "to wish to bear"
+    }
+},
+
+"√bharitar": {
+    "meaning": "to be supporter, maintainer",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make supporter",
+        "desiderative": "to wish to be maintainer"
+    }
+},
+
+"√bhāsita": {
+    "meaning": "to be spoken, said",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause speaking",
+        "desiderative": "to wish to be spoken"
+    }
+},
+
+"√bhatta": {
+    "meaning": "to be food, meal",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide food",
+        "desiderative": "to wish for meal"
+    }
+},
+
+"√bhava": {
+    "meaning": "to be existence, becoming",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to cause existence",
+        "desiderative": "to wish for becoming"
+    }
+},
+
+"√bhavaṅka": {
+    "meaning": "to be stream of becoming",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create stream of becoming",
+        "desiderative": "to wish for stream of becoming"
+    }
+},
+
+"√bhavaṅga": {
+    "meaning": "to be life-continuum",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create life-continuum",
+        "desiderative": "to wish for life-continuum"
+    }
+},
+
+"√bhavati": {
+    "meaning": "to become, exist",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause becoming",
+        "desiderative": "to wish to become"
+    }
+},
+
+"√bhāvanābalakārin": {
+    "meaning": "to make strong through development",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to cause strengthening through development",
+        "desiderative": "to wish to make strong through development"
+    }
+},
+
+"√bhāvanāmaya": {
+    "meaning": "to be produced by cultivation",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to produce by cultivation",
+        "desiderative": "to wish to be produced by cultivation"
+    }
+},
+
+"√bhāvita": {
+    "meaning": "to be cultivated, developed",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to make cultivated",
+        "desiderative": "to wish to be developed"
+    }
+},
+
+"√bhāvitabahula": {
+    "meaning": "to be much cultivated",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to make much cultivated",
+        "desiderative": "to wish to be much cultivated"
+    }
+},
+
+"√bhāvitatta": {
+    "meaning": "to have cultivated self",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to cause self cultivation",
+        "desiderative": "to wish to have cultivated self"
+    }
+},
+
+"√bhavya": {
+    "meaning": "to be good, excellent",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make excellent",
+        "desiderative": "to wish to be good"
+    }
+},
+
+"√bheravā": {
+    "meaning": "to be fearful, terrible",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make terrible",
+        "desiderative": "to wish to be fearful"
+    }
+},
+
+"√bhesajja": {
+    "meaning": "to be medicine, remedy",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide medicine",
+        "desiderative": "to wish for remedy"
+    }
+},
+
+"√bhijjana": {
+    "meaning": "to break, split",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause breaking",
+        "desiderative": "to wish to break"
+    }
+},
+
+"√bhikkhu": {
+    "meaning": "to be monk, mendicant",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make monk",
+        "desiderative": "to wish to be mendicant"
+    }
+},
+
+"√bhikkhunī": {
+    "meaning": "to be nun, female mendicant",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make nun",
+        "desiderative": "to wish to be female mendicant"
+    }
+},
+
+"√bhinna": {
+    "meaning": "to be broken, split",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make broken",
+        "desiderative": "to wish to be split"
+    }
+},
+
+"√bhīruka": {
+    "meaning": "to be timid, fearful",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make timid",
+        "desiderative": "to wish to be fearful"
+    }
+},
+
+"√bhīru": {
+    "meaning": "to be afraid, timid",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to frighten",
+        "desiderative": "to wish to be afraid"
+    }
+},
+
+"√bhiyyo": {
+    "meaning": "to be more, greater",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make greater",
+        "desiderative": "to wish to be more"
+    }
+},
+
+"√bhojanīya": {
+    "meaning": "to be food, edible",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make edible",
+        "desiderative": "to wish to be food"
+    }
+},
+
+"√bhojana": {
+    "meaning": "to eat, consume food",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to feed",
+        "desiderative": "to wish to eat"
+    }
+},
+
+"√bhoktā": {
+    "meaning": "to be eater, enjoyer",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make eater",
+        "desiderative": "to wish to be enjoyer"
+    }
+},
+
+"√bhogī": {
+    "meaning": "to be enjoyer, wealthy person",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make wealthy",
+        "desiderative": "to wish to be enjoyer"
+    }
+},
+
+"√bhojanasālā": {
+    "meaning": "to be dining hall",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create dining hall",
+        "desiderative": "to wish for dining hall"
+    }
+},
+
+"√bhū": {
+    "meaning": "to be, become",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause to be",
+        "desiderative": "to wish to become"
+    }
+},
+
+"√bhūmi": {
+    "meaning": "to be ground, earth",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create ground",
+        "desiderative": "to wish for earth"
+    }
+},
+
+"√bhūmicāla": {
+    "meaning": "to shake earth, earthquake",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to cause earthquake",
+        "desiderative": "to wish for earth shaking"
+    }
+},
+
+"√bhūta": {
+    "meaning": "to be being, creature",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create being",
+        "desiderative": "to wish to be creature"
+    }
+},
+
+"√bhūtapubba": {
+    "meaning": "to be former, previous",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make former",
+        "desiderative": "to wish to be previous"
+    }
+},
+
+"√bhūtvā": {
+    "meaning": "to having become, being",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause having become",
+        "desiderative": "to wish having become"
+    }
+},
+
+"√bibhana": {
+    "meaning": "to tremble, quiver",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause trembling",
+        "desiderative": "to wish to tremble"
+    }
+},
+
+"√bijja": {
+    "meaning": "to be science, knowledge",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create science",
+        "desiderative": "to wish for knowledge"
+    }
+},
+
+"√bodha": {
+    "meaning": "to awaken, understand",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause awakening",
+        "desiderative": "to wish to awaken"
+    }
+},
+
+"√bodhapakkhika": {
+    "meaning": "to be connected with enlightenment",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to connect with enlightenment",
+        "desiderative": "to wish to be connected with enlightenment"
+    }
+},
+
+"√bodhatta": {
+    "meaning": "to be enlightened, awakened",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to make enlightened",
+        "desiderative": "to wish to be awakened"
+    }
+},
+
+"√bodhisattacariyā": {
+    "meaning": "to practice bodhisattva conduct",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause bodhisattva practice",
+        "desiderative": "to wish to practice bodhisattva conduct"
+    }
+},
+
+"√bodhi": {
+    "meaning": "to be enlightenment, awakening",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause enlightenment",
+        "desiderative": "to wish for awakening"
+    }
+},
+
+"√brahmacārin": {
+    "meaning": "to be celibate, holy life practitioner",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make celibate",
+        "desiderative": "to wish to be holy life practitioner"
+    }
+},
+
+"√brahmadaṇḍa": {
+    "meaning": "to use brahma punishment, silent treatment",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to impose brahma punishment",
+        "desiderative": "to wish to use silent treatment"
+    }
+},
+
+"√brahmaloka": {
+    "meaning": "to be brahma world",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create brahma world",
+        "desiderative": "to wish for brahma world"
+    }
+},
+
+"√brāhmaṇa": {
+    "meaning": "to be brahmin, priest",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make brahmin",
+        "desiderative": "to wish to be priest"
+    }
+},
+
+"√brahmaparisā": {
+    "meaning": "to be brahma's retinue",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create brahma's retinue",
+        "desiderative": "to wish for brahma's retinue"
+    }
+},
+
+"√brahmapurohita": {
+    "meaning": "to be brahma's minister",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make brahma's minister",
+        "desiderative": "to wish to be brahma's minister"
+    }
+},
+
+"√bramhavihāra": {
+    "meaning": "to dwell in brahma states",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to establish brahma dwelling",
+        "desiderative": "to wish to dwell in brahma states"
+    }
+},
+
+"√buddhakicca": {
+    "meaning": "to perform buddha's work",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause buddha's work",
+        "desiderative": "to wish to perform buddha's work"
+    }
+},
+
+"√buddhadhamma": {
+    "meaning": "to be buddha's teaching",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish buddha's teaching",
+        "desiderative": "to wish for buddha's teaching"
+    }
+},
+
+"√buddhaguṇa": {
+    "meaning": "to be buddha's quality",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to develop buddha's quality",
+        "desiderative": "to wish for buddha's quality"
+    }
+},
+
+"√buddhakkhetta": {
+    "meaning": "to be buddha field",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create buddha field",
+        "desiderative": "to wish for buddha field"
+    }
+},
+
+"√byasana": {
+    "meaning": "to be misfortune, disaster",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to cause misfortune",
+        "desiderative": "to wish for disaster"
+    }
+},
+
+"√byādhī": {
+    "meaning": "to be disease, illness",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause disease",
+        "desiderative": "to wish for illness"
+    }
+},
+
+"√byākula": {
+    "meaning": "to be confused, agitated",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to confuse",
+        "desiderative": "to wish to be agitated"
+    }
+},
+
+"√byāseka": {
+    "meaning": "to sprinkle, anoint",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause sprinkling",
+        "desiderative": "to wish to sprinkle"
+    }
+},
+
+"√caṅkama": {
+    "meaning": "to walk, pace",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause walking",
+        "desiderative": "to wish to walk"
+    }
+},
+
+"√caṅkamaṇa": {
+    "meaning": "to walk meditation, pacing",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to establish walking meditation",
+        "desiderative": "to wish for walking meditation"
+    }
+},
+
+"√caraka": {
+    "meaning": "to wander, travel",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause wandering",
+        "desiderative": "to wish to wander"
+    }
+},
+
+"√cariyā": {
+    "meaning": "to conduct, behave",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause conduct",
+        "desiderative": "to wish to conduct"
+    }
+},
+
+"√carima": {
+    "meaning": "to be last, final",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make last",
+        "desiderative": "to wish to be final"
+    }
+},
+
+"√catasso": {
+    "meaning": "to be four (feminine)",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make four",
+        "desiderative": "to wish to be four"
+    }
+},
+
+"√catukka": {
+    "meaning": "to be group of four",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to group in four",
+        "desiderative": "to wish for group of four"
+    }
+},
+
+"√catumaggā": {
+    "meaning": "to be four paths",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish four paths",
+        "desiderative": "to wish for four paths"
+    }
+},
+
+"√catumahābhūta": {
+    "meaning": "to be four great elements",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish four great elements",
+        "desiderative": "to wish for four great elements"
+    }
+},
+
+"√catupaccaya": {
+    "meaning": "to be four requisites",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to provide four requisites",
+        "desiderative": "to wish for four requisites"
+    }
+},
+
+"√cāturāja": {
+    "meaning": "to be four kings",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to establish four kings",
+        "desiderative": "to wish for four kings"
+    }
+},
+
+"√catusacca": {
+    "meaning": "to be four truths",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish four truths",
+        "desiderative": "to wish for four truths"
+    }
+},
+
+"√catuttha": {
+    "meaning": "to be fourth",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make fourth",
+        "desiderative": "to wish to be fourth"
+    }
+},
+
+"√cavana": {
+    "meaning": "to pass away, die",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to cause passing away",
+        "desiderative": "to wish to pass away"
+    }
+},
+
+"√ceto": {
+    "meaning": "to be mind, heart",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create mind",
+        "desiderative": "to wish for heart"
+    }
+},
+
+"√cetopariyañāṇa": {
+    "meaning": "to know others' minds",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to enable mind reading",
+        "desiderative": "to wish to know others' minds"
+    }
+},
+
+"√cetovimutti": {
+    "meaning": "to be liberated in mind",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to liberate mind",
+        "desiderative": "to wish for mind liberation"
+    }
+},
+
+"√chandāgati": {
+    "meaning": "to go by preference, be biased",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause bias",
+        "desiderative": "to wish to be biased"
+    }
+},
+
+"√chandajāta": {
+    "meaning": "to be filled with desire",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to fill with desire",
+        "desiderative": "to wish to be filled with desire"
+    }
+},
+
+"√chandarāga": {
+    "meaning": "to have desire and lust",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create desire and lust",
+        "desiderative": "to wish for desire and lust"
+    }
+},
+
+"√chavi": {
+    "meaning": "to be skin, hide",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide skin",
+        "desiderative": "to wish for hide"
+    }
+},
+
+"√chedana": {
+    "meaning": "to cut, sever",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause cutting",
+        "desiderative": "to wish to cut"
+    }
+},
+
+"√chinnamūla": {
+    "meaning": "to be cut at root, destroyed",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cut at root",
+        "desiderative": "to wish to be destroyed"
+    }
+},
+
+"√chinna": {
+    "meaning": "to be cut, severed",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make cut",
+        "desiderative": "to wish to be severed"
+    }
+},
+
+"√cintāmaya": {
+    "meaning": "to be born of thinking",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create from thinking",
+        "desiderative": "to wish to be born of thinking"
+    }
+},
+
+"√cintita": {
+    "meaning": "to be thought, considered",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make thought",
+        "desiderative": "to wish to be considered"
+    }
+},
+
+"√ciraratta": {
+    "meaning": "to be long time, for ages",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make long time",
+        "desiderative": "to wish for long time"
+    }
+},
+
+"√cīvarāpindapāta": {
+    "meaning": "to be robes and alms food",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to provide robes and alms food",
+        "desiderative": "to wish for robes and alms food"
+    }
+},
+
+"√codanā": {
+    "meaning": "to accuse, charge",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause accusation",
+        "desiderative": "to wish to accuse"
+    }
+},
+
+"√cora": {
+    "meaning": "to be thief, robber",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make thief",
+        "desiderative": "to wish to be robber"
+    }
+},
+
+"√cuti": {
+    "meaning": "to die, pass away",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to cause death",
+        "desiderative": "to wish to die"
+    }
+},
+
+"√cutūpapāta": {
+    "meaning": "to die and be reborn",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to cause death and rebirth",
+        "desiderative": "to wish to die and be reborn"
+    }
 }
+},
+{
+"√dabba": {
+    "meaning": "to be suitable, proper",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make suitable",
+        "desiderative": "to wish to be proper"
+    }
+},
+
+"√daddalla": {
+    "meaning": "to bubble up, foam",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to cause bubbling",
+        "desiderative": "to wish to bubble up"
+    }
+},
+
+"√dadāti": {
+    "meaning": "to give, grant",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause giving",
+        "desiderative": "to wish to give"
+    }
+},
+
+"√daḷha": {
+    "meaning": "to be firm, strong",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to strengthen",
+        "desiderative": "to wish to be firm"
+    }
+},
+
+"√dāmeti": {
+    "meaning": "to tame, subdue",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause taming",
+        "desiderative": "to wish to tame"
+    }
+},
+
+"√danta": {
+    "meaning": "to be tamed, controlled",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make tamed",
+        "desiderative": "to wish to be controlled"
+    }
+},
+
+"√dārakā": {
+    "meaning": "to be children, young ones",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make children",
+        "desiderative": "to wish to be young ones"
+    }
+},
+
+"√dassāvin": {
+    "meaning": "to be seer, one who sees",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make seer",
+        "desiderative": "to wish to be one who sees"
+    }
+},
+
+"√dāyajja": {
+    "meaning": "to be inheritance, legacy",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create inheritance",
+        "desiderative": "to wish for legacy"
+    }
+},
+
+"√dāyaka": {
+    "meaning": "to be giver, donor",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make giver",
+        "desiderative": "to wish to be donor"
+    }
+},
+
+"√dāyāda": {
+    "meaning": "to be heir, inheritor",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make heir",
+        "desiderative": "to wish to be inheritor"
+    }
+},
+
+"√desaka": {
+    "meaning": "to be teacher, instructor",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make teacher",
+        "desiderative": "to wish to be instructor"
+    }
+},
+
+"√dhanaññika": {
+    "meaning": "to be wealthy, rich",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make wealthy",
+        "desiderative": "to wish to be rich"
+    }
+},
+
+"√dhaniṭṭha": {
+    "meaning": "to be wealthiest, richest",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make wealthiest",
+        "desiderative": "to wish to be richest"
+    }
+},
+
+"√dhanusākāra": {
+    "meaning": "to be bow-shaped, curved",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make bow-shaped",
+        "desiderative": "to wish to be curved"
+    }
+},
+
+"√dhāraṇā": {
+    "meaning": "to hold, retain",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause holding",
+        "desiderative": "to wish to retain"
+    }
+},
+
+"√dharaṇi": {
+    "meaning": "to be earth, ground",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create earth",
+        "desiderative": "to wish for ground"
+    }
+},
+
+"√dhāta": {
+    "meaning": "to be sucked, nursed",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause sucking",
+        "desiderative": "to wish to be nursed"
+    }
+},
+
+"√dhātukamma": {
+    "meaning": "to work with elements",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause element work",
+        "desiderative": "to wish to work with elements"
+    }
+},
+
+"√dhāvana": {
+    "meaning": "to run, flow",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause running",
+        "desiderative": "to wish to run"
+    }
+},
+
+"√dhenu": {
+    "meaning": "to be cow, milk-giver",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make cow",
+        "desiderative": "to wish to be milk-giver"
+    }
+},
+
+"√dhītā": {
+    "meaning": "to be daughter",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make daughter",
+        "desiderative": "to wish to be daughter"
+    }
+},
+
+"√dhīti": {
+    "meaning": "to be resolve, determination",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create resolve",
+        "desiderative": "to wish for determination"
+    }
+},
+
+"√dhona": {
+    "meaning": "to be washed, clean",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make clean",
+        "desiderative": "to wish to be washed"
+    }
+},
+
+"√dhuvā": {
+    "meaning": "to be permanent, lasting",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make permanent",
+        "desiderative": "to wish to be lasting"
+    }
+},
+
+"√dibba": {
+    "meaning": "to be divine, heavenly",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make divine",
+        "desiderative": "to wish to be heavenly"
+    }
+},
+
+"√dīghanakha": {
+    "meaning": "to have long nails",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide long nails",
+        "desiderative": "to wish to have long nails"
+    }
+},
+
+"√dīghāyu": {
+    "meaning": "to be long-lived",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make long-lived",
+        "desiderative": "to wish to be long-lived"
+    }
+},
+
+"√dīpa": {
+    "meaning": "to be lamp, island",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create lamp",
+        "desiderative": "to wish for island"
+    }
+},
+
+"√dippati": {
+    "meaning": "to shine, blaze",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to make shine",
+        "desiderative": "to wish to blaze"
+    }
+},
+
+"√disāpāmokkha": {
+    "meaning": "to be foremost in directions",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make foremost in directions",
+        "desiderative": "to wish to be foremost in directions"
+    }
+},
+
+"√diṭṭhisampanna": {
+    "meaning": "to be endowed with right view",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to endow with right view",
+        "desiderative": "to wish to be endowed with right view"
+    }
+},
+
+"√diṭṭhivisuddhi": {
+    "meaning": "to purify view",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause view purification",
+        "desiderative": "to wish to purify view"
+    }
+},
+
+"√diva": {
+    "meaning": "to be day, daytime",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make day",
+        "desiderative": "to wish for daytime"
+    }
+},
+
+"√dosāgati": {
+    "meaning": "to go by hatred, be biased by aversion",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause hatred bias",
+        "desiderative": "to wish to be biased by aversion"
+    }
+},
+
+"√dosajāta": {
+    "meaning": "to be filled with hatred",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to fill with hatred",
+        "desiderative": "to wish to be filled with hatred"
+    }
+},
+
+"√dubbaññā": {
+    "meaning": "to be of bad complexion",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make of bad complexion",
+        "desiderative": "to wish to be of bad complexion"
+    }
+},
+
+"√dubbhikkha": {
+    "meaning": "to be famine, scarcity",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to cause famine",
+        "desiderative": "to wish for scarcity"
+    }
+},
+
+"√dubbuṭṭhi": {
+    "meaning": "to be bad rainfall",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to cause bad rainfall",
+        "desiderative": "to wish for bad rainfall"
+    }
+},
+
+"√duggata": {
+    "meaning": "to be ill-fated, unfortunate",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make ill-fated",
+        "desiderative": "to wish to be unfortunate"
+    }
+},
+
+"√duggatika": {
+    "meaning": "to be bound for bad destination",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make bound for bad destination",
+        "desiderative": "to wish to be bound for bad destination"
+    }
+},
+
+"√dukkhadhamma": {
+    "meaning": "to be painful state",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create painful state",
+        "desiderative": "to wish for painful state"
+    }
+},
+
+"√dukkhakkhandha": {
+    "meaning": "to be mass of suffering",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create mass of suffering",
+        "desiderative": "to wish for mass of suffering"
+    }
+},
+
+"√dukkhapariyāya": {
+    "meaning": "to be method of suffering",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create method of suffering",
+        "desiderative": "to wish for method of suffering"
+    }
+},
+
+"√dukkhappa": {
+    "meaning": "to be little suffering",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make little suffering",
+        "desiderative": "to wish for little suffering"
+    }
+},
+
+"√dukkhita": {
+    "meaning": "to be pained, suffering",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause pain",
+        "desiderative": "to wish to be suffering"
+    }
+},
+
+"√dukkhitatta": {
+    "meaning": "to be in state of suffering",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to put in state of suffering",
+        "desiderative": "to wish to be in state of suffering"
+    }
+},
+
+"√dullabha": {
+    "meaning": "to be difficult to obtain",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make difficult to obtain",
+        "desiderative": "to wish to be difficult to obtain"
+    }
+},
+
+"√dummagga": {
+    "meaning": "to be wrong path",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create wrong path",
+        "desiderative": "to wish for wrong path"
+    }
+},
+
+"√dummanā": {
+    "meaning": "to be dejected, sad",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make dejected",
+        "desiderative": "to wish to be sad"
+    }
+},
+
+"√dummedhā": {
+    "meaning": "to be stupid, foolish",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make stupid",
+        "desiderative": "to wish to be foolish"
+    }
+},
+
+"√dupaññā": {
+    "meaning": "to be of little wisdom",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make of little wisdom",
+        "desiderative": "to wish to be of little wisdom"
+    }
+},
+
+"√duratikrama": {
+    "meaning": "to be difficult to overcome",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make difficult to overcome",
+        "desiderative": "to wish to be difficult to overcome"
+    }
+},
+
+"√durāsada": {
+    "meaning": "to be difficult to approach",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make difficult to approach",
+        "desiderative": "to wish to be difficult to approach"
+    }
+},
+
+"√duscarita": {
+    "meaning": "to be misconduct, bad behavior",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause misconduct",
+        "desiderative": "to wish for bad behavior"
+    }
+},
+
+"√dūsita": {
+    "meaning": "to be corrupted, defiled",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to corrupt",
+        "desiderative": "to wish to be defiled"
+    }
+},
+
+"√dussīla": {
+    "meaning": "to be immoral, of bad conduct",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make immoral",
+        "desiderative": "to wish to be of bad conduct"
+    }
+},
+
+"√dusthāna": {
+    "meaning": "to be bad place, wrong position",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create bad place",
+        "desiderative": "to wish for wrong position"
+    }
+},
+
+"√dutiyaka": {
+    "meaning": "to be second, secondary",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make second",
+        "desiderative": "to wish to be secondary"
+    }
+},
+
+"√dvāra": {
+    "meaning": "to be door, gateway",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create door",
+        "desiderative": "to wish for gateway"
+    }
+},
+
+"√dvāraka": {
+    "meaning": "to be gatekeeper, doorkeeper",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make gatekeeper",
+        "desiderative": "to wish to be doorkeeper"
+    }
+},
+
+"√dvayaṃ": {
+    "meaning": "to be pair, couple",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make pair",
+        "desiderative": "to wish to be couple"
+    }
+},
+
+"√dvedha": {
+    "meaning": "to be twofold, in two ways",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make twofold",
+        "desiderative": "to wish to be in two ways"
+    }
+},
+
+"√dvejjhā": {
+    "meaning": "to be of two kinds",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make of two kinds",
+        "desiderative": "to wish to be of two kinds"
+    }
+},
+
+"√edhati": {
+    "meaning": "to prosper, increase",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause prosperity",
+        "desiderative": "to wish to prosper"
+    }
+},
+
+"√ejā": {
+    "meaning": "to be movement, vibration",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create movement",
+        "desiderative": "to wish for vibration"
+    }
+},
+
+"√ekadhamma": {
+    "meaning": "to be one teaching, single principle",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish one teaching",
+        "desiderative": "to wish for single principle"
+    }
+},
+
+"√ekaggacitto": {
+    "meaning": "to have one-pointed mind",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to make mind one-pointed",
+        "desiderative": "to wish to have one-pointed mind"
+    }
+},
+
+"√ekahipassayañca": {
+    "meaning": "to be one benefactor",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make one benefactor",
+        "desiderative": "to wish to be one benefactor"
+    }
+},
+
+"√ekajeeva": {
+    "meaning": "to live alone, be solitary",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make live alone",
+        "desiderative": "to wish to live alone"
+    }
+},
+
+"√ekamano": {
+    "meaning": "to be of one mind, united",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to unite mind",
+        "desiderative": "to wish to be of one mind"
+    }
+},
+
+"√ekanipāta": {
+    "meaning": "to be single section",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create single section",
+        "desiderative": "to wish for single section"
+    }
+},
+
+"√ekaratta": {
+    "meaning": "to be one night",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make one night",
+        "desiderative": "to wish for one night"
+    }
+},
+
+"√ekasaññin": {
+    "meaning": "to be of unified perception",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to unify perception",
+        "desiderative": "to wish to be of unified perception"
+    }
+},
+
+"√ekasiṅga": {
+    "meaning": "to be one-horned, rhinoceros",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make one-horned",
+        "desiderative": "to wish to be rhinoceros"
+    }
+},
+
+"√ekūnavisati": {
+    "meaning": "to be nineteen",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make nineteen",
+        "desiderative": "to wish to be nineteen"
+    }
+},
+
+"√enipassa": {
+    "meaning": "to see this, behold here",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make see this",
+        "desiderative": "to wish to see this"
+    }
+},
+
+"√esanā": {
+    "meaning": "to search, seek",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause searching",
+        "desiderative": "to wish to search"
+    }
+},
+
+"√etaṃ": {
+    "meaning": "to be this, that",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make this",
+        "desiderative": "to wish to be that"
+    }
+},
+
+"√etadagga": {
+    "meaning": "to be foremost of these",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make foremost of these",
+        "desiderative": "to wish to be foremost of these"
+    }
+},
+
+"√etarahi": {
+    "meaning": "to be now, at present",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make present",
+        "desiderative": "to wish to be now"
+    }
+},
+
+"√ettha": {
+    "meaning": "to be here, in this",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to place here",
+        "desiderative": "to wish to be here"
+    }
+},
+
+"√eva": {
+    "meaning": "to be just, exactly",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make exact",
+        "desiderative": "to wish to be just"
+    }
+},
+
+"√evameva": {
+    "meaning": "to be just so, exactly thus",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make just so",
+        "desiderative": "to wish to be exactly thus"
+    }
+},
+
+"√gacchati": {
+    "meaning": "to go, proceed",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause going",
+        "desiderative": "to wish to go"
+    }
+},
+
+"√gaddula": {
+    "meaning": "to be leech, blood-sucker",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make leech",
+        "desiderative": "to wish to be blood-sucker"
+    }
+},
+
+"√gahaka": {
+    "meaning": "to be householder, taker",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make householder",
+        "desiderative": "to wish to be taker"
+    }
+},
+
+"√gahaṇa": {
+    "meaning": "to grasp, take hold",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause grasping",
+        "desiderative": "to wish to grasp"
+    }
+},
+
+"√gahapatiratana": {
+    "meaning": "to be householder treasure",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make householder treasure",
+        "desiderative": "to wish to be householder treasure"
+    }
+},
+
+"√gajjana": {
+    "meaning": "to roar, thunder",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to cause roaring",
+        "desiderative": "to wish to roar"
+    }
+},
+
+"√gajjita": {
+    "meaning": "to be thundered, roared",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to make thunder",
+        "desiderative": "to wish to be roared"
+    }
+},
+
+"√gala": {
+    "meaning": "to be throat, neck",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide throat",
+        "desiderative": "to wish for neck"
+    }
+},
+
+"√gaḷagaṇḍa": {
+    "meaning": "to be throat tumor, goiter",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to create throat tumor",
+        "desiderative": "to wish for goiter"
+    }
+},
+
+"√gambhīra": {
+    "meaning": "to be deep, profound",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to deepen",
+        "desiderative": "to wish to be profound"
+    }
+},
+
+"√gambhīratta": {
+    "meaning": "to be profundity, depth",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create profundity",
+        "desiderative": "to wish for depth"
+    }
+},
+
+"√gandhabba": {
+    "meaning": "to be musician spirit, celestial being",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make musician spirit",
+        "desiderative": "to wish to be celestial being"
+    }
+},
+
+"√gandhajāta": {
+    "meaning": "to be born of scent, fragrant",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make born of scent",
+        "desiderative": "to wish to be fragrant"
+    }
+},
+
+"√gandhakuṭi": {
+    "meaning": "to be perfumed chamber",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create perfumed chamber",
+        "desiderative": "to wish for perfumed chamber"
+    }
+},
+
+"√gandharāja": {
+    "meaning": "to be king of scents",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make king of scents",
+        "desiderative": "to wish to be king of scents"
+    }
+},
+
+"√gandhasamādāna": {
+    "meaning": "to take up scents, use perfume",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause scent taking",
+        "desiderative": "to wish to take up scents"
+    }
+},
+
+"√gaṇḍa": {
+    "meaning": "to be boil, swelling",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to create boil",
+        "desiderative": "to wish for swelling"
+    }
+},
+
+"√ganthabandhakaḷevara": {
+    "meaning": "to be bound-up body",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to bind up body",
+        "desiderative": "to wish to be bound-up body"
+    }
+},
+
+"√garahā": {
+    "meaning": "to blame, censure",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause blaming",
+        "desiderative": "to wish to blame"
+    }
+},
+
+"√garu": {
+    "meaning": "to be heavy, important",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make important",
+        "desiderative": "to wish to be heavy"
+    }
+},
+
+"√garuḍa": {
+    "meaning": "to be eagle, mythical bird",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make eagle",
+        "desiderative": "to wish to be mythical bird"
+    }
+},
+
+"√garukattā": {
+    "meaning": "to be respect, reverence",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create respect",
+        "desiderative": "to wish for reverence"
+    }
+},
+
+"√gāthā": {
+    "meaning": "to be verse, stanza",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create verse",
+        "desiderative": "to wish for stanza"
+    }
+},
+
+"√gatinigama": {
+    "meaning": "to go to village, reach town",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause going to village",
+        "desiderative": "to wish to go to village"
+    }
+},
+
+"√gatta": {
+    "meaning": "to be body, limb",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide body",
+        "desiderative": "to wish for limb"
+    }
+},
+
+"√gavassa": {
+    "meaning": "to be of cow, bovine",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make bovine",
+        "desiderative": "to wish to be of cow"
+    }
+},
+
+"√gavaya": {
+    "meaning": "to be wild ox, bison",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make wild ox",
+        "desiderative": "to wish to be bison"
+    }
+},
+
+"√gāva": {
+    "meaning": "to be cow, cattle",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to provide cattle",
+        "desiderative": "to wish for cow"
+    }
+},
+
+"√gavesī": {
+    "meaning": "to search, seek",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause searching",
+        "desiderative": "to wish to search"
+    }
+},
+
+"√gāyana": {
+    "meaning": "to sing, chant",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause singing",
+        "desiderative": "to wish to sing"
+    }
+},
+
+"√gelañña": {
+    "meaning": "to be sickness, illness",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause sickness",
+        "desiderative": "to wish for illness"
+    }
+},
+
+"√ghaṭikā": {
+    "meaning": "to be hour, time period",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to create time period",
+        "desiderative": "to wish for hour"
+    }
+},
+
+"√ghāsacchāda": {
+    "meaning": "to be food and clothing",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide food and clothing",
+        "desiderative": "to wish for food and clothing"
+    }
+},
+
+"√giddha": {
+    "meaning": "to be greedy, eager",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make greedy",
+        "desiderative": "to wish to be eager"
+    }
+},
+
+"√gilāna": {
+    "meaning": "to be sick, patient",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make sick",
+        "desiderative": "to wish to be patient"
+    }
+},
+
+"√gilānupaṭṭhāka": {
+    "meaning": "to attend the sick",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause sick attendance",
+        "desiderative": "to wish to attend the sick"
+    }
+},
+
+"√gināti": {
+    "meaning": "to sing, chant",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause chanting",
+        "desiderative": "to wish to sing"
+    }
+},
+
+"√giri": {
+    "meaning": "to be mountain, hill",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create mountain",
+        "desiderative": "to wish for hill"
+    }
+},
+
+"√girigutta": {
+    "meaning": "to be mountain cave",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create mountain cave",
+        "desiderative": "to wish for mountain cave"
+    }
+},
+
+"√girikandara": {
+    "meaning": "to be mountain cavern",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create mountain cavern",
+        "desiderative": "to wish for mountain cavern"
+    }
+},
+
+"√gītāssara": {
+    "meaning": "to have singing voice",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide singing voice",
+        "desiderative": "to wish to have singing voice"
+    }
+},
+
+"√gītarava": {
+    "meaning": "to be sound of song",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create sound of song",
+        "desiderative": "to wish for sound of song"
+    }
+},
+
+"√godha": {
+    "meaning": "to be iguana, monitor lizard",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make iguana",
+        "desiderative": "to wish to be monitor lizard"
+    }
+},
+
+"√goma": {
+    "meaning": "to be cowherd, cattle owner",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make cowherd",
+        "desiderative": "to wish to be cattle owner"
+    }
+},
+
+"√gomaya": {
+    "meaning": "to be cow dung",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create cow dung",
+        "desiderative": "to wish for cow dung"
+    }
+},
+
+"√gonaddha": {
+    "meaning": "to be bull, male cow",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make bull",
+        "desiderative": "to wish to be male cow"
+    }
+},
+
+"√gopaka": {
+    "meaning": "to be protector, guardian",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make protector",
+        "desiderative": "to wish to be guardian"
+    }
+},
+
+"√gopālaka": {
+    "meaning": "to be cowherd, shepherd",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make cowherd",
+        "desiderative": "to wish to be shepherd"
+    }
+},
+
+"√gopī": {
+    "meaning": "to be cowgirl, milkmaid",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make cowgirl",
+        "desiderative": "to wish to be milkmaid"
+    }
+},
+
+"√gotama": {
+    "meaning": "to be of Gotama clan",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make of Gotama clan",
+        "desiderative": "to wish to be of Gotama clan"
+    }
+},
+
+"√gotrabhu": {
+    "meaning": "to change lineage, attain new spiritual family",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to cause lineage change",
+        "desiderative": "to wish to change lineage"
+    }
+},
+
+"√gottapaṭisāraṇīya": {
+    "meaning": "to seek refuge in lineage",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to provide lineage refuge",
+        "desiderative": "to wish to seek refuge in lineage"
+    }
+},
+
+"√goyāna": {
+    "meaning": "to be pasture, grazing ground",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create pasture",
+        "desiderative": "to wish for grazing ground"
+    }
+},
+
+"√guyha": {
+    "meaning": "to be secret, private parts",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make secret",
+        "desiderative": "to wish to be private"
+    }
+},
+
+"√hattha": {
+    "meaning": "to be hand, elephant",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide hand",
+        "desiderative": "to wish for elephant"
+    }
+},
+
+"√hatthapāsa": {
+    "meaning": "to be within hand's reach",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to bring within hand's reach",
+        "desiderative": "to wish to be within hand's reach"
+    }
+},
+
+"√hatthipada": {
+    "meaning": "to be elephant footprint",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create elephant footprint",
+        "desiderative": "to wish for elephant footprint"
+    }
+},
+
+"√hatthirūpaka": {
+    "meaning": "to be elephant figure, elephant-shaped",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make elephant-shaped",
+        "desiderative": "to wish to be elephant figure"
+    }
+},
+
+"√hatthinī": {
+    "meaning": "to be female elephant",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make female elephant",
+        "desiderative": "to wish to be female elephant"
+    }
+},
+
+"√hatthiyāna": {
+    "meaning": "to ride elephant, elephant vehicle",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to provide elephant vehicle",
+        "desiderative": "to wish to ride elephant"
+    }
+},
+
+"√havya": {
+    "meaning": "to be oblation, offering",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create oblation",
+        "desiderative": "to wish for offering"
+    }
+},
+
+"√heraññikā": {
+    "meaning": "to be goldsmith, worker in gold",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make goldsmith",
+        "desiderative": "to wish to be worker in gold"
+    }
+},
+
+"√hesā": {
+    "meaning": "to neigh, whinny",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause neighing",
+        "desiderative": "to wish to neigh"
+    }
+},
+
+"√hetu": {
+    "meaning": "to be cause, reason",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to create cause",
+        "desiderative": "to wish to be reason"
+    }
+},
+
+"√hetuphala": {
+    "meaning": "to be cause and effect",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to establish cause and effect",
+        "desiderative": "to wish for cause and effect"
+    }
+},
+
+"√hetuvāda": {
+    "meaning": "to teach causation",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause causation teaching",
+        "desiderative": "to wish to teach causation"
+    }
+},
+
+"√hīna": {
+    "meaning": "to be inferior, low",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make inferior",
+        "desiderative": "to wish to be low"
+    }
+},
+
+"√hīnādhimuttika": {
+    "meaning": "to be of inferior inclination",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make of inferior inclination",
+        "desiderative": "to wish to be of inferior inclination"
+    }
+},
+
+"√hīnapañña": {
+    "meaning": "to be of inferior wisdom",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make of inferior wisdom",
+        "desiderative": "to wish to be of inferior wisdom"
+    }
+},
+
+"√hiri": {
+    "meaning": "to be shame, moral conscience",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to inspire shame",
+        "desiderative": "to wish for moral conscience"
+    }
+},
+
+"√hirottappa": {
+    "meaning": "to be shame and fear of wrong",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to inspire shame and fear of wrong",
+        "desiderative": "to wish for shame and fear of wrong"
+    }
+},
+
+"√hīyati": {
+    "meaning": "to decrease, decline",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause decrease",
+        "desiderative": "to wish to decline"
+    }
+},
+
+"√homa": {
+    "meaning": "to offer sacrifice, make oblation",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause sacrifice",
+        "desiderative": "to wish to offer sacrifice"
+    }
+},
+
+"√hoti": {
+    "meaning": "to be, become",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause to be",
+        "desiderative": "to wish to become"
+    }
+},
+
+"√hurā": {
+    "meaning": "to be below, underneath",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to place below",
+        "desiderative": "to wish to be underneath"
+    }
+},
+
+"√hutavaha": {
+    "meaning": "to carry oblations, be fire",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to make carry oblations",
+        "desiderative": "to wish to carry oblations"
+    }
+},
+
+"√icchā": {
+    "meaning": "to desire, wish",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create desire",
+        "desiderative": "to wish to desire"
+    }
+},
+
+"√idani": {
+    "meaning": "to be now, at present",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make present",
+        "desiderative": "to wish to be now"
+    }
+},
+
+"√iddhāna": {
+    "meaning": "to be prosperous, successful",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make prosperous",
+        "desiderative": "to wish to be successful"
+    }
+},
+
+"√iddhimant": {
+    "meaning": "to be powerful, having psychic powers",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to empower",
+        "desiderative": "to wish to be powerful"
+    }
+},
+
+"√iddhisākkhī": {
+    "meaning": "to witness psychic powers",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to cause psychic power witnessing",
+        "desiderative": "to wish to witness psychic powers"
+    }
+},
+
+"√idha": {
+    "meaning": "to be here, in this",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to place here",
+        "desiderative": "to wish to be here"
+    }
+},
+
+"√ijjhati": {
+    "meaning": "to succeed, prosper",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause success",
+        "desiderative": "to wish to succeed"
+    }
+},
+
+"√indrādhivāsa": {
+    "meaning": "to be under Indra's rule",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to place under Indra's rule",
+        "desiderative": "to wish to be under Indra's rule"
+    }
+},
+
+"√indriyavant": {
+    "meaning": "to be endowed with faculties",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to endow with faculties",
+        "desiderative": "to wish to be endowed with faculties"
+    }
+},
+
+"√īriyati": {
+    "meaning": "to move, be active",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause movement",
+        "desiderative": "to wish to move"
+    }
+},
+
+"√isayo": {
+    "meaning": "to be sages, seers",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make sages",
+        "desiderative": "to wish to be seers"
+    }
+},
+
+"√īsāna": {
+    "meaning": "to rule, govern",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to establish rule",
+        "desiderative": "to wish to rule"
+    }
+},
+
+"√issara": {
+    "meaning": "to be lord, master",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make lord",
+        "desiderative": "to wish to be master"
+    }
+},
+
+"√issariya": {
+    "meaning": "to be lordship, power",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create lordship",
+        "desiderative": "to wish for power"
+    }
+},
+
+"√ittara": {
+    "meaning": "to be other, different",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make different",
+        "desiderative": "to wish to be other"
+    }
+},
+
+"√itthi": {
+    "meaning": "to be woman, female",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make female",
+        "desiderative": "to wish to be woman"
+    }
+},
+
+"√itthisadda": {
+    "meaning": "to be women's voices",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create women's voices",
+        "desiderative": "to wish for women's voices"
+    }
+},
+
+"√iva": {
+    "meaning": "to be like, as if",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make like",
+        "desiderative": "to wish to be as if"
+    }
+},
+
+"√jaṅgama": {
+    "meaning": "to be moving, mobile",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make mobile",
+        "desiderative": "to wish to be moving"
+    }
+},
+
+"√janakāyikā": {
+    "meaning": "to be people, populace",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create populace",
+        "desiderative": "to wish to be people"
+    }
+},
+
+"√janapada": {
+    "meaning": "to be country, inhabited area",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create country",
+        "desiderative": "to wish for inhabited area"
+    }
+},
+
+"√janasaṃgha": {
+    "meaning": "to be crowd of people",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create crowd of people",
+        "desiderative": "to wish for crowd of people"
+    }
+},
+
+"√janeti": {
+    "meaning": "to beget, produce",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause begetting",
+        "desiderative": "to wish to beget"
+    }
+},
+
+"√jaññā": {
+    "meaning": "to be wife, spouse",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make wife",
+        "desiderative": "to wish to be spouse"
+    }
+},
+
+"√jara": {
+    "meaning": "to age, grow old",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause aging",
+        "desiderative": "to wish to age"
+    }
+},
+
+"√jarāmaraṇa": {
+    "meaning": "to age and die",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause aging and death",
+        "desiderative": "to wish to age and die"
+    }
+},
+
+"√jāta": {
+    "meaning": "to be born, arisen",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to cause birth",
+        "desiderative": "to wish to be born"
+    }
+},
+
+"√jātaka": {
+    "meaning": "to be birth story, tale of past life",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create birth story",
+        "desiderative": "to wish for birth story"
+    }
+},
+
+"√jātarūpa": {
+    "meaning": "to be gold, precious metal",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create gold",
+        "desiderative": "to wish for precious metal"
+    }
+},
+
+"√jātisara": {
+    "meaning": "to remember births, recall past lives",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to cause birth memory",
+        "desiderative": "to wish to remember births"
+    }
+},
+
+"√jātivāda": {
+    "meaning": "to speak of caste, discuss birth",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause caste discussion",
+        "desiderative": "to wish to speak of caste"
+    }
+},
+
+"√javana": {
+    "meaning": "to run swiftly, impel",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause swift running",
+        "desiderative": "to wish to run swiftly"
+    }
+},
+
+"√jayati": {
+    "meaning": "to conquer, win",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause conquest",
+        "desiderative": "to wish to conquer"
+    }
+},
+
+"√jeguccha": {
+    "meaning": "to be disgusting, loathsome",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make disgusting",
+        "desiderative": "to wish to be loathsome"
+    }
+},
+
+"√jetavana": {
+    "meaning": "to be Jeta's grove",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to establish Jeta's grove",
+        "desiderative": "to wish for Jeta's grove"
+    }
+},
+
+"√jhāpanā": {
+    "meaning": "to burn, cremate",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause burning",
+        "desiderative": "to wish to burn"
+    }
+},
+
+"√jhāpita": {
+    "meaning": "to be burned, cremated",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to make burned",
+        "desiderative": "to wish to be cremated"
+    }
+},
+
+"√jhāyaka": {
+    "meaning": "to be meditator, one who practices jhana",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make meditator",
+        "desiderative": "to wish to be one who practices jhana"
+    }
+},
+
+"√jhuttī": {
+    "meaning": "to be false, untrue",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make false",
+        "desiderative": "to wish to be untrue"
+    }
+},
+
+"√jīvaka": {
+    "meaning": "to live, be living being",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to give life",
+        "desiderative": "to wish to live"
+    }
+},
+
+"√jīvanā": {
+    "meaning": "to live, sustain life",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to sustain life",
+        "desiderative": "to wish to live"
+    }
+},
+
+"√jīvitakkhaya": {
+    "meaning": "to end life, die",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause life ending",
+        "desiderative": "to wish to end life"
+    }
+},
+
+"√jīvitasaṃsaya": {
+    "meaning": "to doubt life, fear death",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause life doubt",
+        "desiderative": "to wish to doubt life"
+    }
+},
+
+"√jotanā": {
+    "meaning": "to illuminate, light up",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause illumination",
+        "desiderative": "to wish to illuminate"
+    }
+},
+
+"√joti": {
+    "meaning": "to shine, emit light",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to make shine",
+        "desiderative": "to wish to emit light"
+    }
+},
+
+"√jotissara": {
+    "meaning": "to be naturally luminous",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make naturally luminous",
+        "desiderative": "to wish to be naturally luminous"
+    }
+}
+},
+{
+"√kāca": {
+    "meaning": "to be glass, crystal",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to make glass-like",
+        "desiderative": "to wish to be crystal"
+    }
+},
+
+"√kaccha": {
+    "meaning": "to be armpit, marsh",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to create armpit",
+        "desiderative": "to wish for marsh"
+    }
+},
+
+"√kacci": {
+    "meaning": "to be perhaps, I hope",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create hope",
+        "desiderative": "to wish to hope"
+    }
+},
+
+"√kadali": {
+    "meaning": "to be banana tree, plantain",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to grow banana tree",
+        "desiderative": "to wish for plantain"
+    }
+},
+
+"√kaddama": {
+    "meaning": "to be mud, mire",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create mud",
+        "desiderative": "to wish for mire"
+    }
+},
+
+"√kahaṃ": {
+    "meaning": "to be where, at what place",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to locate",
+        "desiderative": "to wish to know where"
+    }
+},
+
+"√kāja": {
+    "meaning": "to be made of, consisting of",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make consist of",
+        "desiderative": "to wish to be made of"
+    }
+},
+
+"√kakaca": {
+    "meaning": "to be saw, cutting tool",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make like saw",
+        "desiderative": "to wish to be cutting tool"
+    }
+},
+
+"√kakudha": {
+    "meaning": "to be hump, projection",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to create hump",
+        "desiderative": "to wish for projection"
+    }
+},
+
+"√kalaha": {
+    "meaning": "to quarrel, dispute",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause quarrel",
+        "desiderative": "to wish to dispute"
+    }
+},
+
+"√kalaṃ": {
+    "meaning": "to be part, fraction",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make part",
+        "desiderative": "to wish to be fraction"
+    }
+},
+
+"√kālakiriyā": {
+    "meaning": "to die, pass away",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to cause death",
+        "desiderative": "to wish to die"
+    }
+},
+
+"√kalala": {
+    "meaning": "to be embryo, fetus",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to form embryo",
+        "desiderative": "to wish to be fetus"
+    }
+},
+
+"√kālañña": {
+    "meaning": "to know proper time",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to teach proper time",
+        "desiderative": "to wish to know proper time"
+    }
+},
+
+"√kālapakkha": {
+    "meaning": "to be dark fortnight",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to create dark fortnight",
+        "desiderative": "to wish for dark fortnight"
+    }
+},
+
+"√kalaviṅka": {
+    "meaning": "to be sweet-voiced bird",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make sweet-voiced",
+        "desiderative": "to wish to be sweet-voiced bird"
+    }
+},
+
+"√kalimāna": {
+    "meaning": "to be spotted, variegated",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make spotted",
+        "desiderative": "to wish to be variegated"
+    }
+},
+
+"√kallakāya": {
+    "meaning": "to have beautiful body",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to beautify body",
+        "desiderative": "to wish for beautiful body"
+    }
+},
+
+"√kalyāṇadhamma": {
+    "meaning": "to have good qualities",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create good qualities",
+        "desiderative": "to wish for good qualities"
+    }
+},
+
+"√kalyāṇamitta": {
+    "meaning": "to be good friend, spiritual companion",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make good friend",
+        "desiderative": "to wish to be spiritual companion"
+    }
+},
+
+"√kalyāṇapāpaka": {
+    "meaning": "to be good and bad",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make good and bad",
+        "desiderative": "to wish to be good and bad"
+    }
+},
+
+"√kāmabhava": {
+    "meaning": "to be sensual existence",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create sensual existence",
+        "desiderative": "to wish for sensual existence"
+    }
+},
+
+"√kāmabhogī": {
+    "meaning": "to enjoy sensual pleasures",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause sensual enjoyment",
+        "desiderative": "to wish to enjoy sensual pleasures"
+    }
+},
+
+"√kāmaguṇa": {
+    "meaning": "to have sensual qualities",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create sensual qualities",
+        "desiderative": "to wish for sensual qualities"
+    }
+},
+
+"√kāmakopa": {
+    "meaning": "to be angry with desire",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create desire anger",
+        "desiderative": "to wish to be angry with desire"
+    }
+},
+
+"√kāmarati": {
+    "meaning": "to delight in sensuality",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause sensual delight",
+        "desiderative": "to wish to delight in sensuality"
+    }
+},
+
+"√kāmasaññojana": {
+    "meaning": "to be sensual fetter",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to create sensual fetter",
+        "desiderative": "to wish for sensual fetter"
+    }
+},
+
+"√kāmavitakka": {
+    "meaning": "to have sensual thoughts",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create sensual thoughts",
+        "desiderative": "to wish for sensual thoughts"
+    }
+},
+
+"√kāmayoga": {
+    "meaning": "to be yoked to sensuality",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to yoke to sensuality",
+        "desiderative": "to wish to be yoked to sensuality"
+    }
+},
+
+"√kammadhāraya": {
+    "meaning": "to bear action, hold karma",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause action bearing",
+        "desiderative": "to wish to bear action"
+    }
+},
+
+"√kammañña": {
+    "meaning": "to be suitable for work",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make suitable for work",
+        "desiderative": "to wish to be suitable for work"
+    }
+},
+
+"√kammaññatā": {
+    "meaning": "to be workability, pliability",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create workability",
+        "desiderative": "to wish for pliability"
+    }
+},
+
+"√kammanta": {
+    "meaning": "to work, be employed",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to employ",
+        "desiderative": "to wish to work"
+    }
+},
+
+"√kammāra": {
+    "meaning": "to be smith, metalworker",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make smith",
+        "desiderative": "to wish to be metalworker"
+    }
+},
+
+"√kammāyatana": {
+    "meaning": "to be field of action",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create field of action",
+        "desiderative": "to wish for field of action"
+    }
+},
+
+"√kampana": {
+    "meaning": "to shake, tremble",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause shaking",
+        "desiderative": "to wish to tremble"
+    }
+},
+
+"√kaṇa": {
+    "meaning": "to be particle, broken rice",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to break into particles",
+        "desiderative": "to wish to be particle"
+    }
+},
+
+"√kandara": {
+    "meaning": "to be cave, grotto",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create cave",
+        "desiderative": "to wish for grotto"
+    }
+},
+
+"√kaṇeru": {
+    "meaning": "to be small elephant",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make small elephant",
+        "desiderative": "to wish to be small elephant"
+    }
+},
+
+"√kaṅka": {
+    "meaning": "to be heron, crane",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make heron",
+        "desiderative": "to wish to be crane"
+    }
+},
+
+"√kaṅkhā": {
+    "meaning": "to doubt, be uncertain",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create doubt",
+        "desiderative": "to wish to be uncertain"
+    }
+},
+
+"√kaṅkhāyana": {
+    "meaning": "to be doubtful, hesitating",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make doubtful",
+        "desiderative": "to wish to be hesitating"
+    }
+},
+
+"√kañña": {
+    "meaning": "to be maiden, virgin",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make maiden",
+        "desiderative": "to wish to be virgin"
+    }
+},
+
+"√kaṇṭaka": {
+    "meaning": "to be thorn, obstacle",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create thorn",
+        "desiderative": "to wish for obstacle"
+    }
+},
+
+"√kaṇṭha": {
+    "meaning": "to be throat, neck",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide throat",
+        "desiderative": "to wish for neck"
+    }
+},
+
+"√kapa": {
+    "meaning": "to be time period, eon",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to create time period",
+        "desiderative": "to wish for eon"
+    }
+},
+
+"√kapaṇa": {
+    "meaning": "to be miserable, wretched",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to make miserable",
+        "desiderative": "to wish to be wretched"
+    }
+},
+
+"√kapāla": {
+    "meaning": "to be skull, alms bowl",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide skull",
+        "desiderative": "to wish for alms bowl"
+    }
+},
+
+"√kapila": {
+    "meaning": "to be tawny, brown",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make tawny",
+        "desiderative": "to wish to be brown"
+    }
+},
+
+"√kappa": {
+    "meaning": "to be suitable, proper",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make suitable",
+        "desiderative": "to wish to be proper"
+    }
+},
+
+"√kappaka": {
+    "meaning": "to be barber, hairdresser",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make barber",
+        "desiderative": "to wish to be hairdresser"
+    }
+},
+
+"√karajakāya": {
+    "meaning": "to have physical body",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to create physical body",
+        "desiderative": "to wish for physical body"
+    }
+},
+
+"√karaṇīya": {
+    "meaning": "to be what should be done",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make necessary",
+        "desiderative": "to wish to be done"
+    }
+},
+
+"√karavīka": {
+    "meaning": "to be cuckoo, sweet-voiced bird",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make cuckoo",
+        "desiderative": "to wish to be sweet-voiced bird"
+    }
+},
+
+"√kardama": {
+    "meaning": "to be mud, slime",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create mud",
+        "desiderative": "to wish for slime"
+    }
+},
+
+"√kareṇu": {
+    "meaning": "to be female elephant",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make female elephant",
+        "desiderative": "to wish to be female elephant"
+    }
+},
+
+"√kārikā": {
+    "meaning": "to be action, doing",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause action",
+        "desiderative": "to wish for doing"
+    }
+},
+
+"√kariyamāna": {
+    "meaning": "to be being done",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause being done",
+        "desiderative": "to wish to be being done"
+    }
+},
+
+"√karotabba": {
+    "meaning": "to be what must be done",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make obligatory",
+        "desiderative": "to wish to be obligatory"
+    }
+},
+
+"√kāruṇika": {
+    "meaning": "to be compassionate",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make compassionate",
+        "desiderative": "to wish to be compassionate"
+    }
+},
+
+"√kāsāva": {
+    "meaning": "to be ochre, monk's robe",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to dye ochre",
+        "desiderative": "to wish for monk's robe"
+    }
+},
+
+"√kāsika": {
+    "meaning": "to be from Kasi, finest cloth",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make like Kasi cloth",
+        "desiderative": "to wish for finest cloth"
+    }
+},
+
+"√kassaka": {
+    "meaning": "to be farmer, cultivator",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make farmer",
+        "desiderative": "to wish to be cultivator"
+    }
+},
+
+"√kaṭacchu": {
+    "meaning": "to be ladle, spoon",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make ladle",
+        "desiderative": "to wish for spoon"
+    }
+},
+
+"√katama": {
+    "meaning": "to be which one",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to indicate which",
+        "desiderative": "to wish to know which"
+    }
+},
+
+"√kataññū": {
+    "meaning": "to be grateful",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make grateful",
+        "desiderative": "to wish to be grateful"
+    }
+},
+
+"√katatā": {
+    "meaning": "to be done state",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create done state",
+        "desiderative": "to wish for done state"
+    }
+},
+
+"√katatta": {
+    "meaning": "to be doership",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create doership",
+        "desiderative": "to wish for doership"
+    }
+},
+
+"√kathā": {
+    "meaning": "to speak, talk",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause speaking",
+        "desiderative": "to wish to talk"
+    }
+},
+
+"√katheti": {
+    "meaning": "to speak, narrate",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause narration",
+        "desiderative": "to wish to speak"
+    }
+},
+
+"√kathika": {
+    "meaning": "to be speaker, preacher",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make speaker",
+        "desiderative": "to wish to be preacher"
+    }
+},
+
+"√kathin": {
+    "meaning": "to be difficult, hard",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make difficult",
+        "desiderative": "to wish to be hard"
+    }
+},
+
+"√kati": {
+    "meaning": "to be how many",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to count",
+        "desiderative": "to wish to know how many"
+    }
+},
+
+"√katipāha": {
+    "meaning": "to be few days",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make few days",
+        "desiderative": "to wish for few days"
+    }
+},
+
+"√kattha": {
+    "meaning": "to be where",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to locate",
+        "desiderative": "to wish to know where"
+    }
+},
+
+"√kattika": {
+    "meaning": "to be October-November month",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to make October-November",
+        "desiderative": "to wish for October-November"
+    }
+},
+
+"√katvā": {
+    "meaning": "to having done",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause having done",
+        "desiderative": "to wish having done"
+    }
+},
+
+"√kaukṛtya": {
+    "meaning": "to worry, feel remorse",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause worry",
+        "desiderative": "to wish to worry"
+    }
+},
+
+"√kavāṭa": {
+    "meaning": "to be door, gate",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create door",
+        "desiderative": "to wish for gate"
+    }
+},
+
+"√kāya": {
+    "meaning": "to be body, group",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to embody",
+        "desiderative": "to wish for body"
+    }
+},
+
+"√kāyabalā": {
+    "meaning": "to have bodily strength",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to strengthen body",
+        "desiderative": "to wish for bodily strength"
+    }
+},
+
+"√kāyacitta": {
+    "meaning": "to be body and mind",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to unite body and mind",
+        "desiderative": "to wish for body and mind"
+    }
+},
+
+"√kāyaduccarita": {
+    "meaning": "to have bodily misconduct",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause bodily misconduct",
+        "desiderative": "to wish for bodily misconduct"
+    }
+},
+
+"√kāyagata": {
+    "meaning": "to be mindful of body",
+    "semantic_field": "meditation",
+    "derivatives": {
+        "causative": "to establish body mindfulness",
+        "desiderative": "to wish for body mindfulness"
+    }
+},
+
+"√kāyakamma": {
+    "meaning": "to be bodily action",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create bodily action",
+        "desiderative": "to wish for bodily action"
+    }
+},
+
+"√kāyasaṃsagga": {
+    "meaning": "to have bodily contact",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause bodily contact",
+        "desiderative": "to wish for bodily contact"
+    }
+},
+
+"√kāyasucarita": {
+    "meaning": "to have good bodily conduct",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create good bodily conduct",
+        "desiderative": "to wish for good bodily conduct"
+    }
+},
+
+"√kāyaviññatti": {
+    "meaning": "to express through body",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause bodily expression",
+        "desiderative": "to wish to express through body"
+    }
+},
+
+"√kāyaviññāṇa": {
+    "meaning": "to have body consciousness",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create body consciousness",
+        "desiderative": "to wish for body consciousness"
+    }
+},
+
+"√kebuka": {
+    "meaning": "to be water plant",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to grow water plant",
+        "desiderative": "to wish to be water plant"
+    }
+},
+
+"√keci": {
+    "meaning": "to be some, certain ones",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make some",
+        "desiderative": "to wish to be certain ones"
+    }
+},
+
+"√kedāra": {
+    "meaning": "to be field, agricultural land",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create field",
+        "desiderative": "to wish for agricultural land"
+    }
+},
+
+"√keḷi": {
+    "meaning": "to play, sport",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause play",
+        "desiderative": "to wish to sport"
+    }
+},
+
+"√kena": {
+    "meaning": "to be by whom, by what",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to identify agent",
+        "desiderative": "to wish to know by whom"
+    }
+},
+
+"√kesā": {
+    "meaning": "to be hair",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to grow hair",
+        "desiderative": "to wish for hair"
+    }
+},
+
+"√kesarī": {
+    "meaning": "to be lion, maned one",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make lion-like",
+        "desiderative": "to wish to be lion"
+    }
+},
+
+"√ketubha": {
+    "meaning": "to be banner, flag",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to raise banner",
+        "desiderative": "to wish for flag"
+    }
+},
+
+"√kevala": {
+    "meaning": "to be only, entire",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make entire",
+        "desiderative": "to wish to be only"
+    }
+},
+
+"√kevalakappa": {
+    "meaning": "to be entire eon",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to span entire eon",
+        "desiderative": "to wish for entire eon"
+    }
+},
+
+"√khaggavisāṇa": {
+    "meaning": "to be rhinoceros horn",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to make like rhinoceros horn",
+        "desiderative": "to wish to be rhinoceros horn"
+    }
+},
+
+"√khajja": {
+    "meaning": "to be food, edible",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make edible",
+        "desiderative": "to wish to be food"
+    }
+},
+
+"√khajjati": {
+    "meaning": "to be eaten, consumed",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause eating",
+        "desiderative": "to wish to be eaten"
+    }
+},
+
+"√khajjūra": {
+    "meaning": "to be date palm",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to grow date palm",
+        "desiderative": "to wish to be date palm"
+    }
+},
+
+"√khalita": {
+    "meaning": "to stumble, err",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause stumbling",
+        "desiderative": "to wish to stumble"
+    }
+},
+
+"√khalu": {
+    "meaning": "to be indeed, certainly",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make certain",
+        "desiderative": "to wish to be indeed"
+    }
+},
+
+"√khaṇa": {
+    "meaning": "to be moment, instant",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to create moment",
+        "desiderative": "to wish for instant"
+    }
+},
+
+"√khaṇati": {
+    "meaning": "to dig, excavate",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause digging",
+        "desiderative": "to wish to dig"
+    }
+},
+
+"√khaṇḍa": {
+    "meaning": "to be broken, piece",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to break into pieces",
+        "desiderative": "to wish to be broken"
+    }
+},
+
+"√khaṇika": {
+    "meaning": "to be momentary",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make momentary",
+        "desiderative": "to wish to be momentary"
+    }
+},
+
+"√khanti": {
+    "meaning": "to be patience, forbearance",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create patience",
+        "desiderative": "to wish for forbearance"
+    }
+},
+
+"√khantika": {
+    "meaning": "to be patient one",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make patient",
+        "desiderative": "to wish to be patient one"
+    }
+},
+
+"√khāra": {
+    "meaning": "to be alkali, potash",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create alkali",
+        "desiderative": "to wish for potash"
+    }
+},
+
+"√khārī": {
+    "meaning": "to be measure, load",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to measure",
+        "desiderative": "to wish for measure"
+    }
+},
+
+"√khaṭṭa": {
+    "meaning": "to be dwarf, hunchback",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make dwarf",
+        "desiderative": "to wish to be hunchback"
+    }
+},
+
+"√khaya": {
+    "meaning": "to waste away, exhaust",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause wasting",
+        "desiderative": "to wish to exhaust"
+    }
+},
+
+"√khāyati": {
+    "meaning": "to appear, seem",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make appear",
+        "desiderative": "to wish to seem"
+    }
+},
+
+"√khela": {
+    "meaning": "to be saliva, phlegm",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to produce saliva",
+        "desiderative": "to wish for phlegm"
+    }
+},
+
+"√khema": {
+    "meaning": "to be safe, secure",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make safe",
+        "desiderative": "to wish to be secure"
+    }
+},
+
+"√khemabhūmi": {
+    "meaning": "to be safe ground",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create safe ground",
+        "desiderative": "to wish for safe ground"
+    }
+},
+
+"√khepana": {
+    "meaning": "to spend time, pass",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause time passing",
+        "desiderative": "to wish to spend time"
+    }
+},
+
+"√khetta": {
+    "meaning": "to be field, sphere",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to create field",
+        "desiderative": "to wish for sphere"
+    }
+},
+
+"√khettajina": {
+    "meaning": "to conquer field",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause field conquest",
+        "desiderative": "to wish to conquer field"
+    }
+},
+
+"√khettagopaka": {
+    "meaning": "to be field guardian",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make field guardian",
+        "desiderative": "to wish to be field guardian"
+    }
+},
+
+"√khettūpama": {
+    "meaning": "to be field simile",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create field simile",
+        "desiderative": "to wish for field simile"
+    }
+},
+
+"√khiddā": {
+    "meaning": "to play, sport",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause play",
+        "desiderative": "to wish to sport"
+    }
+},
+
+"√khiḍḍā": {
+    "meaning": "to be play, game",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create game",
+        "desiderative": "to wish for play"
+    }
+},
+
+"√khīṇa": {
+    "meaning": "to be exhausted, destroyed",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to exhaust",
+        "desiderative": "to wish to be destroyed"
+    }
+},
+
+"√khīṇāsava": {
+    "meaning": "to have destroyed taints",
+    "semantic_field": "enlightenment",
+    "derivatives": {
+        "causative": "to destroy taints",
+        "desiderative": "to wish to destroy taints"
+    }
+},
+
+"√khila": {
+    "meaning": "to be waste land, hardness",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make waste land",
+        "desiderative": "to wish for hardness"
+    }
+},
+
+"√khippa": {
+    "meaning": "to be quick, swift",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to quicken",
+        "desiderative": "to wish to be swift"
+    }
+},
+
+"√khippaṃ": {
+    "meaning": "to be quickly, soon",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to hasten",
+        "desiderative": "to wish to be soon"
+    }
+},
+
+"√khīra": {
+    "meaning": "to be milk",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to produce milk",
+        "desiderative": "to wish for milk"
+    }
+},
+
+"√khīrodaka": {
+    "meaning": "to be milk and water",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to mix milk and water",
+        "desiderative": "to wish for milk and water"
+    }
+},
+
+"√khitta": {
+    "meaning": "to be thrown, cast",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause throwing",
+        "desiderative": "to wish to be thrown"
+    }
+},
+
+"√khittacitta": {
+    "meaning": "to have deranged mind",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to derange mind",
+        "desiderative": "to wish for deranged mind"
+    }
+},
+
+"√kho": {
+    "meaning": "to be indeed, truly",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to affirm",
+        "desiderative": "to wish to be truly"
+    }
+},
+
+"√khobha": {
+    "meaning": "to be agitation, disturbance",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to agitate",
+        "desiderative": "to wish for disturbance"
+    }
+},
+
+"√khoma": {
+    "meaning": "to be linen, fine cloth",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make linen",
+        "desiderative": "to wish for fine cloth"
+    }
+},
+
+"√khuddaka": {
+    "meaning": "to be small, minor",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make small",
+        "desiderative": "to wish to be minor"
+    }
+},
+
+"√khujja": {
+    "meaning": "to be hunchback, crooked",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make crooked",
+        "desiderative": "to wish to be hunchback"
+    }
+},
+
+"√khura": {
+    "meaning": "to be razor, hoof",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to provide razor",
+        "desiderative": "to wish for hoof"
+    }
+},
+
+"√khyāti": {
+    "meaning": "to be known, famous",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make known",
+        "desiderative": "to wish to be famous"
+    }
+},
+
+"√kibbisa": {
+    "meaning": "to be evil deed, demerit",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create evil deed",
+        "desiderative": "to wish for demerit"
+    }
+},
+
+"√kicca": {
+    "meaning": "to be duty, task",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to assign duty",
+        "desiderative": "to wish for task"
+    }
+},
+
+"√kiccākicca": {
+    "meaning": "to be what should and shouldn't be done",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to determine duties",
+        "desiderative": "to wish to know duties"
+    }
+},
+
+"√kilanta": {
+    "meaning": "to be tired, exhausted",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to tire",
+        "desiderative": "to wish to be exhausted"
+    }
+},
+
+"√kilāsa": {
+    "meaning": "to be skin disease, leprosy",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to cause skin disease",
+        "desiderative": "to wish for leprosy"
+    }
+},
+
+"√kilesa": {
+    "meaning": "to be defilement, impurity",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to defile",
+        "desiderative": "to wish to be impure"
+    }
+},
+
+"√kiliṭṭha": {
+    "meaning": "to be defiled, stained",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to defile",
+        "desiderative": "to wish to be stained"
+    }
+},
+
+"√kilissati": {
+    "meaning": "to be defiled, troubled",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to cause defilement",
+        "desiderative": "to wish to be troubled"
+    }
+},
+
+"√kiloma": {
+    "meaning": "to be wrong way, against grain",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to reverse",
+        "desiderative": "to wish to go wrong way"
+    }
+},
+
+"√kim": {
+    "meaning": "to be what, why",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to question",
+        "desiderative": "to wish to know what"
+    }
+},
+
+"√kimakkhāyi": {
+    "meaning": "to be announced, declared",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause announcement",
+        "desiderative": "to wish to be declared"
+    }
+},
+
+"√kimatthiya": {
+    "meaning": "to be for what purpose",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to give purpose",
+        "desiderative": "to wish to know purpose"
+    }
+},
+
+"√kimi": {
+    "meaning": "to be worm, insect",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to breed worms",
+        "desiderative": "to wish to be insect"
+    }
+},
+
+"√kiṃkara": {
+    "meaning": "to be servant, attendant",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make servant",
+        "desiderative": "to wish to be attendant"
+    }
+},
+
+"√kimpurisa": {
+    "meaning": "to be mythical being",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create mythical being",
+        "desiderative": "to wish to be mythical being"
+    }
+},
+
+"√kiñcana": {
+    "meaning": "to be something, possession",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create possession",
+        "desiderative": "to wish for something"
+    }
+},
+
+"√kiñci": {
+    "meaning": "to be anything, something",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create something",
+        "desiderative": "to wish for anything"
+    }
+},
+
+"√kindati": {
+    "meaning": "to cut, tear",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause cutting",
+        "desiderative": "to wish to cut"
+    }
+},
+
+"√kinnara": {
+    "meaning": "to be mythical musician",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to create mythical musician",
+        "desiderative": "to wish to be mythical musician"
+    }
+},
+
+"√kira": {
+    "meaning": "to be indeed, truly",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to affirm",
+        "desiderative": "to wish to be truly"
+    }
+},
+
+"√kiraṇa": {
+    "meaning": "to be ray, beam",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to emit rays",
+        "desiderative": "to wish for beam"
+    }
+},
+
+"√kirāta": {
+    "meaning": "to be hunter, savage",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make hunter",
+        "desiderative": "to wish to be savage"
+    }
+},
+
+"√kiri": {
+    "meaning": "to scatter, strew",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause scattering",
+        "desiderative": "to wish to strew"
+    }
+},
+
+"√kiriya": {
+    "meaning": "to be action, performance",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create action",
+        "desiderative": "to wish for performance"
+    }
+},
+
+"√kiriyakriyā": {
+    "meaning": "to be functional action",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create functional action",
+        "desiderative": "to wish for functional action"
+    }
+},
+
+"√kīsa": {
+    "meaning": "to be thin, lean",
+    "semantic_field": "body",
+    "derivatives": {
+        "causative": "to make thin",
+        "desiderative": "to wish to be lean"
+    }
+},
+
+"√kisora": {
+    "meaning": "to be youth, youngster",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make youthful",
+        "desiderative": "to wish to be youngster"
+    }
+},
+
+"√kīṭa": {
+    "meaning": "to be insect, worm",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to breed insects",
+        "desiderative": "to wish to be worm"
+    }
+},
+
+"√kittaka": {
+    "meaning": "to be how much, how many",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to quantify",
+        "desiderative": "to wish to know how much"
+    }
+},
+
+"√kittana": {
+    "meaning": "to proclaim, make known",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to cause proclamation",
+        "desiderative": "to wish to proclaim"
+    }
+},
+
+"√kitti": {
+    "meaning": "to be fame, reputation",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to create fame",
+        "desiderative": "to wish for reputation"
+    }
+},
+
+"√kiva": {
+    "meaning": "to be how, in what way",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to show how",
+        "desiderative": "to wish to know how"
+    }
+},
+
+"√kīvadūra": {
+    "meaning": "to be how far",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to measure distance",
+        "desiderative": "to wish to know how far"
+    }
+},
+
+"√kīvan": {
+    "meaning": "to be how much, to what extent",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to measure extent",
+        "desiderative": "to wish to know how much"
+    }
+},
+
+"√kodhana": {
+    "meaning": "to be angry, wrathful",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to anger",
+        "desiderative": "to wish to be angry"
+    }
+},
+
+"√koḷāhala": {
+    "meaning": "to be uproar, tumult",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create uproar",
+        "desiderative": "to wish for tumult"
+    }
+},
+
+"√kolāpa": {
+    "meaning": "to be bundle, sheaf",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to bundle",
+        "desiderative": "to wish for sheaf"
+    }
+},
+
+"√komāra": {
+    "meaning": "to be youth, prince",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make youthful",
+        "desiderative": "to wish to be prince"
+    }
+},
+
+"√komudi": {
+    "meaning": "to be full moon festival",
+    "semantic_field": "time",
+    "derivatives": {
+        "causative": "to celebrate full moon",
+        "desiderative": "to wish for full moon festival"
+    }
+},
+
+"√koṇḍañña": {
+    "meaning": "to be Kondañña, first disciple",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make like Kondañña",
+        "desiderative": "to wish to be like first disciple"
+    }
+},
+
+"√kopa": {
+    "meaning": "to be anger, rage",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to enrage",
+        "desiderative": "to wish for anger"
+    }
+},
+
+"√kopina": {
+    "meaning": "to be loincloth",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to provide loincloth",
+        "desiderative": "to wish for loincloth"
+    }
+},
+
+"√korañca": {
+    "meaning": "to be curlew, crane",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make like curlew",
+        "desiderative": "to wish to be crane"
+    }
+},
+
+"√kosajja": {
+    "meaning": "to be lazy, slothful",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make lazy",
+        "desiderative": "to wish to be slothful"
+    }
+},
+
+"√kosala": {
+    "meaning": "to be skillful, clever",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make skillful",
+        "desiderative": "to wish to be clever"
+    }
+},
+
+"√kosambī": {
+    "meaning": "to be Kosambi city",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to establish Kosambi",
+        "desiderative": "to wish for Kosambi"
+    }
+},
+
+"√kosohita": {
+    "meaning": "to be deceitful, fraudulent",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make deceitful",
+        "desiderative": "to wish to be fraudulent"
+    }
+},
+
+"√koṭi": {
+    "meaning": "to be end, peak",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to reach peak",
+        "desiderative": "to wish for end"
+    }
+},
+
+"√koṭṭha": {
+    "meaning": "to be portion, share",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to portion out",
+        "desiderative": "to wish for share"
+    }
+},
+
+"√koṭṭhāsa": {
+    "meaning": "to be part, portion",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to divide into parts",
+        "desiderative": "to wish for portion"
+    }
+},
+
+"√kovida": {
+    "meaning": "to be skilled, learned",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make skilled",
+        "desiderative": "to wish to be learned"
+    }
+},
+
+"√kriyā": {
+    "meaning": "to be action, deed",
+    "semantic_field": "action",
+    "derivatives": {
+        "causative": "to create action",
+        "desiderative": "to wish for deed"
+    }
+},
+
+"√kruddha": {
+    "meaning": "to be angry, furious",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make angry",
+        "desiderative": "to wish to be furious"
+    }
+},
+
+"√kula": {
+    "meaning": "to be family, clan",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to establish family",
+        "desiderative": "to wish for clan"
+    }
+},
+
+"√kulaputta": {
+    "meaning": "to be son of good family",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make son of good family",
+        "desiderative": "to wish to be son of good family"
+    }
+},
+
+"√kulīna": {
+    "meaning": "to be of good family",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make of good family",
+        "desiderative": "to wish to be of good family"
+    }
+},
+
+"√kukkucca": {
+    "meaning": "to worry, feel remorse",
+    "semantic_field": "suffering",
+    "derivatives": {
+        "causative": "to cause worry",
+        "desiderative": "to wish to worry"
+    }
+},
+
+"√kukkuṭa": {
+    "meaning": "to be cock, rooster",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make like rooster",
+        "desiderative": "to wish to be cock"
+    }
+},
+
+"√kukkura": {
+    "meaning": "to be dog",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make dog-like",
+        "desiderative": "to wish to be dog"
+    }
+},
+
+"√kula": {
+    "meaning": "to be family, lineage",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to establish lineage",
+        "desiderative": "to wish for family"
+    }
+},
+
+"√kumbha": {
+    "meaning": "to be pot, jar",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make pot",
+        "desiderative": "to wish for jar"
+    }
+},
+
+"√kumbhakāra": {
+    "meaning": "to be potter",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make potter",
+        "desiderative": "to wish to be potter"
+    }
+},
+
+"√kumbhaṇḍa": {
+    "meaning": "to be pot-bellied demon",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make pot-bellied demon",
+        "desiderative": "to wish to be pot-bellied demon"
+    }
+},
+
+"√kumbhīla": {
+    "meaning": "to be crocodile",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make crocodile",
+        "desiderative": "to wish to be crocodile"
+    }
+},
+
+"√kumuda": {
+    "meaning": "to be white water lily",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to grow white water lily",
+        "desiderative": "to wish for white water lily"
+    }
+},
+
+"√kuñjara": {
+    "meaning": "to be elephant",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make elephant-like",
+        "desiderative": "to wish to be elephant"
+    }
+},
+
+"√kuntha": {
+    "meaning": "to be blunt, dull",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make blunt",
+        "desiderative": "to wish to be dull"
+    }
+},
+
+"√kupatha": {
+    "meaning": "to be wrong path",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create wrong path",
+        "desiderative": "to wish for wrong path"
+    }
+},
+
+"√kupita": {
+    "meaning": "to be angry, offended",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to offend",
+        "desiderative": "to wish to be angry"
+    }
+},
+
+"√kuppati": {
+    "meaning": "to be disturbed, shaken",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to disturb",
+        "desiderative": "to wish to be shaken"
+    }
+},
+
+"√kurarī": {
+    "meaning": "to be osprey, fish-hawk",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make like osprey",
+        "desiderative": "to wish to be fish-hawk"
+    }
+},
+
+"√kuruvinda": {
+    "meaning": "to be ruby",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create ruby",
+        "desiderative": "to wish for ruby"
+    }
+},
+
+"√kusa": {
+    "meaning": "to be sacred grass",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to grow sacred grass",
+        "desiderative": "to wish for sacred grass"
+    }
+},
+
+"√kusala": {
+    "meaning": "to be wholesome, skillful",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to make wholesome",
+        "desiderative": "to wish to be skillful"
+    }
+},
+
+"√kusalacetanā": {
+    "meaning": "to have wholesome intention",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to create wholesome intention",
+        "desiderative": "to wish for wholesome intention"
+    }
+},
+
+"√kusalakamma": {
+    "meaning": "to be wholesome action",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to create wholesome action",
+        "desiderative": "to wish for wholesome action"
+    }
+},
+
+"√kusalakriyā": {
+    "meaning": "to perform wholesome action",
+    "semantic_field": "ethics",
+    "derivatives": {
+        "causative": "to cause wholesome performance",
+        "desiderative": "to wish to perform wholesome action"
+    }
+},
+
+"√kusinārā": {
+    "meaning": "to be Kusinara city",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to establish Kusinara",
+        "desiderative": "to wish for Kusinara"
+    }
+},
+
+"√kusīta": {
+    "meaning": "to be lazy, indolent",
+    "semantic_field": "mind",
+    "derivatives": {
+        "causative": "to make lazy",
+        "desiderative": "to wish to be indolent"
+    }
+},
+
+"√kuṭa": {
+    "meaning": "to be peak, summit",
+    "semantic_field": "nature",
+    "derivatives": {
+        "causative": "to create peak",
+        "desiderative": "to wish for summit"
+    }
+},
+
+"√kuṭhārī": {
+    "meaning": "to be axe, hatchet",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to provide axe",
+        "desiderative": "to wish for hatchet"
+    }
+},
+
+"√kuṭi": {
+    "meaning": "to be hut, small dwelling",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to build hut",
+        "desiderative": "to wish for small dwelling"
+    }
+},
+
+"√kuṭila": {
+    "meaning": "to be crooked, dishonest",
+    "semantic_field": "qualities",
+    "derivatives": {
+        "causative": "to make crooked",
+        "desiderative": "to wish to be dishonest"
+    }
+},
+
+"√kuṭumba": {
+    "meaning": "to be household, family",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to establish household",
+        "desiderative": "to wish for family"
+    }
+},
+
+"√kutta": {
+    "meaning": "to be where, at what place",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to locate",
+        "desiderative": "to wish to know where"
+    }
+},
+
+"√kuto": {
+    "meaning": "to be from where, whence",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to trace origin",
+        "desiderative": "to wish to know whence"
+    }
+},
+
+"√kuva": {
+    "meaning": "to be where, in what place",
+    "semantic_field": "space",
+    "derivatives": {
+        "causative": "to place",
+        "desiderative": "to wish to know where"
+    }
+},
+
+"√kuvera": {
+    "meaning": "to be god of wealth",
+    "semantic_field": "beings",
+    "derivatives": {
+        "causative": "to make like Kuvera",
+        "desiderative": "to wish to be god of wealth"
+    }
+}
+}
+
 
 
 
