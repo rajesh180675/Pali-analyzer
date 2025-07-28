@@ -1,4 +1,4 @@
-{
+PALI_BASE_WORDS = {
     "abhidhamma": {
         "primary": "higher teaching, systematic philosophy",
         "senses": {
