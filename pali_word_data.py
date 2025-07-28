@@ -1538,7 +1538,7 @@ PALI_BASE_WORDS = {
         "semantic_field": "meditation",
         "register": "formal"
     },
-    #body parts
+   
     "akhi": {
         "primary": "eye, organ of sight",
         "senses": {
@@ -2198,7 +2198,7 @@ PALI_BASE_WORDS = {
         "semantic_field": "body",
         "register": "technical"
     },
-    # NATURAL PHENOMENA - COMPREHENSIVE
+    
     "abbha": {
         "primary": "cloud, vapor, mist",
         "senses": {
@@ -2715,7 +2715,7 @@ PALI_BASE_WORDS = {
         "semantic_field": "nature",
         "register": "common"
     },
-    #VERBS OF MOTION - COMPREHENSIVE
+    
     "abhikkama": {
         "primary": "advances, goes forward, approaches",
         "senses": {
@@ -3650,7 +3650,7 @@ PALI_BASE_WORDS = {
         "semantic_field": "action",
         "register": "formal"
     },
-    #MENTAL STATES - COMPREHENSIVE
+   
     "abhijjha": {
         "primary": "covetousness, desire, longing",
         "senses": {
@@ -4398,7 +4398,7 @@ PALI_BASE_WORDS = {
         "semantic_field": "mind",
         "register": "technical"
     },
-    #TIME EXPRESSIONS - COMPREHENSIVE
+    
     "acarima": {
         "primary": "recent, latest, just past",
         "senses": {
@@ -5036,7 +5036,7 @@ PALI_BASE_WORDS = {
         "semantic_field": "time",
         "register": "formal"
     },
-    #7. NUMBERS - COMPREHENSIVE (up to 1000)
+   
     "eka": {
         "primary": "one, single, sole",
         "senses": {
@@ -6288,8 +6288,8 @@ PALI_BASE_WORDS = {
         },
         "semantic_field": "quantities",
         "register": "formal"
-    }.
-    #. COLORS - COMPREHENSIVE
+    },
+   
     "aloka": {
         "primary": "light, bright, illuminated",
         "senses": {
@@ -6575,7 +6575,7 @@ PALI_BASE_WORDS = {
         "semantic_field": "qualities",
         "register": "formal"
     },
-    #ANIMALS - COMPREHENSIVE
+  
     "aja": {
         "primary": "goat, he-goat",
         "senses": {
