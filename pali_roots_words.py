@@ -1,4 +1,4 @@
- {
+PALI_ROOTS={
     "√as": {
       "meaning": "to be, exist",
       "type": "primary",
